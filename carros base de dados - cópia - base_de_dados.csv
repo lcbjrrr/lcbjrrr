@@ -1,0 +1,2500 @@
+Index, Preço ,Marca,Modelo,Ano,Status do veículo,Milhas,Cor,Estado,País
+0," $ 6,300.00 ",toyota,cruiser,2008,clean vehicle,274117,black,new jersey, usa
+1," $ 2,899.00 ",ford,se,2011,clean vehicle,190552,silver,tennessee, usa
+2," $ 5,350.00 ",dodge,mpv,2018,clean vehicle,39590,silver,georgia, usa
+3," $ 25,000.00 ",ford,door,2014,clean vehicle,64146,blue,virginia, usa
+4," $ 27,700.00 ",chevrolet,1500,2018,clean vehicle,6654,red,florida, usa
+5," $ 5,700.00 ",dodge,mpv,2018,clean vehicle,45561,white,texas, usa
+6," $ 7,300.00 ",chevrolet,pk,2010,clean vehicle,149050,black,georgia, usa
+7," $ 13,350.00 ",gmc,door,2017,clean vehicle,23525,gray,california, usa
+8," $ 14,600.00 ",chevrolet,malibu,2018,clean vehicle,9371,silver,florida, usa
+9," $ 5,250.00 ",ford,mpv,2017,clean vehicle,63418,black,texas, usa
+10," $ 10,400.00 ",dodge,coupe,2009,clean vehicle,107856,orange,georgia, usa
+11," $ 12,920.00 ",gmc,mpv,2017,clean vehicle,39650,white,california, usa
+12," $ 31,900.00 ",chevrolet,1500,2018,clean vehicle,22909,black,tennessee, usa
+13," $ 5,430.00 ",chrysler,wagon,2017,clean vehicle,138650,gray,texas, usa
+14," $ 20,700.00 ",ford,door,2013,clean vehicle,100757,black,virginia, usa
+15," $ 12,710.00 ",gmc,door,2017,clean vehicle,25747,white,california, usa
+16," $ 5,200.00 ",kia,forte,2018,clean vehicle,46194,blue,north carolina, usa
+17," $ 16,500.00 ",buick,encore,2018,clean vehicle,20002,red,tennessee, usa
+18," $ 5,210.00 ",ford,mpv,2017,clean vehicle,35714,white,texas, usa
+19," $ 38,100.00 ",ford,door,2013,clean vehicle,54380,gray,virginia, usa
+20," $ 12,520.00 ",gmc,door,2017,clean vehicle,30114,white,california, usa
+21," $ 7,300.00 ",kia,forte,2018,clean vehicle,38823,black,north carolina, usa
+22," $ 15,000.00 ",chevrolet,door,2015,clean vehicle,61578,black,ohio, usa
+23," $ 6,180.00 ",ford,mpv,2017,clean vehicle,46010,blue,texas, usa
+24," $ 20,800.00 ",ford,door,2013,clean vehicle,105510,silver,virginia, usa
+25," $ 11,900.00 ",gmc,door,2017,clean vehicle,28040,silver,california, usa
+26," $ 21,500.00 ",kia,sorento,2020,clean vehicle,11451,blue,north carolina, usa
+27," $ 12,000.00 ",buick,door,2014,clean vehicle,31039,brown,ohio, usa
+28," $ 4,190.00 ",ford,doors,2017,clean vehicle,44174,white,texas, usa
+29," $ 13,000.00 ",ford,chassis,2008,clean vehicle,93698,white,tennessee, usa
+30," $ 12,710.00 ",gmc,door,2017,clean vehicle,26364,silver,california, usa
+31," $ 18,500.00 ",infiniti,q70,2016,clean vehicle,71967,gray,new york, usa
+32," $ 29,800.00 ",chevrolet,camaro,1973,clean vehicle,46226,red,pennsylvania, usa
+33," $ 5,330.00 ",ford,mpv,2017,clean vehicle,37792,no_color,texas, usa
+34," $ 13,000.00 ",ford,convertible,2003,clean vehicle,58817,gray,virginia, usa
+35," $ 11,900.00 ",gmc,door,2017,clean vehicle,27965,black,california, usa
+36," $ 16,600.00 ",mercedes-benz,vans,2016,clean vehicle,110907,white,new york, usa
+37," $ 19,200.00 ",chevrolet,1500,2018,clean vehicle,2430,white,tennessee, usa
+38," $ 7,320.00 ",ford,mpv,2017,clean vehicle,32366,gold,texas, usa
+39," $ 7,000.00 ",ford,pk,2003,clean vehicle,176567,white,tennessee, usa
+40," $ 12,710.00 ",gmc,door,2017,clean vehicle,30049,white,california, usa
+41," $ 16,600.00 ",mercedes-benz,vans,2016,clean vehicle,97983,white,new york, usa
+42," $ 30,500.00 ",chevrolet,1500,2018,clean vehicle,30442,red,tennessee, usa
+43," $ 6,330.00 ",ford,mpv,2017,clean vehicle,38123,red,texas, usa
+44," $ 55,000.00 ",ford,srw,2017,clean vehicle,15273,black,pennsylvania, usa
+45," $ 12,520.00 ",gmc,door,2017,clean vehicle,28972,black,california, usa
+46," $ 16,200.00 ",jeep,compass,2019,clean vehicle,30061,red,north carolina, usa
+47," $ 19,000.00 ",chevrolet,malibu,2017,clean vehicle,18414,white,tennessee, usa
+48," $ 5,580.00 ",dodge,mpv,2017,clean vehicle,46829,gray,texas, usa
+49," $ 54,000.00 ",ford,srw,2017,clean vehicle,26241,black,pennsylvania, usa
+50," $ 12,710.00 ",gmc,mpv,2017,clean vehicle,39886,red,california, usa
+51," $ 16,000.00 ",jeep,compass,2019,clean vehicle,31594,silver,north carolina, usa
+52," $ 27,000.00 ",buick,enclave,2017,clean vehicle,32107,no_color,tennessee, usa
+53," $ 7,760.00 ",ford,mpv,2017,clean vehicle,44794,gray,texas, usa
+54," $ 19,600.00 ",chrysler,300,2019,clean vehicle,42648,gray,south carolina, usa
+55," $ 12,920.00 ",gmc,mpv,2017,clean vehicle,39165,silver,california, usa
+56," $ 20,000.00 ",jeep,cherokee,2019,clean vehicle,38355,charcoal,north carolina, usa
+57," $ 18,100.00 ",buick,door,2017,clean vehicle,46766,silver,florida, usa
+58," $ 23,000.00 ",chrysler,pacifica,2020,clean vehicle,2473,white,ohio, usa
+59," $ 18,500.00 ",chrysler,300,2019,clean vehicle,38586,gray,south carolina, usa
+60," $ 13,490.00 ",gmc,door,2017,clean vehicle,27842,white,california, usa
+61," $ 20,700.00 ",jeep,cherokee,2019,clean vehicle,31156,white,north carolina, usa
+62," $ 17,800.00 ",chevrolet,door,2017,clean vehicle,52435,black,florida, usa
+63," $ 6,650.00 ",ford,door,2017,clean vehicle,29942,black,texas, usa
+64," $ 29,100.00 ",chrysler,pacifica,2019,clean vehicle,25281,red,south carolina, usa
+65," $ 12,710.00 ",gmc,door,2017,clean vehicle,32504,silver,california, usa
+66," $ 21,100.00 ",jeep,cherokee,2019,clean vehicle,28649,silver,north carolina, usa
+67," $ 18,600.00 ",chevrolet,door,2017,clean vehicle,35200,white,florida, usa
+68," $ 4,340.00 ",ford,door,2017,clean vehicle,25602,silver,texas, usa
+69," $ 19,300.00 ",chrysler,300,2019,clean vehicle,34801,gray,south carolina, usa
+70," $ 12,780.00 ",gmc,door,2017,clean vehicle,31009,black,california, usa
+71," $ 15,800.00 ",jeep,compass,2019,clean vehicle,35595,charcoal,north carolina, usa
+72," $ 29,400.00 ",bmw,x3,2017,clean vehicle,23765,black,tennessee, usa
+73," $ 4,430.00 ",ford,door,2017,clean vehicle,31792,black,texas, usa
+74," $ 19,400.00 ",chrysler,300,2019,clean vehicle,33135,gray,south carolina, usa
+75," $ 12,520.00 ",gmc,door,2017,clean vehicle,30636,red,california, usa
+76," $ 15,900.00 ",jeep,compass,2019,clean vehicle,34502,red,north carolina, usa
+77," $ 26,400.00 ",buick,door,2017,clean vehicle,25434,white,florida, usa
+78," $ 4,140.00 ",ford,door,2017,clean vehicle,36732,black,texas, usa
+79," $ 18,300.00 ",chrysler,300,2019,clean vehicle,41792,gray,south carolina, usa
+80," $ 12,520.00 ",gmc,door,2017,clean vehicle,31992,black,california, usa
+81," $ 17,900.00 ",jeep,compass,2019,clean vehicle,32501,red,north carolina, usa
+82," $ 18,300.00 ",chevrolet,camaro,2017,clean vehicle,28395,black,florida, usa
+83," $ 4,640.00 ",ford,door,2017,clean vehicle,36139,blue,texas, usa
+84," $ 24,000.00 ",ford,door,2016,clean vehicle,84413,black,pennsylvania, usa
+85," $ 13,200.00 ",gmc,door,2017,clean vehicle,33457,white,california, usa
+86," $ 18,000.00 ",jeep,compass,2019,clean vehicle,29245,gray,north carolina, usa
+87," $ 14,900.00 ",chevrolet,equinox,2017,clean vehicle,12783,silver,florida, usa
+88," $ 4,140.00 ",ford,door,2017,clean vehicle,17617,white,texas, usa
+89," $ 11,500.00 ",ford,door,2016,clean vehicle,36855,black,pennsylvania, usa
+90," $ 9,110.00 ",ford,door,2017,clean vehicle,110316,white,texas, usa
+91," $ 7,350.00 ",chrysler,door,2015,clean vehicle,88227,black,pennsylvania, usa
+92," $ 24,500.00 ",bmw,door,2017,clean vehicle,17626,gray,michigan, usa
+93," $ 9,300.00 ",ford,door,2017,clean vehicle,120353,white,texas, usa
+94," $ 39,800.00 ",dodge,challenger,2015,clean vehicle,3641,white,pennsylvania, usa
+95," $ 53,500.00 ",bmw,m,2017,clean vehicle,29355,blue,michigan, usa
+96," $ 15,110.00 ",ford,door,2017,clean vehicle,39333,black,texas, usa
+97," $ 34,000.00 ",ford,door,2015,clean vehicle,42930,white,pennsylvania, usa
+98," $ 26,502.00 ",chevrolet,colorado,2017,clean vehicle,24993,black,michigan, usa
+99," $ 5,990.00 ",ford,mpv,2017,clean vehicle,44929,black,texas, usa
+100," $ 13,600.00 ",ford,focus,2018,clean vehicle,16971,black,south carolina, usa
+101," $ 23,605.00 ",cadillac,door,2017,clean vehicle,35598,gray,michigan, usa
+102," $ 10,780.00 ",ford,mpv,2017,clean vehicle,40455,white,texas, usa
+103," $ 13,800.00 ",ford,focus,2018,clean vehicle,23164,white,south carolina, usa
+104," $ 25,201.00 ",cadillac,door,2017,clean vehicle,19011,no_color,michigan, usa
+105," $ 7,070.00 ",ford,mpv,2017,clean vehicle,45191,white,texas, usa
+106," $ 8,700.00 ",ford,focus,2018,clean vehicle,21405,white,south carolina, usa
+107," $ 18,003.00 ",chevrolet,malibu,2017,clean vehicle,19117,no_color,michigan, usa
+108," $ 8,530.00 ",ford,door,2017,clean vehicle,42104,black,texas, usa
+109," $ 23,100.00 ",dodge,durango,2018,clean vehicle,49496,white,south carolina, usa
+110," $ 24,500.00 ",cadillac,door,2017,clean vehicle,32418,white,michigan, usa
+111," $ 7,000.00 ",ford,mpv,2017,clean vehicle,29882,white,texas, usa
+112," $ 17,000.00 ",ford,escape,2018,clean vehicle,34819,gold,south carolina, usa
+113," $ 34,002.00 ",chevrolet,1500,2017,clean vehicle,31923,white,michigan, usa
+114," $ 6,980.00 ",ford,mpv,2017,clean vehicle,29168,gray,texas, usa
+115," $ 25,000.00 ",dodge,charger,2018,clean vehicle,28307,silver,michigan, usa
+116," $ 20,802.00 ",chevrolet,colorado,2017,clean vehicle,33791,turquoise,michigan, usa
+117," $ 9,200.00 ",ford,door,2017,clean vehicle,21770,black,texas, usa
+118," $ 26,500.00 ",chrysler,pacifica,2017,clean vehicle,18375,gray,michigan, usa
+119," $ 24,802.00 ",chevrolet,colorado,2017,clean vehicle,14158,gray,michigan, usa
+120," $ 7,070.00 ",ford,mpv,2017,clean vehicle,30318,black,texas, usa
+121," $ 28,500.00 ",ford,door,2017,clean vehicle,48086,red,south carolina, usa
+122," $ 47,500.00 ",cadillac,door,2017,clean vehicle,26562,black,michigan, usa
+123," $ 23,500.00 ",ford,explorer,2017,clean vehicle,57611,black,south carolina, usa
+124," $ 23,505.00 ",chevrolet,colorado,2017,clean vehicle,47357,black,michigan, usa
+125," $ 10,940.00 ",ford,door,2017,clean vehicle,84916,white,texas, usa
+126," $ 32,100.00 ",ford,f-150,2017,clean vehicle,24521,gray,south carolina, usa
+127," $ 53,000.00 ",chevrolet,3500,2018,clean vehicle,16105,black,washington, usa
+128," $ 6,830.00 ",ford,mpv,2017,clean vehicle,35888,gold,texas, usa
+129," $ 11,900.00 ",dodge,caravan,2017,clean vehicle,59537,gray,south carolina, usa
+130," $ 26,414.00 ",chevrolet,1500,2017,clean vehicle,55222,black,michigan, usa
+131," $ 4,160.00 ",dodge,mpv,2018,clean vehicle,32870,gray,florida, usa
+132," $ 19,405.00 ",chevrolet,door,2017,clean vehicle,39687,silver,michigan, usa
+133," $ 5,690.00 ",dodge,mpv,2018,clean vehicle,47085,silver,florida, usa
+134," $ 25,900.00 ",chrysler,van,2017,clean vehicle,32224,silver,south carolina, usa
+135," $ 24,005.00 ",chevrolet,1500,2017,clean vehicle,51293,beige,michigan, usa
+136," $ 5,090.00 ",dodge,mpv,2018,clean vehicle,42989,gray,florida, usa
+137," $ 19,500.00 ",chrysler,300,2017,clean vehicle,31311,gray,arizona, usa
+138," $ 32,012.00 ",chevrolet,1500,2017,clean vehicle,46091,white,michigan, usa
+139," $ 6,800.00 ",dodge,dart,2016,clean vehicle,49033,black,michigan, usa
+140," $ 4,260.00 ",dodge,mpv,2018,clean vehicle,33957,gray,florida, usa
+141, $ -   ,dodge,van,2008,salvage insurance,177948,orange,utah, usa
+142," $ 31,802.00 ",chevrolet,2500,2017,clean vehicle,19845,silver,michigan, usa
+143," $ 7,210.00 ",dodge,doors,2018,clean vehicle,38910,black,florida, usa
+144, $ -   ,dodge,door,2014,salvage insurance,123660,silver,utah, usa
+145," $ 28,402.00 ",chevrolet,1500,2017,clean vehicle,31234,black,michigan, usa
+146," $ 6,800.00 ",dodge,doors,2018,clean vehicle,36767,gray,florida, usa
+147," $ 33,300.00 ",cadillac,esv,2015,clean vehicle,57932,gray,washington, usa
+148," $ 10,780.00 ",dodge,mpv,2018,clean vehicle,19420,white,florida, usa
+149," $ 6,700.00 ",ford,cutaway,2014,clean vehicle,204155,beige,pennsylvania, usa
+150," $ 20,000.00 ",chevrolet,1500,2016,clean vehicle,93493,white,washington, usa
+151," $ 6,440.00 ",chrysler,doors,2018,clean vehicle,20942,gray,florida, usa
+152," $ 19,900.00 ",ford,door,2016,clean vehicle,86826,gray,south carolina, usa
+153," $ 37,000.00 ",chevrolet,door,2015,clean vehicle,45787,white,washington, usa
+154," $ 4,040.00 ",dodge,mpv,2018,clean vehicle,50765,red,florida, usa
+155," $ 22,300.00 ",ford,explorer,2016,clean vehicle,62774,black,south carolina, usa
+156," $ 31,200.00 ",chevrolet,door,2011,clean vehicle,76326,gray,washington, usa
+157," $ 4,290.00 ",dodge,mpv,2018,clean vehicle,39029,white,florida, usa
+158," $ 22,800.00 ",ford,el,2016,clean vehicle,72885,silver,south carolina, usa
+159," $ 19,002.00 ",cadillac,door,2016,clean vehicle,46467,white,michigan, usa
+160," $ 4,160.00 ",dodge,mpv,2018,clean vehicle,6743,gray,florida, usa
+161," $ 18,500.00 ",ford,edge,2016,clean vehicle,33514,white,south carolina, usa
+162," $ 39,000.00 ",bmw,series,2016,clean vehicle,39917,blue,michigan, usa
+163," $ 6,060.00 ",dodge,doors,2018,clean vehicle,32504,black,florida, usa
+164," $ 28,800.00 ",ford,door,2016,clean vehicle,77638,white,south carolina, usa
+165," $ 40,000.00 ",bmw,series,2016,clean vehicle,31727,gray,michigan, usa
+166," $ 6,140.00 ",dodge,doors,2018,clean vehicle,52966,silver,florida, usa
+167," $ 21,000.00 ",ford,flex,2016,clean vehicle,24157,gray,south carolina, usa
+168," $ 20,105.00 ",buick,door,2016,clean vehicle,51393,beige,michigan, usa
+169," $ 6,760.00 ",dodge,doors,2018,clean vehicle,35461,white,florida, usa
+170," $ 25,800.00 ",ford,door,2014,clean vehicle,47055,brown,pennsylvania, usa
+171," $ 39,000.00 ",bmw,series,2016,clean vehicle,33110,black,michigan, usa
+172," $ 5,470.00 ",dodge,mpv,2018,clean vehicle,39721,black,florida, usa
+173," $ 14,600.00 ",ford,door,2014,clean vehicle,75785,black,pennsylvania, usa
+174," $ 24,502.00 ",chevrolet,1500,2016,clean vehicle,33624,black,michigan, usa
+175," $ 15,110.00 ",ford,door,2017,clean vehicle,42289,white,texas, usa
+176," $ 7,900.00 ",ford,door,2014,clean vehicle,79422,white,new york, usa
+177," $ 27,305.00 ",chevrolet,door,2016,clean vehicle,28844,blue,michigan, usa
+178," $ 15,290.00 ",ford,door,2017,clean vehicle,66582,white,texas, usa
+179," $ 26,500.00 ",ford,door,2015,clean vehicle,61436,silver,south carolina, usa
+180," $ 25,502.00 ",chevrolet,door,2016,clean vehicle,58303,silver,michigan, usa
+181," $ 7,320.00 ",ford,mpv,2017,clean vehicle,55618,white,texas, usa
+182," $ 3,800.00 ",chevrolet,van,2009,clean vehicle,261648,white,michigan, usa
+183," $ 24,502.00 ",chevrolet,door,2016,clean vehicle,33045,white,michigan, usa
+184," $ 4,140.00 ",ford,door,2017,clean vehicle,40747,white,texas, usa
+185," $ 1,400.00 ",dodge,pk,2002,clean vehicle,185460,black,michigan, usa
+186," $ 18,402.00 ",cadillac,srx,2016,clean vehicle,26667,gray,michigan, usa
+187," $ 4,160.00 ",ford,door,2017,clean vehicle,37176,white,texas, usa
+188, $ 175.00 ,chrysler,door,2000,salvage insurance,231240,red,north carolina, usa
+189," $ 24,503.00 ",chevrolet,colorado,2016,clean vehicle,18006,brown,michigan, usa
+190," $ 15,840.00 ",ford,door,2017,clean vehicle,72445,white,texas, usa
+191," $ 20,500.00 ",ford,door,2014,clean vehicle,123355,black,south carolina, usa
+192," $ 21,003.00 ",chevrolet,1500,2016,clean vehicle,44116,silver,michigan, usa
+193," $ 4,200.00 ",ford,door,2017,clean vehicle,60219,red,texas, usa
+194," $ 17,400.00 ",ford,door,2011,clean vehicle,135077,red,georgia, usa
+195," $ 32,001.00 ",chevrolet,door,2016,clean vehicle,32058,black,michigan, usa
+196, $ -   ,ford,mpv,2017,clean vehicle,76858,white,texas, usa
+197," $ 15,700.00 ",ford,cab,2011,clean vehicle,309564,white,south carolina, usa
+198," $ 31,009.00 ",chevrolet,door,2016,clean vehicle,33928,white,michigan, usa
+199," $ 3,740.00 ",ford,wagon,2017,clean vehicle,90618,white,texas, usa
+200," $ 5,000.00 ",dodge,pickup,2001,clean vehicle,109360,white,georgia, usa
+201," $ 31,002.00 ",chevrolet,door,2016,clean vehicle,71809,white,michigan, usa
+202," $ 3,160.00 ",ford,doors,2017,clean vehicle,31563,gray,texas, usa
+203," $ 8,600.00 ",dodge,pickup,2005,clean vehicle,219823,gray,south carolina, usa
+204," $ 6,000.00 ",chevrolet,malibu,2018,clean vehicle,42090,gray,texas, usa
+205," $ 12,990.00 ",ford,door,2017,clean vehicle,126523,white,texas, usa
+206, $ 25.00 ,chevrolet,vehicl,2020,salvage insurance,7232,black,kentucky, usa
+207," $ 13,200.00 ",buick,encore,2017,clean vehicle,60171,black,texas, usa
+208," $ 4,410.00 ",ford,wagon,2017,clean vehicle,209915,white,texas, usa
+209, $ 25.00 ,chrysler,door,2005,salvage insurance,151815,silver,massachusetts, usa
+210," $ 22,500.00 ",chevrolet,camaro,2020,clean vehicle,13826,green,georgia, usa
+211," $ 7,420.00 ",ford,mpv,2017,clean vehicle,55854,white,texas, usa
+212," $ 13,500.00 ",ford,door,2016,clean vehicle,45757,silver,arizona, usa
+213," $ 15,500.00 ",chevrolet,trax,2020,clean vehicle,16545,white,georgia, usa
+214," $ 3,540.00 ",ford,door,2017,clean vehicle,112893,white,texas, usa
+215," $ 17,000.00 ",ford,door,2016,clean vehicle,126802,no_color,florida, usa
+216," $ 45,500.00 ",chevrolet,tahoe,2020,clean vehicle,13303,white,georgia, usa
+217," $ 4,130.00 ",ford,door,2017,clean vehicle,34061,silver,texas, usa
+218," $ 15,700.00 ",ford,door,2015,clean vehicle,70251,white,arizona, usa
+219," $ 45,500.00 ",chevrolet,tahoe,2020,clean vehicle,13679,gray,georgia, usa
+220," $ 4,130.00 ",ford,doors,2017,clean vehicle,42426,gray,texas, usa
+221," $ 15,500.00 ",dodge,door,2012,clean vehicle,66452,black,pennsylvania, usa
+222," $ 16,300.00 ",chevrolet,trax,2020,clean vehicle,18221,white,georgia, usa
+223," $ 4,530.00 ",ford,mpv,2017,clean vehicle,41455,white,texas, usa
+224," $ 15,600.00 ",dodge,door,2011,clean vehicle,35275,black,pennsylvania, usa
+225," $ 45,500.00 ",chevrolet,tahoe,2020,clean vehicle,13885,white,georgia, usa
+226," $ 4,100.00 ",ford,door,2017,clean vehicle,38815,gray,texas, usa
+227," $ 18,200.00 ",dodge,door,2011,clean vehicle,162281,white,pennsylvania, usa
+228," $ 10,200.00 ",chevrolet,door,2013,clean vehicle,56479,black,texas, usa
+229," $ 4,080.00 ",ford,doors,2017,clean vehicle,61027,black,texas, usa
+230," $ 5,700.00 ",ford,van,2014,clean vehicle,178703,white,florida, usa
+231," $ 10,200.00 ",chevrolet,3500,2014,clean vehicle,173469,white,texas, usa
+232," $ 5,000.00 ",ford,door,2017,clean vehicle,37321,white,texas, usa
+233," $ 1,700.00 ",ford,door,2014,clean vehicle,112789,white,florida, usa
+234," $ 6,200.00 ",bmw,door,2011,clean vehicle,80394,gray,texas, usa
+235," $ 3,650.00 ",ford,door,2016,clean vehicle,68142,white,texas, usa
+236," $ 10,500.00 ",dodge,door,2014,clean vehicle,74203,white,arizona, usa
+237," $ 43,500.00 ",chevrolet,2500,2018,clean vehicle,57604,white,georgia, usa
+238," $ 4,610.00 ",dodge,van,2016,clean vehicle,87229,silver,texas, usa
+239," $ 3,450.00 ",ford,door,2012,clean vehicle,90711,white,florida, usa
+240," $ 38,500.00 ",chevrolet,suburban,2018,clean vehicle,11135,silver,georgia, usa
+241," $ 6,810.00 ",ford,mpv,2016,clean vehicle,66781,silver,texas, usa
+242," $ 2,900.00 ",ford,cargo,2011,clean vehicle,190994,white,florida, usa
+243," $ 43,500.00 ",chevrolet,2500,2018,clean vehicle,56007,white,georgia, usa
+244," $ 4,450.00 ",ford,mpv,2016,clean vehicle,32486,white,texas, usa
+245," $ 5,800.00 ",ford,door,2011,clean vehicle,195908,white,florida, usa
+246," $ 16,500.00 ",chevrolet,equinox,2018,clean vehicle,18020,silver,georgia, usa
+247," $ 4,240.00 ",dodge,mpv,2016,clean vehicle,83262,white,texas, usa
+248," $ 26,500.00 ",ford,pickup,2008,clean vehicle,62015,white,pennsylvania, usa
+249," $ 13,700.00 ",chevrolet,equinox,2017,clean vehicle,36421,silver,georgia, usa
+250," $ 8,600.00 ",ford,door,2016,clean vehicle,73321,white,texas, usa
+251," $ 8,000.00 ",ford,chassis,2008,clean vehicle,132379,white,florida, usa
+252," $ 14,200.00 ",chevrolet,equinox,2017,clean vehicle,28013,silver,georgia, usa
+253," $ 7,040.00 ",ford,mpv,2016,clean vehicle,33291,silver,texas, usa
+254," $ 4,700.00 ",ford,chassis,2005,clean vehicle,225236,no_color,florida, usa
+255," $ 30,851.00 ",chevrolet,door,2016,clean vehicle,43176,red,georgia, usa
+256," $ 4,880.00 ",ford,mpv,2016,clean vehicle,36876,silver,texas, usa
+257," $ 14,500.00 ",dodge,pickup,2006,clean vehicle,111782,silver,pennsylvania, usa
+258," $ 7,600.00 ",chevrolet,door,2017,clean vehicle,110489,brown,nebraska, usa
+259," $ 13,270.00 ",ford,door,2016,clean vehicle,84035,white,texas, usa
+260," $ 12,800.00 ",ford,door,2012,clean vehicle,131101,gray,arizona, usa
+261," $ 33,000.00 ",chevrolet,1500,2018,clean vehicle,52521,white,ontario, canada
+262," $ 9,280.00 ",ford,door,2016,clean vehicle,101380,white,texas, usa
+263, $ 900.00 ,ford,van,2003,clean vehicle,142027,white,florida, usa
+264," $ 7,560.00 ",ford,door,2016,clean vehicle,111476,gray,texas, usa
+265," $ 19,500.00 ",ford,drw,2011,clean vehicle,76897,white,pennsylvania, usa
+266," $ 17,100.00 ",chevrolet,malibu,2019,clean vehicle,15780,white,washington, usa
+267," $ 8,020.00 ",ford,door,2016,clean vehicle,31944,white,texas, usa
+268," $ 10,300.00 ",ford,fiesta,2019,clean vehicle,18937,black,missouri, usa
+269," $ 22,600.00 ",chevrolet,van,2019,clean vehicle,9706,white,washington, usa
+270," $ 10,480.00 ",ford,doors,2016,clean vehicle,57289,gray,texas, usa
+271," $ 10,300.00 ",ford,fiesta,2019,clean vehicle,19956,silver,missouri, usa
+272," $ 22,700.00 ",chevrolet,van,2019,clean vehicle,6075,white,washington, usa
+273," $ 7,410.00 ",ford,door,2016,clean vehicle,21034,gray,texas, usa
+274," $ 10,300.00 ",ford,fiesta,2019,clean vehicle,22881,gray,missouri, usa
+275," $ 10,300.00 ",chevrolet,door,2013,clean vehicle,167600,gray,washington, usa
+276," $ 7,570.00 ",ford,door,2016,clean vehicle,37252,white,texas, usa
+277," $ 67,000.00 ",dodge,challenger,2019,clean vehicle,10944,blue,ohio, usa
+278," $ 18,900.00 ",chevrolet,impala,2019,clean vehicle,27601,white,texas, usa
+279," $ 12,560.00 ",ford,doors,2019,clean vehicle,15958,white,florida, usa
+280," $ 33,000.00 ",dodge,durango,2019,clean vehicle,32251,white,ohio, usa
+281," $ 18,300.00 ",chevrolet,impala,2019,clean vehicle,25809,black,texas, usa
+282," $ 11,760.00 ",ford,cab,2017,clean vehicle,30553,white,texas, usa
+283," $ 31,700.00 ",dodge,durango,2019,clean vehicle,26549,red,ohio, usa
+284, $ 25.00 ,dodge,door,2007,salvage insurance,160528,dark blue,minnesota, usa
+285, $ -   ,ford,door,2000,salvage insurance,124969,black,oklahoma, usa
+286," $ 7,340.00 ",ford,doors,2019,clean vehicle,15854,gray,florida, usa
+287," $ 8,200.00 ",hyundai,door,2017,clean vehicle,56690,white,connecticut, usa
+288," $ 3,000.00 ",kia,door,2013,clean vehicle,97142,silver,missouri, usa
+289," $ 6,530.00 ",jeep,mpv,2019,clean vehicle,10185,black,georgia, usa
+290, $ -   ,mazda,door,2009,salvage insurance,117541,gray,indiana, usa
+291," $ 12,700.00 ",kia,soul,2019,clean vehicle,23514,silver,california, usa
+292," $ 13,800.00 ",kia,sorento,2017,clean vehicle,86959,gray,north carolina, usa
+293, $ -   ,chevrolet,pickup,1998,salvage insurance,258631,gray,texas, usa
+294, $ 725.00 ,ford,door,2017,salvage insurance,67279,gray,virginia, usa
+295," $ 7,400.00 ",ford,doors,2019,clean vehicle,16482,gray,florida, usa
+296," $ 9,800.00 ",hyundai,elantra,2017,clean vehicle,35687,red,connecticut, usa
+297, $ -   ,honda,door,2003,salvage insurance,152608,white,arkansas, usa
+298," $ 4,400.00 ",jeep,mpv,2019,clean vehicle,17911,green,georgia, usa
+299," $ 10,330.00 ",infiniti,mpv,2019,clean vehicle,21278,blue,florida, usa
+300," $ 1,800.00 ",chevrolet,door,2011,salvage insurance,47269,black,arkansas, usa
+301, $ 50.00 ,chevrolet,door,2008,salvage insurance,172102,blue,texas, usa
+302, $ 720.00 ,ford,wagon,2006,clean vehicle,26914,no_color,florida, usa
+303," $ 22,800.00 ",ford,door,2017,clean vehicle,67217,red,michigan, usa
+304," $ 2,500.00 ",ford,door,2017,salvage insurance,78698,black,california, usa
+305, $ -   ,ford,door,2003,salvage insurance,246065,gold,kansas, usa
+306," $ 9,190.00 ",gmc,mpv,2017,clean vehicle,41961,black,virginia, usa
+307," $ 10,900.00 ",jeep,mpv,2019,clean vehicle,13273,red,michigan, usa
+308," $ 10,400.00 ",infiniti,mpv,2019,clean vehicle,31713,black,florida, usa
+309, $ -   ,chevrolet,door,2004,salvage insurance,0,maroon,wyoming, usa
+310, $ -   ,chevrolet,door,2003,salvage insurance,194673,gray,texas, usa
+311," $ 7,320.00 ",chevrolet,pickup,2008,clean vehicle,325611,silver,florida, usa
+312," $ 22,809.00 ",ford,f-150,2017,clean vehicle,50732,black,michigan, usa
+313, $ -   ,ford,van,1998,salvage insurance,186855,blue,california, usa
+314, $ -   ,ford,door,2013,salvage insurance,94004,black,minnesota, usa
+315," $ 5,520.00 ",gmc,mpv,2017,clean vehicle,52904,silver,virginia, usa
+316," $ 10,900.00 ",jeep,mpv,2019,clean vehicle,14195,orange,michigan, usa
+317," $ 6,330.00 ",jeep,mpv,2019,clean vehicle,43965,red,florida, usa
+318, $ -   ,chevrolet,door,2009,salvage insurance,117059,black,colorado, usa
+319, $ 25.00 ,chevrolet,pickup,2010,salvage insurance,149189,white,colorado, usa
+320," $ 2,320.00 ",dodge,door,2007,clean vehicle,112182,red,florida, usa
+321," $ 23,702.00 ",ford,door,2017,clean vehicle,49024,black,michigan, usa
+322, $ -   ,ford,chassis,1994,salvage insurance,0,green,california, usa
+323, $ -   ,ford,door,1997,salvage insurance,203297,green,minnesota, usa
+324," $ 5,520.00 ",gmc,mpv,2017,clean vehicle,35821,silver,virginia, usa
+325," $ 4,050.00 ",heartland,pioneer,2018,clean vehicle,1,gray,pennsylvania, usa
+326," $ 14,810.00 ",infiniti,mpv,2019,clean vehicle,32611,brown,florida, usa
+327, $ 25.00 ,chevrolet,door,2011,salvage insurance,105244,white,colorado, usa
+328," $ 2,960.00 ",chrysler,van,2008,clean vehicle,164048,red,florida, usa
+329," $ 24,800.00 ",ford,door,2017,clean vehicle,46955,gray,michigan, usa
+330, $ -   ,ford,door,1996,salvage insurance,296860,green,california, usa
+331, $ -   ,ford,door,2006,salvage insurance,203158,red,illinois, usa
+332," $ 6,270.00 ",gmc,mpv,2017,clean vehicle,70443,black,virginia, usa
+333," $ 1,880.00 ",heartland,trail,2012,clean vehicle,1,white,pennsylvania, usa
+334," $ 10,050.00 ",infiniti,mpv,2019,clean vehicle,18229,gray,florida, usa
+335, $ 225.00 ,chevrolet,door,2014,salvage insurance,87673,red,colorado, usa
+336," $ 26,900.00 ",chevrolet,traverse,2018,clean vehicle,42941,black,missouri, usa
+337," $ 1,420.00 ",chrysler,door,2007,clean vehicle,104405,gold,florida, usa
+338," $ 27,003.00 ",ford,door,2017,clean vehicle,57186,black,michigan, usa
+339, $ -   ,ford,door,2002,salvage insurance,214800,black,south carolina, usa
+340, $ 350.00 ,ford,door,2004,salvage insurance,236980,gray,illinois, usa
+341," $ 5,600.00 ",gmc,mpv,2017,clean vehicle,59808,black,virginia, usa
+342," $ 6,680.00 ",heartland,country,2011,clean vehicle,1,gray,pennsylvania, usa
+343," $ 10,120.00 ",infiniti,mpv,2019,clean vehicle,20681,white,florida, usa
+344, $ -   ,chevrolet,door,2010,salvage insurance,137422,red,colorado, usa
+345," $ 3,920.00 ",ford,door,2015,clean vehicle,102700,white,georgia, usa
+346," $ 23,100.00 ",ford,door,2017,clean vehicle,53270,black,michigan, usa
+347, $ -   ,gmc,door,2004,salvage insurance,235348,gold,south carolina, usa
+348," $ 5,630.00 ",gmc,mpv,2017,clean vehicle,27195,black,virginia, usa
+349, $ -   ,heartland,sundance,2009,clean vehicle,1,white,pennsylvania, usa
+350," $ 2,800.00 ",jaguar,doors,2019,clean vehicle,20849,black,florida, usa
+351, $ -   ,chevrolet,door,2008,salvage insurance,159266,gray,california, usa
+352," $ 8,850.00 ",ford,door,2015,clean vehicle,143818,black,georgia, usa
+353," $ 18,712.00 ",ford,f-150,2017,clean vehicle,67347,black,michigan, usa
+354, R$ -   ,ford,pickup,2009,salvage insurance,180364,blue,tennessee, usa
+355, $ -   ,ford,door,2009,salvage insurance,184889,black,illinois, usa
+356," $ 6,300.00 ",gmc,mpv,2017,clean vehicle,117400,blue,virginia, usa
+357," $ 2,220.00 ",heartland,country,2010,clean vehicle,1,white,pennsylvania, usa
+358," $ 6,930.00 ",jeep,mpv,2019,clean vehicle,47798,red,florida, usa
+359, $ 25.00 ,chevrolet,door,2008,salvage insurance,130623,white,california, usa
+360," $ 3,440.00 ",ford,door,2015,clean vehicle,124542,white,georgia, usa
+361," $ 50,412.00 ",ford,door,2017,clean vehicle,47129,black,michigan, usa
+362, $ 25.00 ,ford,pickup,1994,salvage insurance,206162,white,georgia, usa
+363, $ 950.00 ,ford,pk,2001,salvage insurance,229886,red,illinois, usa
+364," $ 9,270.00 ",gmc,mpv,2017,clean vehicle,19490,gray,virginia, usa
+365," $ 11,380.00 ",jeep,mpv,2019,clean vehicle,12038,black,michigan, usa
+366," $ 5,350.00 ",hyundai,mpv,2019,clean vehicle,43536,blue,florida, usa
+367," $ 2,725.00 ",chevrolet,door,2004,salvage insurance,308451,black,south carolina, usa
+368," $ 3,790.00 ",ford,door,2015,clean vehicle,100893,gray,georgia, usa
+369," $ 40,514.00 ",ford,door,2017,clean vehicle,90304,white,michigan, usa
+370, $ -   ,ford,door,1997,salvage insurance,146912,green,wisconsin, usa
+371, $ -   ,ford,door,1998,salvage insurance,131367,white,illinois, usa
+372," $ 9,190.00 ",gmc,mpv,2017,clean vehicle,31394,gray,virginia, usa
+373," $ 10,330.00 ",infiniti,mpv,2019,clean vehicle,25933,gray,florida, usa
+374," $ 1,000.00 ",acura,door,2008,salvage insurance,118250,gray,michigan, usa
+375," $ 2,925.00 ",bmw,door,2013,salvage insurance,46060,white,florida, usa
+376," $ 3,830.00 ",ford,door,2015,clean vehicle,50593,gold,georgia, usa
+377," $ 43,402.00 ",ford,door,2017,clean vehicle,62387,blue,michigan, usa
+378," $ 1,025.00 ",gmc,door,2009,salvage insurance,169634,black,michigan, usa
+379," $ 17,200.00 ",honda,van,2016,clean vehicle,72527,gray,new jersey, usa
+380," $ 54,680.00 ",harley-davidson,road/street,2016,clean vehicle,9502,black,virginia, usa
+381," $ 6,940.00 ",honda,door,2010,clean vehicle,217290,no_color,pennsylvania, usa
+382," $ 13,080.00 ",infiniti,mpv,2019,clean vehicle,17243,gray,florida, usa
+383, $ 25.00 ,chevrolet,door,2007,salvage insurance,194903,gray,virginia, usa
+384," $ 10,630.00 ",ford,door,2015,clean vehicle,82899,white,georgia, usa
+385," $ 43,009.00 ",ford,door,2017,clean vehicle,76418,white,michigan, usa
+386, $ 25.00 ,gmc,door,2003,salvage insurance,138441,white,michigan, usa
+387," $ 4,600.00 ",ford,pickup,2006,salvage insurance,240740,brown,mississippi, usa
+388," $ 4,950.00 ",honda,mpv,2016,clean vehicle,71404,black,virginia, usa
+389," $ 3,760.00 ",hyundai,doors,2019,clean vehicle,30382,silver,florida, usa
+390," $ 3,900.00 ",acura,door,2009,clean vehicle,179389,black,texas, usa
+391, $ -   ,cadillac,coupe,2000,salvage insurance,105169,white,virginia, usa
+392," $ 3,830.00 ",ford,door,2015,clean vehicle,82534,silver,georgia, usa
+393," $ 53,500.00 ",ford,door,2017,clean vehicle,55732,white,michigan, usa
+394, $ 25.00 ,ford,door,2010,salvage insurance,198596,gray,michigan, usa
+395, $ 25.00 ,ford,door,1998,salvage insurance,300021,brown,arkansas, usa
+396," $ 6,240.00 ",honda,door,2015,clean vehicle,83623,silver,virginia, usa
+397," $ 4,150.00 ",jeep,door,2014,clean vehicle,108895,white,new york, usa
+398, $ 25.00 ,jeep,door,1999,salvage insurance,226972,black,florida, usa
+399," $ 61,200.00 ",bmw,series,2020,clean vehicle,7509,black,california, usa
+400, $ -   ,buick,door,2006,salvage insurance,137464,blue,virginia, usa
+401," $ 13,500.00 ",bmw,series,2014,clean vehicle,33542,blue,new jersey, usa
+402," $ 6,490.00 ",ford,door,2015,clean vehicle,74754,black,georgia, usa
+403," $ 51,502.00 ",ford,door,2017,clean vehicle,27661,black,michigan, usa
+404, $ 250.00 ,ford,door,2010,salvage insurance,115241,white,michigan, usa
+405, $ 25.00 ,ford,door,1984,salvage insurance,41577,white,arkansas, usa
+406," $ 8,160.00 ",honda,van,2015,clean vehicle,109027,gray,virginia, usa
+407," $ 7,770.00 ",jeep,door,2014,clean vehicle,72732,gray,new york, usa
+408, $ 200.00 ,jeep,door,2001,salvage insurance,126400,green,maryland, usa
+409, $ 25.00 ,audi,door,2008,salvage insurance,177422,black,texas, usa
+410, $ -   ,chevrolet,door,1995,salvage insurance,274706,green,arizona, usa
+411," $ 1,825.00 ",bmw,coupe,2008,salvage insurance,77984,white,georgia, usa
+412," $ 39,800.00 ",bmw,series,2017,clean vehicle,23177,blue,california, usa
+413," $ 9,210.00 ",ford,door,2015,clean vehicle,26911,silver,georgia, usa
+414," $ 58,500.00 ",ford,srw,2019,clean vehicle,21527,blue,washington, usa
+415, $ 125.00 ,ford,door,2014,salvage insurance,56461,silver,michigan, usa
+416," $ 3,960.00 ",honda,door,2015,clean vehicle,95128,white,virginia, usa
+417," $ 5,998.00 ",hyundai,doors,2014,clean vehicle,122975,phantom black,new york, usa
+418," $ 3,700.00 ",honda,doors,2014,clean vehicle,162824,blue,new york, usa
+419, $ -   ,kia,wagon,2008,salvage insurance,148463,silver,indiana, usa
+420, $ -   ,audi,door,2005,salvage insurance,181896,black,california, usa
+421, $ -   ,bmw,door,2000,salvage insurance,216657,gray,utah, usa
+422," $ 5,000.00 ",gmc,door,2012,clean vehicle,140339,black,utah, usa
+423," $ 15,050.00 ",infiniti,mpv,2019,clean vehicle,26786,white,texas, usa
+424," $ 3,960.00 ",hyundai,doors,2019,clean vehicle,35623,red,ohio, usa
+425," $ 36,300.00 ",lincoln,nautilus,2019,clean vehicle,14541,black,california, usa
+426," $ 55,600.00 ",lexus,gx,2020,clean vehicle,8186,silver,florida, usa
+427," $ 2,630.00 ",nissan,doors,2018,clean vehicle,36739,gray,california, usa
+428," $ 5,690.00 ",nissan,mpv,2017,clean vehicle,42616,blue,new jersey, usa
+429," $ 19,500.00 ",audi,q5,2017,clean vehicle,65833,blue,texas, usa
+430, $ 450.00 ,chevrolet,coupe,2008,salvage insurance,123515,yellow,minnesota, usa
+431," $ 20,400.00 ",cadillac,door,2015,clean vehicle,36122,white,wisconsin, usa
+432," $ 4,320.00 ",chevrolet,door,2011,clean vehicle,88359,brown,florida, usa
+433," $ 33,001.00 ",ford,f-150,2017,clean vehicle,35905,gray,michigan, usa
+434," $ 10,000.00 ",ford,door,2017,salvage insurance,35747,red,arkansas, usa
+435, $ -   ,ford,door,2004,salvage insurance,167011,red,maryland, usa
+436," $ 5,790.00 ",gmc,door,2012,clean vehicle,105020,white,utah, usa
+437," $ 14,750.00 ",infiniti,mpv,2019,clean vehicle,11047,black,texas, usa
+438," $ 4,010.00 ",hyundai,doors,2019,clean vehicle,31233,silver,ohio, usa
+439," $ 40,000.00 ",mercedes-benz,gle,2019,clean vehicle,19427,white,california, usa
+440," $ 13,000.00 ",kia,sportage,2017,clean vehicle,71991,silver,new jersey, usa
+441," $ 3,550.00 ",nissan,doors,2018,clean vehicle,29043,blue,california, usa
+442," $ 3,040.00 ",nissan,doors,2017,clean vehicle,36064,gray,new jersey, usa
+443, $ -   ,chevrolet,coupe,2008,salvage insurance,270080,yellow,illinois, usa
+444," $ 36,400.00 ",audi,a5,2015,clean vehicle,47213,black,wisconsin, usa
+445," $ 4,480.00 ",ford,door,2011,clean vehicle,116480,black,florida, usa
+446," $ 31,003.00 ",ford,door,2017,clean vehicle,72084,red,michigan, usa
+447, $ 75.00 ,ford,pickup,2001,salvage insurance,295780,gold,arkansas, usa
+448," $ 8,850.00 ",gmc,door,2011,clean vehicle,148035,white,utah, usa
+449," $ 14,750.00 ",infiniti,mpv,2019,clean vehicle,11396,white,texas, usa
+450," $ 4,690.00 ",hyundai,mpv,2019,clean vehicle,33785,silver,ohio, usa
+451," $ 23,000.00 ",land,sport,2018,clean vehicle,20103,black,california, usa
+452," $ 46,900.00 ",land,discovery,2018,clean vehicle,32387,black,florida, usa
+453," $ 10,740.00 ",mercedes-benz,doors,2018,clean vehicle,48140,white,california, usa
+454," $ 3,160.00 ",nissan,doors,2017,clean vehicle,34861,gray,new jersey, usa
+455, $ -   ,chevrolet,door,2006,salvage insurance,268040,silver,texas, usa
+456," $ 3,450.00 ",chrysler,door,2011,clean vehicle,114119,gold,florida, usa
+457," $ 27,102.00 ",ford,f-150,2017,clean vehicle,34165,red,michigan, usa
+458, $ 500.00 ,gmc,door,2018,salvage insurance,27442,black,arkansas, usa
+459," $ 5,100.00 ",gmc,door,2011,clean vehicle,144792,white,utah, usa
+460," $ 15,010.00 ",infiniti,mpv,2019,clean vehicle,11394,beige,texas, usa
+461," $ 5,800.00 ",jeep,mpv,2019,clean vehicle,30546,silver,ohio, usa
+462," $ 23,200.00 ",land,sport,2018,clean vehicle,23745,black,california, usa
+463," $ 8,000.00 ",hyundai,door,2015,clean vehicle,88274,red,pennsylvania, usa
+464," $ 3,390.00 ",nissan,doors,2018,clean vehicle,38349,gray,california, usa
+465," $ 3,140.00 ",nissan,doors,2017,clean vehicle,30142,white,new jersey, usa
+466, $ 25.00 ,chevrolet,door,2007,salvage insurance,267834,black,texas, usa
+467," $ 15,000.00 ",bmw,door,2014,clean vehicle,44730,silver,illinois, usa
+468," $ 10,440.00 ",chevrolet,cab,2011,clean vehicle,92476,blue,florida, usa
+469," $ 23,911.00 ",ford,f-150,2017,clean vehicle,25698,black,michigan, usa
+470, $ 25.00 ,ford,pk,2010,salvage insurance,155242,gray,oklahoma, usa
+471," $ 21,400.00 ",gmc,acadia,2018,clean vehicle,54332,gray,new jersey, usa
+472," $ 5,380.00 ",gmc,cab,2011,clean vehicle,119215,white,utah, usa
+473," $ 11,000.00 ",jeep,mpv,2019,clean vehicle,8930,red,michigan, usa
+474," $ 4,950.00 ",jeep,mpv,2019,clean vehicle,46985,silver,ohio, usa
+475," $ 22,500.00 ",land,sport,2018,clean vehicle,30220,black,california, usa
+476," $ 30,300.00 ",maserati,ghibli,2017,clean vehicle,37021,black,florida, usa
+477," $ 2,630.00 ",nissan,doors,2018,clean vehicle,43152,white,california, usa
+478," $ 3,140.00 ",nissan,doors,2017,clean vehicle,34318,silver,new jersey, usa
+479," $ 2,300.00 ",chevrolet,door,2011,salvage insurance,88287,white,arkansas, usa
+480," $ 4,310.00 ",chevrolet,door,2011,clean vehicle,105486,black,florida, usa
+481," $ 26,012.00 ",ford,door,2017,clean vehicle,19850,black,michigan, usa
+482, $ 75.00 ,ford,door,2014,salvage insurance,116535,silver,oklahoma, usa
+483," $ 48,500.00 ",gmc,1500,2019,clean vehicle,15777,black,pennsylvania, usa
+484," $ 3,330.00 ",gmc,mpv,2009,clean vehicle,87448,white,utah, usa
+485," $ 11,200.00 ",jeep,mpv,2019,clean vehicle,8395,yellow,michigan, usa
+486," $ 4,730.00 ",hyundai,mpv,2019,clean vehicle,30121,red,ohio, usa
+487," $ 24,900.00 ",mercedes-benz,glc,2018,clean vehicle,33687,white,california, usa
+488," $ 29,400.00 ",mercedes-benz,e-class,2017,clean vehicle,37561,blue,florida, usa
+489," $ 8,350.00 ",nissan,cab,2018,clean vehicle,32256,gray,california, usa
+490, $ 475.00 ,peterbilt,truck,2012,salvage insurance,902041,gold,florida, usa
+491," $ 3,210.00 ",nissan,doors,2017,clean vehicle,25255,black,new jersey, usa
+492, $ 25.00 ,chevrolet,van,2006,salvage insurance,165327,white,arkansas, usa
+493," $ 4,200.00 ",chevrolet,cutaway,2006,clean vehicle,118009,white,wisconsin, usa
+494," $ 8,430.00 ",chevrolet,utility,2011,clean vehicle,114547,black,florida, usa
+495," $ 25,503.00 ",ford,f-150,2017,clean vehicle,18647,black,michigan, usa
+496, $ -   ,ford,pickup,1996,salvage insurance,252588,red,oklahoma, usa
+497," $ 26,000.00 ",gmc,limited,2019,clean vehicle,16669,black,pennsylvania, usa
+498," $ 3,900.00 ",honda,doors,2017,clean vehicle,47970,blue,virginia, usa
+499," $ 11,200.00 ",jeep,mpv,2019,clean vehicle,12905,gray,michigan, usa
+500," $ 8,610.00 ",jeep,mpv,2019,clean vehicle,22123,silver,ohio, usa
+501," $ 28,000.00 ",mercedes-benz,gle,2018,clean vehicle,40780,white,california, usa
+502," $ 84,900.00 ",mercedes-benz,sl-class,2017,clean vehicle,25302,silver,florida, usa
+503," $ 10,840.00 ",lexus,mpv,2017,clean vehicle,36596,black,california, usa
+504, $ 100.00 ,peterbilt,truck,2012,salvage insurance,0,blue,florida, usa
+505," $ 11,050.00 ",ram,door,2017,clean vehicle,30421,white,new jersey, usa
+506, $ -   ,chevrolet,door,2012,salvage insurance,134938,orange,oklahoma, usa
+507," $ 1,000.00 ",chevrolet,door,2005,clean vehicle,135675,gray,wisconsin, usa
+508," $ 3,570.00 ",dodge,door,2015,clean vehicle,17355,black,georgia, usa
+509," $ 25,001.00 ",ford,door,2017,clean vehicle,27773,gray,michigan, usa
+510, $ -   ,ford,door,2010,salvage insurance,86841,silver,oklahoma, usa
+511," $ 5,630.00 ",gmc,mpv,2017,clean vehicle,58366,black,virginia, usa
+512," $ 11,100.00 ",jeep,mpv,2019,clean vehicle,11229,white,michigan, usa
+513," $ 4,650.00 ",hyundai,mpv,2019,clean vehicle,27492,white,ohio, usa
+514, $ -   ,lincoln,door,2005,salvage insurance,89705,green,minnesota, usa
+515," $ 3,820.00 ",nissan,mpv,2016,clean vehicle,41654,blue,california, usa
+516, $ -   ,peterbilt,truck,2009,salvage insurance,982486,blue,florida, usa
+517," $ 2,900.00 ",nissan,doors,2017,clean vehicle,31954,gray,new jersey, usa
+518, $ 50.00 ,chevrolet,door,2008,salvage insurance,172102,blue,texas, usa
+519," $ 5,100.00 ",chevrolet,pickup,2004,clean vehicle,173321,gray,wisconsin, usa
+520," $ 4,700.00 ",dodge,door,2015,clean vehicle,93423,red,georgia, usa
+521," $ 29,502.00 ",ford,f-150,2017,clean vehicle,14053,red,michigan, usa
+522, $ -   ,ford,door,2008,salvage insurance,145483,red,oklahoma, usa
+523," $ 6,160.00 ",honda,door,2017,clean vehicle,25956,white,virginia, usa
+524," $ 10,910.00 ",jeep,mpv,2019,clean vehicle,12253,red,michigan, usa
+525," $ 3,440.00 ",hyundai,doors,2019,clean vehicle,34895,gray,ohio, usa
+526," $ 16,000.00 ",mazda,cx-3,2016,clean vehicle,47753,gray,florida, usa
+527," $ 3,810.00 ",kia,door,2016,clean vehicle,39408,black,california, usa
+528," $ 1,025.00 ",peterbilt,truck,2010,salvage insurance,1017936,color:,georgia, usa
+529," $ 3,020.00 ",nissan,doors,2017,clean vehicle,33599,white,new jersey, usa
+530, $ -   ,chevrolet,door,2003,salvage insurance,194673,gray,texas, usa
+531," $ 2,000.00 ",chevrolet,pickup,2003,clean vehicle,507985,red,wisconsin, usa
+532," $ 3,870.00 ",ford,door,2010,clean vehicle,185983,white,florida, usa
+533," $ 24,811.00 ",ford,door,2017,clean vehicle,28464,red,michigan, usa
+534, $ 75.00 ,ford,door,2007,salvage insurance,154989,blue,oklahoma, usa
+535," $ 5,420.00 ",honda,doors,2017,clean vehicle,16702,black,virginia, usa
+536," $ 11,100.00 ",jeep,mpv,2019,clean vehicle,11449,yellow,michigan, usa
+537," $ 4,750.00 ",hyundai,mpv,2019,clean vehicle,25847,gray,ohio, usa
+538," $ 17,900.00 ",mercedes-benz,door,2015,clean vehicle,49772,gray,florida, usa
+539," $ 3,800.00 ",nissan,door,2015,clean vehicle,83915,black,california, usa
+540," $ 3,160.00 ",nissan,doors,2017,clean vehicle,40306,silver,new jersey, usa
+541, $ 25.00 ,chevrolet,pickup,2010,salvage insurance,149189,white,colorado, usa
+542," $ 1,200.00 ",chevrolet,door,2001,clean vehicle,149543,red,wisconsin, usa
+543," $ 6,470.00 ",chevrolet,coupe,2010,clean vehicle,69622,yellow,florida, usa
+544," $ 26,400.00 ",ford,door,2017,clean vehicle,36295,red,michigan, usa
+545, $ -   ,gmc,door,1993,salvage insurance,0,light blue,colorado, usa
+546," $ 32,500.00 ",gmc,2500hd,2018,clean vehicle,14856,blue,pennsylvania, usa
+547," $ 6,900.00 ",honda,mpv,2017,clean vehicle,44129,brown,minnesota, usa
+548," $ 11,030.00 ",jeep,mpv,2019,clean vehicle,10861,yellow,michigan, usa
+549," $ 3,460.00 ",hyundai,door,2012,clean vehicle,142106,white,mississippi, usa
+550," $ 18,000.00 ",mercedes-benz,door,2015,clean vehicle,82411,black,florida, usa
+551," $ 3,250.00 ",hyundai,door,2015,clean vehicle,111612,gray,california, usa
+552," $ 3,210.00 ",nissan,doors,2017,clean vehicle,35251,gray,new jersey, usa
+553," $ 13,200.00 ",chevrolet,door,2017,clean vehicle,50408,black,pennsylvania, usa
+554," $ 27,705.00 ",ford,f-150,2019,clean vehicle,15630,gray,michigan, usa
+555," $ 7,200.00 ",chevrolet,door,2017,clean vehicle,53273,black,pennsylvania, usa
+556," $ 28,714.00 ",ford,f-150,2019,clean vehicle,14786,white,michigan, usa
+557," $ 11,200.00 ",chevrolet,door,2017,clean vehicle,85315,white,pennsylvania, usa
+558," $ 27,502.00 ",ford,f-150,2019,clean vehicle,16146,gray,michigan, usa
+559," $ 11,900.00 ",chevrolet,door,2017,clean vehicle,76211,blue,pennsylvania, usa
+560," $ 29,314.00 ",ford,f-150,2019,clean vehicle,15265,gray,michigan, usa
+561," $ 11,200.00 ",chevrolet,door,2017,clean vehicle,79965,silver,pennsylvania, usa
+562," $ 27,002.00 ",ford,f-150,2019,clean vehicle,16059,gray,michigan, usa
+563," $ 13,200.00 ",chevrolet,door,2017,clean vehicle,62739,black,pennsylvania, usa
+564," $ 28,214.00 ",ford,f-150,2019,clean vehicle,15569,white,michigan, usa
+565," $ 12,700.00 ",chevrolet,door,2017,clean vehicle,58932,black,pennsylvania, usa
+566," $ 29,900.00 ",ford,f-150,2019,clean vehicle,17488,white,michigan, usa
+567," $ 12,700.00 ",chevrolet,door,2017,clean vehicle,60733,black,pennsylvania, usa
+568," $ 27,202.00 ",ford,f-150,2019,clean vehicle,18550,red,michigan, usa
+569," $ 13,500.00 ",chevrolet,impala,2018,clean vehicle,53194,white,new jersey, usa
+570," $ 27,705.00 ",ford,f-150,2019,clean vehicle,17644,silver,michigan, usa
+571," $ 14,700.00 ",chevrolet,van,2016,clean vehicle,34454,white,pennsylvania, usa
+572," $ 29,900.00 ",ford,f-150,2019,clean vehicle,17684,white,michigan, usa
+573," $ 4,500.00 ",chevrolet,door,2015,clean vehicle,83279,gray,pennsylvania, usa
+574," $ 27,705.00 ",ford,f-150,2019,clean vehicle,16600,silver,michigan, usa
+575," $ 8,000.00 ",chevrolet,door,2015,clean vehicle,107971,gray,pennsylvania, usa
+576," $ 25,511.00 ",ford,f-150,2019,clean vehicle,17801,silver,michigan, usa
+577," $ 7,700.00 ",chevrolet,colorado,2015,clean vehicle,94150,white,pennsylvania, usa
+578," $ 29,900.00 ",ford,f-150,2019,clean vehicle,17159,silver,michigan, usa
+579," $ 7,200.00 ",chevrolet,van,2015,clean vehicle,80711,white,pennsylvania, usa
+580," $ 27,502.00 ",ford,f-150,2019,clean vehicle,17983,red,michigan, usa
+581," $ 4,500.00 ",chevrolet,door,2013,clean vehicle,119981,white,pennsylvania, usa
+582," $ 27,402.00 ",ford,f-150,2019,clean vehicle,17851,white,michigan, usa
+583," $ 1,500.00 ",chevrolet,sonic,2013,clean vehicle,66079,black,pennsylvania, usa
+584," $ 26,602.00 ",ford,f-150,2019,clean vehicle,18174,white,michigan, usa
+585," $ 10,200.00 ",chevrolet,sonic,2019,clean vehicle,7654,black,illinois, usa
+586," $ 29,900.00 ",ford,f-150,2019,clean vehicle,18759,black,michigan, usa
+587," $ 14,000.00 ",chevrolet,colorado,2019,clean vehicle,11564,white,illinois, usa
+588," $ 28,500.00 ",ford,f-150,2019,clean vehicle,18901,silver,michigan, usa
+589," $ 8,000.00 ",chevrolet,door,2016,clean vehicle,86541,black,florida, usa
+590," $ 29,809.00 ",ford,f-150,2019,clean vehicle,21157,silver,michigan, usa
+591," $ 36,900.00 ",chevrolet,corvette,2015,clean vehicle,29937,black,florida, usa
+592," $ 26,902.00 ",ford,f-150,2019,clean vehicle,23964,white,michigan, usa
+593," $ 10,950.00 ",chevrolet,door,2015,clean vehicle,58504,red,florida, usa
+594," $ 27,402.00 ",ford,f-150,2019,clean vehicle,20154,white,michigan, usa
+595," $ 16,900.00 ",acura,mdx,2014,clean vehicle,63500,silver,florida, usa
+596," $ 25,600.00 ",ford,f-150,2019,clean vehicle,23294,silver,michigan, usa
+597," $ 29,700.00 ",bmw,series,2016,clean vehicle,24293,no_color,texas, usa
+598," $ 27,702.00 ",ford,f-150,2019,clean vehicle,20343,red,michigan, usa
+599," $ 13,500.00 ",buick,encore,2016,clean vehicle,19655,red,texas, usa
+600," $ 27,102.00 ",ford,f-150,2019,clean vehicle,19100,white,michigan, usa
+601," $ 27,102.00 ",ford,f-150,2019,clean vehicle,20014,white,michigan, usa
+602," $ 25,811.00 ",ford,f-150,2019,clean vehicle,21774,black,michigan, usa
+603," $ 26,602.00 ",ford,f-150,2019,clean vehicle,21201,white,michigan, usa
+604," $ 27,102.00 ",ford,f-150,2019,clean vehicle,21766,white,michigan, usa
+605," $ 37,500.00 ",buick,enclave,2019,clean vehicle,12406,gray,wisconsin, usa
+606," $ 26,211.00 ",ford,flex,2019,clean vehicle,17977,blue,michigan, usa
+607," $ 24,205.00 ",ford,flex,2019,clean vehicle,22805,silver,michigan, usa
+608," $ 37,500.00 ",cadillac,xt5,2019,clean vehicle,16013,black,wisconsin, usa
+609," $ 27,111.00 ",ford,flex,2019,clean vehicle,14382,black,michigan, usa
+610," $ 27,411.00 ",ford,flex,2019,clean vehicle,9660,black,michigan, usa
+611," $ 27,302.00 ",ford,flex,2019,clean vehicle,18969,black,michigan, usa
+612," $ 27,202.00 ",ford,f-150,2019,clean vehicle,24730,gray,michigan, usa
+613," $ 26,311.00 ",ford,flex,2019,clean vehicle,15847,red,michigan, usa
+614," $ 26,602.00 ",ford,f-150,2019,clean vehicle,25009,white,michigan, usa
+615," $ 33,500.00 ",bmw,series,2017,clean vehicle,22115,blue,wisconsin, usa
+616," $ 27,511.00 ",ford,flex,2019,clean vehicle,11836,white,michigan, usa
+617," $ 21,500.00 ",buick,door,2017,clean vehicle,23765,red,wisconsin, usa
+618," $ 27,200.00 ",ford,f-150,2019,clean vehicle,25508,silver,michigan, usa
+619," $ 26,511.00 ",ford,flex,2019,clean vehicle,18196,red,michigan, usa
+620," $ 24,002.00 ",ford,flex,2019,clean vehicle,16106,gray,michigan, usa
+621," $ 21,500.00 ",buick,door,2017,clean vehicle,14907,silver,wisconsin, usa
+622," $ 18,511.00 ",ford,fusion,2019,clean vehicle,12735,gray,michigan, usa
+623," $ 14,000.00 ",kia,sorento,2017,clean vehicle,53424,black,connecticut, usa
+624," $ 29,000.00 ",buick,door,2017,clean vehicle,17940,green,illinois, usa
+625," $ 23,402.00 ",ford,flex,2019,clean vehicle,17417,gray,michigan, usa
+626," $ 13,300.00 ",kia,door,2017,clean vehicle,37125,no_color,connecticut, usa
+627," $ 19,700.00 ",bmw,x3,2017,clean vehicle,61428,black,wisconsin, usa
+628," $ 23,211.00 ",ford,flex,2019,clean vehicle,17025,black,michigan, usa
+629," $ 15,500.00 ",kia,sorento,2017,clean vehicle,37668,red,connecticut, usa
+630," $ 18,111.00 ",ford,fusion,2019,clean vehicle,15805,black,michigan, usa
+631," $ 21,500.00 ",kia,sorento,2017,clean vehicle,43761,gray,connecticut, usa
+632," $ 25,511.00 ",ford,mustang,2019,clean vehicle,11342,gray,michigan, usa
+633," $ 17,700.00 ",chevrolet,equinox,2017,clean vehicle,35664,blue,wisconsin, usa
+634," $ 28,000.00 ",chevrolet,cutaway,2017,clean vehicle,12780,white,illinois, usa
+635," $ 14,000.00 ",chevrolet,door,2017,clean vehicle,38458,blue,wisconsin, usa
+636," $ 21,700.00 ",chevrolet,door,2017,clean vehicle,34420,silver,wisconsin, usa
+637," $ 13,500.00 ",chevrolet,door,2017,clean vehicle,46497,white,wisconsin, usa
+638," $ 35,500.00 ",chevrolet,1500,2017,clean vehicle,21268,no_color,wisconsin, usa
+639," $ 29,500.00 ",chevrolet,1500,2017,clean vehicle,31029,red,wisconsin, usa
+640," $ 25,300.00 ",chevrolet,1500,2017,clean vehicle,40878,no_color,wisconsin, usa
+641," $ 21,500.00 ",chevrolet,1500,2016,clean vehicle,20270,silver,new jersey, usa
+642," $ 25,900.00 ",chevrolet,door,2016,clean vehicle,32984,blue,wisconsin, usa
+643," $ 35,300.00 ",chevrolet,door,2016,clean vehicle,75506,black,wisconsin, usa
+644," $ 13,500.00 ",chevrolet,door,2016,clean vehicle,39951,red,wisconsin, usa
+645," $ 62,000.00 ",chevrolet,corvette,2016,clean vehicle,19403,white,illinois, usa
+646," $ 46,000.00 ",chevrolet,corvette,2016,clean vehicle,4445,black,illinois, usa
+647," $ 9,000.00 ",chevrolet,malibu,2016,clean vehicle,67527,gray,wisconsin, usa
+648," $ 25,900.00 ",chevrolet,door,2016,clean vehicle,33588,white,wisconsin, usa
+649," $ 25,800.00 ",chevrolet,door,2016,clean vehicle,10103,no_color,wisconsin, usa
+650," $ 17,000.00 ",chevrolet,door,2016,clean vehicle,26474,gray,wisconsin, usa
+651," $ 12,800.00 ",chevrolet,door,2016,clean vehicle,40253,white,wisconsin, usa
+652," $ 47,400.00 ",chevrolet,3500,2016,clean vehicle,39624,red,wisconsin, usa
+653," $ 24,400.00 ",chevrolet,door,2016,clean vehicle,48705,gray,wisconsin, usa
+654," $ 17,100.00 ",chevrolet,trax,2016,clean vehicle,19659,white,wisconsin, usa
+655," $ 7,400.00 ",chevrolet,door,2015,clean vehicle,91299,no_color,wisconsin, usa
+656," $ 33,100.00 ",chevrolet,door,2015,clean vehicle,81614,gold,wisconsin, usa
+657," $ 22,000.00 ",chevrolet,trax,2020,clean vehicle,179,gray,california, usa
+658," $ 35,000.00 ",chevrolet,1500,2019,clean vehicle,5523,no_color,california, usa
+659," $ 16,500.00 ",chevrolet,equinox,2019,clean vehicle,29841,silver,california, usa
+660," $ 35,300.00 ",chevrolet,1500,2019,clean vehicle,8516,silver,california, usa
+661," $ 26,900.00 ",chevrolet,traverse,2018,clean vehicle,42941,black,missouri, usa
+662," $ 11,600.00 ",chevrolet,trax,2017,clean vehicle,27498,black,california, usa
+663," $ 28,100.00 ",chevrolet,1500,2017,clean vehicle,31141,silver,california, usa
+664," $ 27,700.00 ",chevrolet,1500,2017,clean vehicle,20784,white,california, usa
+665," $ 17,700.00 ",chevrolet,passenger,2017,clean vehicle,52667,white,california, usa
+666," $ 16,600.00 ",chevrolet,volt,2017,clean vehicle,26003,no_color,california, usa
+667," $ 63,200.00 ",chevrolet,corvette,2016,clean vehicle,4266,red,california, usa
+668," $ 36,800.00 ",chevrolet,door,2015,clean vehicle,32332,white,california, usa
+669," $ 19,500.00 ",chevrolet,passenger,2018,clean vehicle,44333,white,texas, usa
+670," $ 38,800.00 ",chevrolet,tahoe,2019,clean vehicle,36198,blue,oklahoma, usa
+671," $ 37,500.00 ",chevrolet,tahoe,2019,clean vehicle,33331,silver,oklahoma, usa
+672," $ 35,000.00 ",chevrolet,suburban,2019,clean vehicle,43082,gray,oklahoma, usa
+673," $ 31,100.00 ",chevrolet,camaro,2019,clean vehicle,24561,gray,oklahoma, usa
+674," $ 22,600.00 ",chevrolet,van,2019,clean vehicle,13485,white,oklahoma, usa
+675," $ 22,400.00 ",chevrolet,van,2019,clean vehicle,15524,white,oklahoma, usa
+676," $ 22,700.00 ",chevrolet,van,2019,clean vehicle,8996,white,oklahoma, usa
+677," $ 13,700.00 ",chevrolet,malibu,2019,clean vehicle,47282,silver,oklahoma, usa
+678," $ 37,100.00 ",chevrolet,suburban,2019,clean vehicle,34470,black,oklahoma, usa
+679," $ 18,500.00 ",chevrolet,colorado,2018,clean vehicle,87264,green,oregon, usa
+680," $ 18,300.00 ",chevrolet,2500,2017,clean vehicle,114344,white,oregon, usa
+681," $ 19,000.00 ",chevrolet,2500,2017,clean vehicle,111635,white,oregon, usa
+682," $ 18,500.00 ",chevrolet,1500,2017,clean vehicle,103955,white,oregon, usa
+683," $ 22,500.00 ",chevrolet,door,2016,clean vehicle,66640,white,oregon, usa
+684," $ 14,500.00 ",chevrolet,door,2014,clean vehicle,122018,white,oregon, usa
+685," $ 32,800.00 ",chevrolet,tahoe,2018,clean vehicle,46915,gray,oklahoma, usa
+686," $ 12,300.00 ",chevrolet,malibu,2018,clean vehicle,53599,black,oklahoma, usa
+687," $ 19,600.00 ",chevrolet,1500,2018,clean vehicle,41672,gray,oklahoma, usa
+688," $ 13,600.00 ",chevrolet,malibu,2018,clean vehicle,36047,white,oklahoma, usa
+689," $ 7,200.00 ",chevrolet,spark,2018,clean vehicle,42561,red,oklahoma, usa
+690," $ 19,900.00 ",chevrolet,1500,2018,clean vehicle,40345,white,oklahoma, usa
+691," $ 13,000.00 ",chevrolet,malibu,2018,clean vehicle,41751,gray,oklahoma, usa
+692," $ 19,700.00 ",chevrolet,door,2016,clean vehicle,27593,white,oklahoma, usa
+693," $ 9,400.00 ",chevrolet,door,2017,clean vehicle,24009,blue,oklahoma, usa
+694," $ 23,800.00 ",chevrolet,1500,2017,clean vehicle,85697,white,oklahoma, usa
+695," $ 17,700.00 ",chevrolet,equinox,2019,clean vehicle,25223,white,new york, usa
+696," $ 17,000.00 ",chevrolet,door,2015,clean vehicle,27927,white,oklahoma, usa
+697," $ 14,000.00 ",chevrolet,door,2014,clean vehicle,135127,red,florida, usa
+698," $ 32,100.00 ",chevrolet,2500,2018,clean vehicle,55532,white,pennsylvania, usa
+699," $ 33,100.00 ",chevrolet,2500,2019,clean vehicle,72172,white,pennsylvania, usa
+700," $ 31,600.00 ",chevrolet,2500,2018,clean vehicle,57751,white,pennsylvania, usa
+701," $ 5,100.00 ",chevrolet,door,2013,clean vehicle,96314,gray,pennsylvania, usa
+702," $ 4,100.00 ",chevrolet,door,2013,clean vehicle,89152,blue,pennsylvania, usa
+703," $ 7,200.00 ",chevrolet,door,2014,clean vehicle,114660,silver,texas, usa
+704," $ 12,800.00 ",chevrolet,1500,2014,clean vehicle,177322,white,texas, usa
+705," $ 46,800.00 ",chevrolet,1500,2019,clean vehicle,36423,gray,nebraska, usa
+706," $ 21,800.00 ",chevrolet,van,2019,clean vehicle,23759,white,missouri, usa
+707," $ 3,000.00 ",chevrolet,door,2013,clean vehicle,120667,gray,texas, usa
+708," $ 22,500.00 ",chevrolet,colorado,2017,clean vehicle,65344,red,indiana, usa
+709," $ 35,300.00 ",chevrolet,suburban,2018,clean vehicle,51347,black,missouri, usa
+710," $ 16,500.00 ",chevrolet,volt,2017,clean vehicle,52322,black,oklahoma, usa
+711," $ 33,000.00 ",chevrolet,door,2017,clean vehicle,67620,black,missouri, usa
+712," $ 31,500.00 ",chevrolet,1500,2017,clean vehicle,59965,black,missouri, usa
+713," $ 34,500.00 ",chevrolet,1500,2017,clean vehicle,28739,silver,missouri, usa
+714," $ 8,000.00 ",chevrolet,trax,2016,clean vehicle,77429,silver,west virginia, usa
+715," $ 25,000.00 ",chevrolet,1500,2017,clean vehicle,20847,white,west virginia, usa
+716," $ 10,700.00 ",chevrolet,trax,2016,clean vehicle,44280,red,west virginia, usa
+717," $ 13,400.00 ",chevrolet,door,2016,clean vehicle,86031,silver,west virginia, usa
+718," $ 16,500.00 ",chevrolet,equinox,2019,clean vehicle,7622,gold,west virginia, usa
+719," $ 34,000.00 ",chevrolet,traverse,2019,clean vehicle,8067,white,west virginia, usa
+720," $ 14,100.00 ",chevrolet,trax,2018,clean vehicle,16502,white,west virginia, usa
+721," $ 38,600.00 ",chevrolet,1500,2019,clean vehicle,20681,black,west virginia, usa
+722," $ 9,100.00 ",chevrolet,door,2016,clean vehicle,54655,blue,missouri, usa
+723," $ 8,600.00 ",chevrolet,door,2016,clean vehicle,57825,blue,missouri, usa
+724," $ 22,000.00 ",chevrolet,door,2016,clean vehicle,58856,white,oklahoma, usa
+725," $ 8,900.00 ",chevrolet,colorado,2015,clean vehicle,85072,white,west virginia, usa
+726," $ 15,500.00 ",chevrolet,door,2015,clean vehicle,79506,red,west virginia, usa
+727," $ 3,300.00 ",chevrolet,door,2015,clean vehicle,85301,silver,west virginia, usa
+728," $ 29,000.00 ",chevrolet,1500,2015,clean vehicle,69377,brown,missouri, usa
+729," $ 17,300.00 ",chevrolet,equinox,2020,clean vehicle,15577,black,nevada, usa
+730," $ 30,500.00 ",chevrolet,traverse,2020,clean vehicle,23470,silver,nevada, usa
+731," $ 25,000.00 ",chevrolet,impala,2020,clean vehicle,18715,silver,nevada, usa
+732," $ 2,800.00 ",chevrolet,cruze,2012,clean vehicle,61258,white,illinois, usa
+733," $ 3,300.00 ",chevrolet,door,2012,clean vehicle,131791,no_color,illinois, usa
+734," $ 36,400.00 ",chevrolet,suburban,2019,clean vehicle,35705,silver,nevada, usa
+735," $ 34,800.00 ",chevrolet,suburban,2019,clean vehicle,48982,silver,nevada, usa
+736," $ 20,700.00 ",chevrolet,ld,2019,clean vehicle,33745,white,nevada, usa
+737," $ 32,200.00 ",chevrolet,suburban,2019,clean vehicle,42267,silver,nevada, usa
+738," $ 35,300.00 ",chevrolet,tahoe,2019,clean vehicle,46863,black,nevada, usa
+739," $ 33,500.00 ",chevrolet,suburban,2019,clean vehicle,36443,white,nevada, usa
+740," $ 13,700.00 ",chevrolet,impala,2019,clean vehicle,14939,blue,nevada, usa
+741," $ 15,900.00 ",chevrolet,malibu,2019,clean vehicle,22026,black,nevada, usa
+742," $ 33,200.00 ",chevrolet,suburban,2019,clean vehicle,38278,black,nevada, usa
+743," $ 35,500.00 ",chevrolet,suburban,2019,clean vehicle,46149,silver,nevada, usa
+744," $ 29,800.00 ",chevrolet,suburban,2018,clean vehicle,48427,silver,nevada, usa
+745," $ 29,800.00 ",chevrolet,suburban,2018,clean vehicle,48807,gray,nevada, usa
+746," $ 29,500.00 ",chevrolet,suburban,2018,clean vehicle,52618,silver,nevada, usa
+747," $ 30,300.00 ",chevrolet,suburban,2018,clean vehicle,46494,white,nevada, usa
+748," $ 24,300.00 ",chevrolet,1500,2018,clean vehicle,56296,black,new york, usa
+749," $ 29,800.00 ",chevrolet,suburban,2017,clean vehicle,33909,silver,nevada, usa
+750," $ 29,800.00 ",chevrolet,suburban,2017,clean vehicle,33028,white,nevada, usa
+751," $ 27,500.00 ",chevrolet,camaro,2016,clean vehicle,44653,white,nevada, usa
+752," $ 10,800.00 ",chevrolet,door,2017,clean vehicle,80516,gray,new jersey, usa
+753," $ 11,500.00 ",chevrolet,van,2017,clean vehicle,105151,white,new jersey, usa
+754," $ 10,400.00 ",chevrolet,van,2017,clean vehicle,78368,white,new jersey, usa
+755," $ 11,400.00 ",chevrolet,equinox,2018,clean vehicle,78956,white,florida, usa
+756," $ 11,400.00 ",chevrolet,equinox,2018,clean vehicle,88564,white,florida, usa
+757," $ 8,000.00 ",chevrolet,door,2015,clean vehicle,78800,white,nevada, usa
+758," $ 3,000.00 ",chevrolet,door,2012,clean vehicle,111856,white,california, usa
+759," $ 25,000.00 ",chevrolet,door,2015,clean vehicle,80946,black,nevada, usa
+760," $ 12,300.00 ",chevrolet,traverse,2017,clean vehicle,83168,gray,new york, usa
+761," $ 14,100.00 ",chevrolet,traverse,2017,clean vehicle,58606,white,new york, usa
+762," $ 9,000.00 ",chevrolet,van,2014,clean vehicle,82020,white,nevada, usa
+763," $ 4,200.00 ",chevrolet,door,2014,clean vehicle,102500,black,nevada, usa
+764," $ 22,500.00 ",chevrolet,van,2019,clean vehicle,8150,white,texas, usa
+765," $ 22,600.00 ",chevrolet,van,2019,clean vehicle,6159,white,texas, usa
+766," $ 22,600.00 ",chevrolet,van,2019,clean vehicle,5938,white,texas, usa
+767," $ 22,500.00 ",chevrolet,van,2019,clean vehicle,9019,white,texas, usa
+768," $ 10,200.00 ",chevrolet,malibu,2018,clean vehicle,45836,white,texas, usa
+769," $ 42,700.00 ",chevrolet,3500,2016,clean vehicle,60215,white,texas, usa
+770," $ 21,200.00 ",chevrolet,tahoe,2015,clean vehicle,125507,white,texas, usa
+771," $ 22,700.00 ",chevrolet,door,2016,clean vehicle,90944,white,texas, usa
+772," $ 22,000.00 ",chevrolet,tahoe,2015,clean vehicle,82785,gray,texas, usa
+773," $ 9,600.00 ",chevrolet,1500,2014,clean vehicle,150525,white,texas, usa
+774," $ 10,500.00 ",chevrolet,door,2013,clean vehicle,112267,silver,texas, usa
+775," $ 6,700.00 ",chevrolet,door,2013,clean vehicle,139394,white,texas, usa
+776," $ 14,200.00 ",chevrolet,door,2013,clean vehicle,82543,black,texas, usa
+777," $ 15,500.00 ",chevrolet,equinox,2019,clean vehicle,13532,white,florida, usa
+778," $ 35,100.00 ",chevrolet,1500,2018,clean vehicle,14751,blue,kansas, usa
+779," $ 26,300.00 ",chevrolet,camaro,2018,clean vehicle,11150,gray,kansas, usa
+780," $ 15,700.00 ",chevrolet,colorado,2016,clean vehicle,91248,white,new jersey, usa
+781," $ 17,600.00 ",chevrolet,1500,2016,clean vehicle,65336,white,new jersey, usa
+782," $ 18,600.00 ",chevrolet,1500,2016,clean vehicle,48974,white,new jersey, usa
+783," $ 19,100.00 ",chevrolet,1500,2016,clean vehicle,40011,white,new jersey, usa
+784," $ 15,200.00 ",chevrolet,equinox,2019,clean vehicle,37444,black,north carolina, usa
+785," $ 16,100.00 ",chevrolet,equinox,2019,clean vehicle,43199,white,north carolina, usa
+786," $ 14,800.00 ",chevrolet,equinox,2019,clean vehicle,43589,charcoal,north carolina, usa
+787," $ 16,700.00 ",chevrolet,equinox,2019,clean vehicle,32870,charcoal,north carolina, usa
+788," $ 15,300.00 ",chevrolet,equinox,2019,clean vehicle,38826,charcoal,north carolina, usa
+789," $ 16,500.00 ",chevrolet,equinox,2019,clean vehicle,33739,charcoal,north carolina, usa
+790," $ 19,600.00 ",chevrolet,passenger,2019,clean vehicle,35309,white,north carolina, usa
+791," $ 15,200.00 ",chevrolet,impala,2019,clean vehicle,32248,red,north carolina, usa
+792," $ 15,000.00 ",chevrolet,impala,2019,clean vehicle,36165,silver,north carolina, usa
+793," $ 15,500.00 ",chevrolet,impala,2019,clean vehicle,29922,charcoal,north carolina, usa
+794," $ 15,700.00 ",chevrolet,impala,2019,clean vehicle,26848,silver,north carolina, usa
+795," $ 14,800.00 ",chevrolet,impala,2019,clean vehicle,41163,charcoal,north carolina, usa
+796," $ 9,200.00 ",chevrolet,cruze,2017,clean vehicle,32856,red,north carolina, usa
+797," $ 8,200.00 ",chevrolet,impala,2017,clean vehicle,100315,black,north carolina, usa
+798," $ 11,400.00 ",chevrolet,door,2013,clean vehicle,91638,silver,new jersey, usa
+799," $ 6,500.00 ",chevrolet,door,2015,clean vehicle,83173,white,north carolina, usa
+800," $ 11,500.00 ",chevrolet,door,2014,clean vehicle,94356,gray,north carolina, usa
+801," $ 23,800.00 ",chevrolet,door,2015,clean vehicle,85792,black,florida, usa
+802," $ 8,900.00 ",chevrolet,door,2014,clean vehicle,129068,white,florida, usa
+803," $ 28,300.00 ",chevrolet,ld,2019,clean vehicle,27665,red,indiana, usa
+804," $ 27,300.00 ",chevrolet,ld,2019,clean vehicle,25427,black,indiana, usa
+805," $ 3,500.00 ",chevrolet,door,2013,clean vehicle,78198,gray,new jersey, usa
+806," $ 28,300.00 ",chevrolet,colorado,2020,clean vehicle,13886,silver,indiana, usa
+807," $ 18,300.00 ",chevrolet,impala,2019,clean vehicle,34538,silver,indiana, usa
+808," $ 22,500.00 ",dodge,charger,2018,clean vehicle,20575,silver,wisconsin, usa
+809," $ 22,500.00 ",dodge,charger,2018,clean vehicle,26026,gray,wisconsin, usa
+810," $ 8,300.00 ",dodge,door,2012,clean vehicle,99015,gray,wisconsin, usa
+811," $ 16,500.00 ",dodge,caravan,2019,clean vehicle,27327,gray,nebraska, usa
+812," $ 14,500.00 ",dodge,journey,2019,clean vehicle,30229,silver,nebraska, usa
+813," $ 30,000.00 ",dodge,charger,2019,clean vehicle,43294,white,ontario, canada
+814," $ 30,000.00 ",dodge,charger,2019,clean vehicle,54309,orange,ontario, canada
+815," $ 30,000.00 ",dodge,charger,2019,clean vehicle,52822,white,ontario, canada
+816," $ 30,000.00 ",dodge,charger,2019,clean vehicle,45554,white,ontario, canada
+817," $ 30,000.00 ",dodge,charger,2019,clean vehicle,37538,white,ontario, canada
+818," $ 29,500.00 ",dodge,charger,2019,clean vehicle,35153,red,ontario, canada
+819," $ 21,600.00 ",dodge,challenger,2019,clean vehicle,23783,white,washington, usa
+820," $ 22,600.00 ",dodge,charger,2019,clean vehicle,30759,black,washington, usa
+821," $ 16,300.00 ",dodge,caravan,2019,clean vehicle,38922,gray,washington, usa
+822," $ 8,600.00 ",dodge,door,2012,clean vehicle,165836,blue,washington, usa
+823," $ 28,800.00 ",dodge,durango,2019,clean vehicle,19235,no_color,texas, usa
+824," $ 22,100.00 ",dodge,challenger,2019,clean vehicle,9445,gray,texas, usa
+825," $ 14,300.00 ",dodge,journey,2018,clean vehicle,19164,gray,north carolina, usa
+826," $ 13,700.00 ",dodge,caravan,2018,clean vehicle,54106,white,north carolina, usa
+827," $ 29,500.00 ",dodge,challenger,2017,clean vehicle,32051,no_color,arizona, usa
+828," $ 18,500.00 ",dodge,journey,2017,clean vehicle,14870,gray,texas, usa
+829," $ 19,000.00 ",dodge,door,2016,clean vehicle,32294,blue,colorado, usa
+830," $ 43,400.00 ",dodge,challenger,2015,clean vehicle,7250,white,arizona, usa
+831," $ 46,000.00 ",dodge,challenger,2015,clean vehicle,10145,no_color,arizona, usa
+832," $ 12,500.00 ",dodge,journey,2018,clean vehicle,59924,silver,texas, usa
+833," $ 13,900.00 ",dodge,charger,2017,clean vehicle,21304,black,florida, usa
+834," $ 13,000.00 ",dodge,caravan,2018,clean vehicle,52079,white,california, usa
+835," $ 13,000.00 ",dodge,caravan,2018,clean vehicle,54960,white,california, usa
+836," $ 3,000.00 ",dodge,door,2013,clean vehicle,80099,white,texas, usa
+837," $ 17,500.00 ",dodge,caravan,2019,clean vehicle,23987,black,florida, usa
+838," $ 7,900.00 ",dodge,door,2017,clean vehicle,84144,gray,california, usa
+839," $ 8,900.00 ",dodge,door,2014,clean vehicle,85639,blue,florida, usa
+840," $ 11,500.00 ",dodge,caravan,2018,clean vehicle,50193,no_color,pennsylvania, usa
+841," $ 6,500.00 ",dodge,journey,2017,clean vehicle,74392,black,pennsylvania, usa
+842," $ 8,000.00 ",dodge,door,2017,clean vehicle,76117,black,pennsylvania, usa
+843," $ 18,700.00 ",dodge,challenger,2018,clean vehicle,36358,gray,new jersey, usa
+844," $ 8,350.00 ",dodge,journey,2017,clean vehicle,90685,white,florida, usa
+845," $ 27,900.00 ",dodge,charger,2017,clean vehicle,54141,orange,florida, usa
+846," $ 14,500.00 ",dodge,door,2016,clean vehicle,82240,white,pennsylvania, usa
+847," $ 6,200.00 ",dodge,door,2016,clean vehicle,66167,silver,pennsylvania, usa
+848," $ 7,500.00 ",dodge,door,2012,clean vehicle,144220,gray,pennsylvania, usa
+849," $ 20,200.00 ",dodge,caravan,2019,clean vehicle,24722,black,illinois, usa
+850," $ 29,300.00 ",dodge,durango,2019,clean vehicle,41198,silver,illinois, usa
+851," $ 31,000.00 ",dodge,durango,2019,clean vehicle,26353,black,illinois, usa
+852," $ 32,400.00 ",dodge,durango,2019,clean vehicle,28280,white,illinois, usa
+853," $ 5,800.00 ",dodge,door,2012,clean vehicle,130120,white,minnesota, usa
+854," $ 21,500.00 ",dodge,charger,2019,clean vehicle,15340,black,texas, usa
+855," $ 23,100.00 ",dodge,charger,2018,clean vehicle,12265,silver,michigan, usa
+856," $ 4,500.00 ",dodge,van,2014,clean vehicle,94872,gray,texas, usa
+857," $ 24,800.00 ",dodge,charger,2018,clean vehicle,17946,silver,michigan, usa
+858," $ 23,000.00 ",dodge,charger,2018,clean vehicle,26996,gray,michigan, usa
+859," $ 26,900.00 ",dodge,journey,2019,clean vehicle,5775,gray,wisconsin, usa
+860," $ 21,500.00 ",dodge,challenger,2018,clean vehicle,6748,gray,wisconsin, usa
+861," $ 15,700.00 ",dodge,journey,2018,clean vehicle,38128,white,wisconsin, usa
+862," $ 15,200.00 ",dodge,caravan,2018,clean vehicle,41636,silver,wisconsin, usa
+863," $ 23,300.00 ",dodge,charger,2018,clean vehicle,5359,blue,wisconsin, usa
+864," $ 6,100.00 ",dodge,door,2015,clean vehicle,70296,white,minnesota, usa
+865," $ 20,000.00 ",dodge,journey,2017,clean vehicle,11346,green,wisconsin, usa
+866," $ 53,000.00 ",dodge,challenger,2017,clean vehicle,7415,no_color,illinois, usa
+867," $ 3,000.00 ",dodge,door,2013,clean vehicle,107593,orange,minnesota, usa
+868," $ 18,200.00 ",dodge,door,2016,clean vehicle,50639,black,new jersey, usa
+869," $ 21,800.00 ",dodge,challenger,2019,clean vehicle,6530,gray,arizona, usa
+870," $ 52,000.00 ",dodge,charger,2016,clean vehicle,17432,blue,illinois, usa
+871," $ 19,000.00 ",dodge,charger,2019,clean vehicle,19636,black,arizona, usa
+872," $ 25,000.00 ",dodge,challenger,2016,clean vehicle,41748,no_color,illinois, usa
+873," $ 36,000.00 ",dodge,challenger,2016,clean vehicle,13162,red,illinois, usa
+874," $ 17,000.00 ",dodge,caravan,2019,clean vehicle,32937,white,georgia, usa
+875," $ 25,300.00 ",dodge,door,2015,clean vehicle,23095,red,wisconsin, usa
+876," $ 14,900.00 ",dodge,journey,2017,clean vehicle,34432,gray,wisconsin, usa
+877," $ 15,000.00 ",dodge,caravan,2017,clean vehicle,48162,no_color,wisconsin, usa
+878," $ 12,995.00 ",dodge,doors,2014,clean vehicle,68310,gray,massachusetts, usa
+879," $ 17,750.00 ",dodge,doors,2014,clean vehicle,48000,black,massachusetts, usa
+880," $ 10,295.00 ",dodge,doors,2014,clean vehicle,105962,black,pennsylvania, usa
+881," $ 16,995.00 ",dodge,doors,2014,clean vehicle,96575,gray,connecticut, usa
+882," $ 25,000.00 ",dodge,doors,2014,clean vehicle,13239,toreador red,new york, usa
+883," $ 23,995.00 ",dodge,doors,2014,clean vehicle,24934,bright white clearcoat,rhode island, usa
+884," $ 14,900.00 ",dodge,doors,2014,clean vehicle,46859,billet silver metallic clearcoat,new jersey, usa
+885," $ 15,810.00 ",dodge,doors,2014,clean vehicle,44468,black clearcoat,new york, usa
+886," $ 20,227.00 ",dodge,doors,2014,clean vehicle,62230,jazz blue pearlcoat,new york, usa
+887," $ 20,999.00 ",dodge,doors,2014,clean vehicle,37082,silver,new york, usa
+888," $ 22,499.00 ",dodge,doors,2014,clean vehicle,23964,bright white clearcoat,new jersey, usa
+889," $ 23,495.00 ",dodge,doors,2014,clean vehicle,11204,black clearcoat,new york, usa
+890," $ 25,250.00 ",dodge,doors,2014,clean vehicle,7608,billet silver metallic clearcoat,new york, usa
+891," $ 15,322.00 ",dodge,doors,2014,clean vehicle,49982,billet silver metallic clearcoat,new jersey, usa
+892," $ 21,232.00 ",dodge,charger,2019,clean vehicle,4950,gray,texas, usa
+893," $ 5,800.00 ",dodge,journey,2013,clean vehicle,111628,white,wisconsin, usa
+894," $ 29,000.00 ",dodge,door,2012,clean vehicle,15927,black,illinois, usa
+895," $ 17,000.00 ",dodge,caravan,2018,clean vehicle,36299,gray,new jersey, usa
+896," $ 13,800.00 ",dodge,journey,2018,clean vehicle,28469,red,florida, usa
+897," $ 30,000.00 ",dodge,durango,2019,clean vehicle,29086,gray,missouri, usa
+898," $ 14,800.00 ",dodge,caravan,2017,clean vehicle,35991,gray,florida, usa
+899," $ 8,500.00 ",dodge,journey,2017,clean vehicle,62224,black,missouri, usa
+900," $ 9,800.00 ",dodge,door,2013,clean vehicle,86500,white,missouri, usa
+901," $ 4,200.00 ",dodge,door,2014,clean vehicle,144725,gray,nevada, usa
+902," $ 2,500.00 ",dodge,van,2013,salvage insurance,163260,red,tennessee, usa
+903," $ 28,700.00 ",dodge,charger,2018,clean vehicle,19636,blue,california, usa
+904," $ 18,500.00 ",dodge,challenger,2018,clean vehicle,34272,gray,california, usa
+905," $ 17,300.00 ",dodge,challenger,2018,clean vehicle,42909,no_color,california, usa
+906," $ 7,100.00 ",dodge,door,2016,clean vehicle,55749,gray,louisiana, usa
+907," $ 3,250.00 ",dodge,door,2015,salvage insurance,89142,white,minnesota, usa
+908," $ 30,700.00 ",dodge,durango,2017,clean vehicle,20328,no_color,california, usa
+909," $ 3,000.00 ",dodge,door,2012,clean vehicle,149332,gray,missouri, usa
+910," $ 26,500.00 ",dodge,durango,2019,clean vehicle,28551,gray,california, usa
+911," $ 20,800.00 ",dodge,charger,2019,clean vehicle,35098,gray,california, usa
+912," $ 20,800.00 ",dodge,charger,2019,clean vehicle,35365,gray,california, usa
+913," $ 5,100.00 ",dodge,door,2015,clean vehicle,88398,white,california, usa
+914," $ 18,900.00 ",dodge,challenger,2019,clean vehicle,27957,black,california, usa
+915," $ 24,000.00 ",dodge,durango,2019,clean vehicle,30161,silver,california, usa
+916," $ 38,800.00 ",dodge,challenger,2015,clean vehicle,26292,white,california, usa
+917," $ 24,500.00 ",dodge,durango,2019,clean vehicle,25780,white,california, usa
+918," $ 24,500.00 ",dodge,durango,2019,clean vehicle,25032,black,california, usa
+919," $ 6,500.00 ",dodge,door,2016,clean vehicle,72248,blue,new jersey, usa
+920," $ 24,000.00 ",dodge,durango,2019,clean vehicle,30630,gray,california, usa
+921," $ 18,000.00 ",dodge,door,2014,clean vehicle,86125,no_color,california, usa
+922," $ 24,000.00 ",dodge,durango,2019,clean vehicle,30408,white,california, usa
+923," $ 23,500.00 ",dodge,durango,2019,clean vehicle,35443,silver,california, usa
+924," $ 4,500.00 ",dodge,van,2014,clean vehicle,95377,white,california, usa
+925," $ 25,900.00 ",dodge,durango,2019,clean vehicle,32724,silver,california, usa
+926," $ 13,900.00 ",dodge,caravan,2019,clean vehicle,45089,gray,california, usa
+927," $ 14,200.00 ",dodge,journey,2019,clean vehicle,35948,silver,california, usa
+928," $ 15,400.00 ",dodge,caravan,2019,clean vehicle,41601,blue,california, usa
+929," $ 17,500.00 ",dodge,challenger,2019,clean vehicle,26370,gray,texas, usa
+930," $ 17,500.00 ",dodge,caravan,2019,clean vehicle,18271,white,texas, usa
+931," $ 18,000.00 ",dodge,caravan,2019,clean vehicle,9476,white,texas, usa
+932," $ 25,200.00 ",dodge,door,2012,clean vehicle,80899,gray,new jersey, usa
+933," $ 14,100.00 ",dodge,caravan,2018,clean vehicle,57394,black,texas, usa
+934," $ 13,300.00 ",dodge,caravan,2018,clean vehicle,42190,white,california, usa
+935," $ 16,200.00 ",dodge,caravan,2019,clean vehicle,22591,black,oklahoma, usa
+936," $ 13,300.00 ",dodge,caravan,2018,clean vehicle,48681,gray,california, usa
+937," $ 13,100.00 ",dodge,caravan,2018,clean vehicle,42621,silver,california, usa
+938," $ 15,500.00 ",dodge,caravan,2017,clean vehicle,27761,silver,california, usa
+939," $ 4,500.00 ",dodge,door,2013,salvage insurance,107768,white,california, usa
+940," $ 28,400.00 ",dodge,durango,2019,clean vehicle,14355,gray,colorado, usa
+941," $ 17,400.00 ",dodge,caravan,2019,clean vehicle,9467,gray,colorado, usa
+942," $ 6,000.00 ",dodge,door,2014,clean vehicle,122837,silver,florida, usa
+943," $ 20,700.00 ",dodge,challenger,2019,clean vehicle,18313,gray,virginia, usa
+944," $ 20,300.00 ",dodge,challenger,2019,clean vehicle,19506,black,virginia, usa
+945," $ 14,000.00 ",dodge,journey,2018,clean vehicle,14750,black,oklahoma, usa
+946," $ 22,000.00 ",dodge,challenger,2019,clean vehicle,11280,green,virginia, usa
+947," $ 17,200.00 ",dodge,journey,2019,clean vehicle,13944,blue,virginia, usa
+948," $ 15,000.00 ",dodge,door,2016,clean vehicle,26922,blue,oklahoma, usa
+949," $ 17,500.00 ",dodge,journey,2019,clean vehicle,12690,gray,virginia, usa
+950," $ 1,300.00 ",dodge,door,2013,salvage insurance,239822,gray,michigan, usa
+951," $ 1,750.00 ",dodge,door,2014,salvage insurance,74975,red,nevada, usa
+952," $ 16,300.00 ",dodge,caravan,2019,clean vehicle,28289,red,florida, usa
+953," $ 15,700.00 ",dodge,caravan,2019,clean vehicle,38041,red,florida, usa
+954," $ 10,000.00 ",dodge,journey,2017,clean vehicle,52386,silver,florida, usa
+955," $ 23,100.00 ",dodge,charger,2019,clean vehicle,34391,white,florida, usa
+956," $ 14,900.00 ",dodge,caravan,2019,clean vehicle,39515,red,florida, usa
+957," $ 16,700.00 ",dodge,journey,2019,clean vehicle,22074,orange,virginia, usa
+958," $ 16,300.00 ",dodge,caravan,2019,clean vehicle,28782,white,florida, usa
+959," $ 25,800.00 ",dodge,durango,2019,clean vehicle,30092,red,north carolina, usa
+960," $ 23,800.00 ",dodge,challenger,2019,clean vehicle,26443,black,north carolina, usa
+961," $ 16,800.00 ",dodge,journey,2019,clean vehicle,28981,red,north carolina, usa
+962," $ 15,500.00 ",dodge,journey,2019,clean vehicle,32865,white,north carolina, usa
+963," $ 6,000.00 ",dodge,door,2014,clean vehicle,117258,blue,florida, usa
+964," $ 26,900.00 ",dodge,durango,2019,clean vehicle,16397,white,arizona, usa
+965," $ 16,900.00 ",dodge,caravan,2019,clean vehicle,16176,white,arizona, usa
+966," $ 19,500.00 ",dodge,caravan,2019,clean vehicle,1091,gray,arizona, usa
+967," $ 15,400.00 ",dodge,caravan,2019,clean vehicle,17472,black,arizona, usa
+968," $ 2,300.00 ",dodge,door,2012,clean vehicle,123882,white,texas, usa
+969," $ 17,000.00 ",dodge,charger,2019,clean vehicle,10341,red,california, usa
+970," $ 34,000.00 ",dodge,durango,2019,clean vehicle,19695,black,new jersey, usa
+971," $ 13,700.00 ",dodge,journey,2017,clean vehicle,51041,black,pennsylvania, usa
+972," $ 19,100.00 ",dodge,challenger,2018,clean vehicle,22646,white,west virginia, usa
+973," $ 11,800.00 ",dodge,journey,2018,clean vehicle,18138,white,west virginia, usa
+974," $ 27,500.00 ",dodge,durango,2019,clean vehicle,23987,gray,nevada, usa
+975," $ 26,900.00 ",dodge,durango,2019,clean vehicle,17160,black,nevada, usa
+976," $ 27,100.00 ",dodge,durango,2019,clean vehicle,26929,white,nevada, usa
+977," $ 27,200.00 ",dodge,durango,2019,clean vehicle,25815,white,nevada, usa
+978," $ 9,000.00 ",dodge,caravan,2017,clean vehicle,81992,silver,florida, usa
+979," $ 22,500.00 ",dodge,challenger,2019,clean vehicle,5000,gray,south carolina, usa
+980," $ 7,700.00 ",dodge,door,2015,clean vehicle,62683,white,west virginia, usa
+981," $ 4,500.00 ",dodge,van,2013,clean vehicle,107224,white,florida, usa
+982," $ 2,200.00 ",dodge,door,2013,salvage insurance,184905,gray,illinois, usa
+983," $ 21,500.00 ",dodge,charger,2019,clean vehicle,35153,black,pennsylvania, usa
+984," $ 18,800.00 ",dodge,challenger,2019,clean vehicle,26474,orange,pennsylvania, usa
+985," $ 21,800.00 ",dodge,charger,2019,clean vehicle,30943,red,pennsylvania, usa
+986," $ 20,300.00 ",dodge,challenger,2019,clean vehicle,17154,black,pennsylvania, usa
+987," $ 8,200.00 ",dodge,van,2016,clean vehicle,79637,white,south carolina, usa
+988," $ 19,000.00 ",dodge,caravan,2019,clean vehicle,12123,red,pennsylvania, usa
+989," $ 8,400.00 ",dodge,door,2016,clean vehicle,107822,blue,south carolina, usa
+990," $ 19,500.00 ",dodge,caravan,2019,clean vehicle,10221,blue,pennsylvania, usa
+991," $ 7,000.00 ",dodge,door,2015,clean vehicle,95278,blue,south carolina, usa
+992," $ 19,500.00 ",dodge,challenger,2019,clean vehicle,13457,gray,pennsylvania, usa
+993," $ 8,500.00 ",dodge,van,2014,clean vehicle,69936,blue,missouri, usa
+994," $ 20,500.00 ",dodge,challenger,2019,clean vehicle,13520,gray,pennsylvania, usa
+995," $ 4,900.00 ",dodge,door,2014,clean vehicle,96922,silver,south carolina, usa
+996," $ 20,800.00 ",dodge,door,2014,clean vehicle,72594,black,missouri, usa
+997," $ 28,500.00 ",dodge,durango,2019,clean vehicle,17896,silver,pennsylvania, usa
+998," $ 21,900.00 ",dodge,caravan,2019,clean vehicle,11088,silver,pennsylvania, usa
+999," $ 15,800.00 ",dodge,caravan,2019,clean vehicle,29567,black,nevada, usa
+1000," $ 33,000.00 ",dodge,durango,2019,clean vehicle,15655,white,colorado, usa
+1001," $ 22,700.00 ",dodge,challenger,2019,clean vehicle,26428,black,nevada, usa
+1002," $ 21,900.00 ",dodge,charger,2019,clean vehicle,29003,white,pennsylvania, usa
+1003," $ 19,300.00 ",dodge,charger,2019,clean vehicle,32229,red,pennsylvania, usa
+1004," $ 30,700.00 ",dodge,durango,2019,clean vehicle,26503,black,nevada, usa
+1005," $ 19,300.00 ",dodge,challenger,2019,clean vehicle,15446,black,pennsylvania, usa
+1006," $ 13,750.00 ",dodge,caravan,2014,clean vehicle,128556,white,california, usa
+1007," $ 16,400.00 ",dodge,caravan,2019,clean vehicle,23369,silver,nevada, usa
+1008," $ 19,500.00 ",dodge,caravan,2019,clean vehicle,8767,black,pennsylvania, usa
+1009," $ 15,100.00 ",dodge,caravan,2019,clean vehicle,48319,white,nevada, usa
+1010," $ 28,500.00 ",dodge,durango,2019,clean vehicle,15275,black,pennsylvania, usa
+1011," $ 15,300.00 ",dodge,caravan,2019,clean vehicle,33826,white,nevada, usa
+1012," $ 20,300.00 ",dodge,challenger,2019,clean vehicle,16679,white,pennsylvania, usa
+1013," $ 22,000.00 ",dodge,charger,2019,clean vehicle,26184,gray,pennsylvania, usa
+1014," $ 16,700.00 ",dodge,journey,2019,clean vehicle,21203,gray,nevada, usa
+1015," $ 19,300.00 ",dodge,challenger,2019,clean vehicle,17870,black,pennsylvania, usa
+1016," $ 34,100.00 ",dodge,durango,2019,clean vehicle,17909,gray,michigan, usa
+1017," $ 14,600.00 ",dodge,caravan,2019,clean vehicle,41126,silver,nevada, usa
+1018," $ 18,200.00 ",dodge,caravan,2019,clean vehicle,14098,red,pennsylvania, usa
+1019," $ 33,800.00 ",dodge,durango,2019,clean vehicle,15003,black,michigan, usa
+1020," $ 15,900.00 ",dodge,journey,2019,clean vehicle,29105,black,nevada, usa
+1021," $ 16,500.00 ",dodge,caravan,2019,clean vehicle,34794,black,pennsylvania, usa
+1022," $ 29,600.00 ",dodge,durango,2019,clean vehicle,20034,silver,michigan, usa
+1023," $ 14,100.00 ",dodge,caravan,2019,clean vehicle,46942,black,nevada, usa
+1024," $ 18,200.00 ",dodge,caravan,2019,clean vehicle,14753,white,pennsylvania, usa
+1025," $ 18,200.00 ",dodge,caravan,2019,clean vehicle,14359,black,pennsylvania, usa
+1026," $ 24,300.00 ",dodge,charger,2019,clean vehicle,34922,black,michigan, usa
+1027," $ 15,400.00 ",dodge,journey,2019,clean vehicle,20944,white,nevada, usa
+1028," $ 19,000.00 ",dodge,journey,2019,clean vehicle,9877,white,pennsylvania, usa
+1029," $ 19,000.00 ",dodge,journey,2019,clean vehicle,8949,black,pennsylvania, usa
+1030," $ 27,800.00 ",dodge,challenger,2017,clean vehicle,13627,gray,georgia, usa
+1031," $ 18,200.00 ",dodge,journey,2019,clean vehicle,18291,blue,pennsylvania, usa
+1032," $ 15,000.00 ",dodge,journey,2018,clean vehicle,38029,white,pennsylvania, usa
+1033," $ 19,200.00 ",dodge,caravan,2017,clean vehicle,32593,gray,michigan, usa
+1034," $ 15,500.00 ",dodge,caravan,2018,clean vehicle,37352,red,pennsylvania, usa
+1035," $ 24,900.00 ",dodge,challenger,2017,clean vehicle,23030,green,michigan, usa
+1036," $ 15,500.00 ",dodge,journey,2018,clean vehicle,30671,red,pennsylvania, usa
+1037," $ 7,600.00 ",dodge,door,2012,salvage insurance,79544,white,texas, usa
+1038," $ 18,400.00 ",dodge,journey,2017,clean vehicle,15027,black,michigan, usa
+1039," $ 14,700.00 ",dodge,caravan,2018,clean vehicle,29115,white,florida, usa
+1040," $ 3,900.00 ",dodge,door,2015,clean vehicle,93604,white,florida, usa
+1041," $ 5,200.00 ",dodge,door,2015,clean vehicle,100203,black,florida, usa
+1042," $ 17,200.00 ",dodge,caravan,2019,clean vehicle,35401,silver,minnesota, usa
+1043," $ 18,700.00 ",dodge,caravan,2019,clean vehicle,20279,red,minnesota, usa
+1044," $ 32,000.00 ",dodge,durango,2019,clean vehicle,26090,red,minnesota, usa
+1045," $ 14,500.00 ",dodge,door,2015,clean vehicle,107924,white,michigan, usa
+1046," $ 19,400.00 ",dodge,caravan,2019,clean vehicle,14906,black,minnesota, usa
+1047," $ 17,300.00 ",dodge,caravan,2019,clean vehicle,34407,black,minnesota, usa
+1048," $ 16,700.00 ",dodge,journey,2019,clean vehicle,18049,orange,minnesota, usa
+1049," $ 19,100.00 ",dodge,caravan,2019,clean vehicle,18132,white,minnesota, usa
+1050," $ 11,100.00 ",dodge,door,2013,clean vehicle,109176,black,illinois, usa
+1051," $ 32,000.00 ",dodge,durango,2019,clean vehicle,25456,black,minnesota, usa
+1052," $ 16,900.00 ",dodge,caravan,2019,clean vehicle,38375,silver,minnesota, usa
+1053," $ 18,000.00 ",dodge,charger,2017,clean vehicle,39792,blue,massachusetts, usa
+1054," $ 17,800.00 ",dodge,caravan,2019,clean vehicle,30403,white,minnesota, usa
+1055," $ 18,000.00 ",dodge,caravan,2019,clean vehicle,28252,white,minnesota, usa
+1056," $ 17,500.00 ",dodge,caravan,2019,clean vehicle,31904,white,minnesota, usa
+1057," $ 14,500.00 ",dodge,caravan,2018,clean vehicle,24336,silver,nevada, usa
+1058," $ 18,500.00 ",dodge,caravan,2019,clean vehicle,23961,silver,minnesota, usa
+1059," $ 18,600.00 ",dodge,caravan,2019,clean vehicle,22919,silver,minnesota, usa
+1060," $ 32,000.00 ",dodge,durango,2019,clean vehicle,22863,red,minnesota, usa
+1061," $ 17,000.00 ",dodge,caravan,2019,clean vehicle,38817,black,minnesota, usa
+1062," $ 16,000.00 ",dodge,caravan,2019,clean vehicle,48854,white,minnesota, usa
+1063," $ 18,000.00 ",dodge,caravan,2019,clean vehicle,27288,white,minnesota, usa
+1064," $ 15,900.00 ",dodge,charger,2020,clean vehicle,5284,orange,pennsylvania, usa
+1065," $ 6,200.00 ",dodge,door,2016,clean vehicle,99988,silver,alabama, usa
+1066," $ 3,700.00 ",dodge,door,2013,clean vehicle,84109,black,alabama, usa
+1067," $ 24,000.00 ",dodge,door,2012,clean vehicle,88539,white,mississippi, usa
+1068," $ 20,800.00 ",dodge,van,2013,clean vehicle,33739,gold,nevada, usa
+1069," $ 18,500.00 ",dodge,door,2012,clean vehicle,101017,white,mississippi, usa
+1070," $ 18,300.00 ",dodge,challenger,2019,clean vehicle,13906,black,pennsylvania, usa
+1071," $ 21,000.00 ",dodge,charger,2019,clean vehicle,20601,gray,pennsylvania, usa
+1072," $ 1,300.00 ",dodge,van,2013,salvage insurance,135561,white,tennessee, usa
+1073," $ 11,900.00 ",dodge,charger,2019,clean vehicle,23421,gray,pennsylvania, usa
+1074, $ 950.00 ,dodge,van,2012,salvage insurance,145174,white,maryland, usa
+1075," $ 26,800.00 ",dodge,durango,2019,clean vehicle,21309,gray,pennsylvania, usa
+1076, $ 800.00 ,dodge,van,2012,salvage insurance,217576,orange,north carolina, usa
+1077," $ 21,000.00 ",dodge,caravan,2019,clean vehicle,10350,white,pennsylvania, usa
+1078," $ 1,900.00 ",dodge,door,2012,salvage insurance,157636,orange,georgia, usa
+1079," $ 33,500.00 ",dodge,durango,2019,clean vehicle,8605,white,pennsylvania, usa
+1080, $ 900.00 ,dodge,door,2013,salvage insurance,139404,blue,connecticut, usa
+1081," $ 21,000.00 ",dodge,caravan,2019,clean vehicle,10170,gray,pennsylvania, usa
+1082," $ 26,800.00 ",dodge,durango,2019,clean vehicle,22272,silver,pennsylvania, usa
+1083," $ 5,700.00 ",dodge,van,2016,clean vehicle,101906,blue,texas, usa
+1084," $ 18,500.00 ",dodge,challenger,2019,clean vehicle,27019,green,pennsylvania, usa
+1085," $ 33,000.00 ",dodge,durango,2019,clean vehicle,10930,white,pennsylvania, usa
+1086," $ 11,000.00 ",dodge,caravan,2019,clean vehicle,73552,silver,texas, usa
+1087," $ 15,800.00 ",dodge,caravan,2019,clean vehicle,37107,blue,pennsylvania, usa
+1088," $ 3,600.00 ",dodge,door,2013,salvage insurance,124247,white,michigan, usa
+1089," $ 16,300.00 ",dodge,caravan,2019,clean vehicle,36993,white,pennsylvania, usa
+1090," $ 2,700.00 ",dodge,door,2015,clean vehicle,67133,white,texas, usa
+1091," $ 12,800.00 ",dodge,caravan,2019,clean vehicle,33580,no_color,pennsylvania, usa
+1092," $ 9,700.00 ",dodge,door,2015,clean vehicle,94140,black,texas, usa
+1093," $ 18,300.00 ",dodge,journey,2019,clean vehicle,10447,silver,pennsylvania, usa
+1094," $ 16,000.00 ",dodge,charger,2019,clean vehicle,10229,silver,illinois, usa
+1095," $ 21,000.00 ",dodge,caravan,2019,clean vehicle,6269,gray,pennsylvania, usa
+1096," $ 3,700.00 ",dodge,door,2014,clean vehicle,98699,white,texas, usa
+1097," $ 33,000.00 ",dodge,durango,2019,clean vehicle,10631,gray,illinois, usa
+1098," $ 14,700.00 ",dodge,caravan,2019,clean vehicle,44381,silver,pennsylvania, usa
+1099," $ 33,000.00 ",dodge,durango,2019,clean vehicle,13960,silver,illinois, usa
+1100," $ 15,900.00 ",dodge,caravan,2019,clean vehicle,14051,white,pennsylvania, usa
+1101," $ 33,000.00 ",dodge,durango,2019,clean vehicle,20800,gray,illinois, usa
+1102," $ 33,000.00 ",dodge,durango,2019,clean vehicle,8873,gray,illinois, usa
+1103," $ 32,500.00 ",dodge,durango,2019,clean vehicle,15502,black,illinois, usa
+1104," $ 33,000.00 ",dodge,durango,2019,clean vehicle,9669,silver,illinois, usa
+1105," $ 13,000.00 ",dodge,caravan,2018,clean vehicle,50873,black,virginia, usa
+1106," $ 33,000.00 ",dodge,durango,2019,clean vehicle,14117,white,illinois, usa
+1107," $ 16,500.00 ",dodge,charger,2019,clean vehicle,46820,red,illinois, usa
+1108," $ 33,000.00 ",dodge,durango,2019,clean vehicle,7247,gray,illinois, usa
+1109," $ 34,500.00 ",dodge,challenger,2017,clean vehicle,40991,red,north carolina, usa
+1110," $ 33,500.00 ",dodge,durango,2019,clean vehicle,9023,white,illinois, usa
+1111," $ 48,000.00 ",dodge,durango,2018,clean vehicle,8047,white,pennsylvania, usa
+1112," $ 54,500.00 ",dodge,durango,2019,clean vehicle,3966,red,illinois, usa
+1113," $ 13,200.00 ",dodge,caravan,2018,clean vehicle,41014,silver,pennsylvania, usa
+1114," $ 31,500.00 ",dodge,durango,2018,clean vehicle,20907,white,illinois, usa
+1115," $ 17,400.00 ",dodge,durango,2017,clean vehicle,89795,red,illinois, usa
+1116," $ 26,000.00 ",dodge,durango,2017,clean vehicle,57158,white,illinois, usa
+1117," $ 1,700.00 ",dodge,door,2013,salvage insurance,126718,orange,texas, usa
+1118," $ 11,000.00 ",dodge,door,2013,clean vehicle,83976,white,illinois, usa
+1119," $ 21,000.00 ",dodge,charger,2018,clean vehicle,12554,gray,texas, usa
+1120," $ 5,500.00 ",dodge,door,2015,clean vehicle,60707,gray,texas, usa
+1121," $ 7,500.00 ",dodge,door,2014,clean vehicle,40110,red,texas, usa
+1122," $ 15,800.00 ",dodge,caravan,2019,clean vehicle,28038,silver,michigan, usa
+1123," $ 16,900.00 ",dodge,journey,2019,clean vehicle,26643,red,michigan, usa
+1124," $ 25,000.00 ",dodge,durango,2019,clean vehicle,36127,white,michigan, usa
+1125," $ 18,000.00 ",dodge,door,2019,salvage insurance,19983,black,massachusetts, usa
+1126," $ 15,600.00 ",dodge,caravan,2019,clean vehicle,29926,black,michigan, usa
+1127," $ 23,800.00 ",dodge,durango,2019,clean vehicle,36750,white,north carolina, usa
+1128," $ 16,800.00 ",dodge,journey,2019,clean vehicle,27312,black,michigan, usa
+1129," $ 22,700.00 ",dodge,durango,2019,clean vehicle,49575,white,north carolina, usa
+1130," $ 23,300.00 ",dodge,challenger,2019,clean vehicle,30279,red,north carolina, usa
+1131," $ 23,500.00 ",dodge,challenger,2019,clean vehicle,25825,white,north carolina, usa
+1132," $ 25,500.00 ",dodge,durango,2019,clean vehicle,32474,silver,north carolina, usa
+1133," $ 21,800.00 ",dodge,challenger,2019,clean vehicle,30585,white,north carolina, usa
+1134," $ 22,800.00 ",dodge,durango,2019,clean vehicle,36203,gray,north carolina, usa
+1135," $ 18,200.00 ",dodge,caravan,2019,clean vehicle,29602,red,michigan, usa
+1136," $ 23,500.00 ",dodge,challenger,2019,clean vehicle,28689,red,north carolina, usa
+1137," $ 25,700.00 ",dodge,durango,2019,clean vehicle,31447,charcoal,north carolina, usa
+1138," $ 15,700.00 ",dodge,caravan,2019,clean vehicle,39148,white,north carolina, usa
+1139," $ 17,500.00 ",dodge,journey,2018,clean vehicle,33495,silver,michigan, usa
+1140," $ 15,700.00 ",dodge,caravan,2019,clean vehicle,35274,white,north carolina, usa
+1141," $ 16,500.00 ",dodge,caravan,2018,clean vehicle,48745,white,indiana, usa
+1142," $ 16,100.00 ",dodge,caravan,2019,clean vehicle,31297,red,north carolina, usa
+1143," $ 15,600.00 ",dodge,caravan,2019,clean vehicle,38745,charcoal,north carolina, usa
+1144," $ 15,400.00 ",dodge,caravan,2019,clean vehicle,37704,gray,north carolina, usa
+1145," $ 28,200.00 ",dodge,durango,2017,clean vehicle,27060,white,michigan, usa
+1146," $ 15,300.00 ",dodge,caravan,2019,clean vehicle,40002,no_color,north carolina, usa
+1147," $ 15,900.00 ",dodge,caravan,2019,clean vehicle,34930,red,north carolina, usa
+1148," $ 17,700.00 ",dodge,door,2016,clean vehicle,22863,gray,indiana, usa
+1149," $ 15,800.00 ",dodge,caravan,2019,clean vehicle,36876,white,north carolina, usa
+1150," $ 15,900.00 ",dodge,caravan,2019,clean vehicle,34264,charcoal,north carolina, usa
+1151," $ 25,300.00 ",dodge,charger,2019,clean vehicle,17515,red,new mexico, usa
+1152," $ 16,300.00 ",dodge,caravan,2019,clean vehicle,27071,silver,north carolina, usa
+1153," $ 29,500.00 ",dodge,durango,2019,clean vehicle,14656,gray,new mexico, usa
+1154," $ 14,500.00 ",dodge,caravan,2019,clean vehicle,35652,gray,north carolina, usa
+1155," $ 15,400.00 ",dodge,caravan,2019,clean vehicle,30055,no_color,north carolina, usa
+1156," $ 15,400.00 ",dodge,caravan,2019,clean vehicle,43088,charcoal,north carolina, usa
+1157," $ 15,100.00 ",dodge,caravan,2019,clean vehicle,33641,purple,north carolina, usa
+1158," $ 15,000.00 ",dodge,caravan,2019,clean vehicle,34797,black,north carolina, usa
+1159," $ 15,500.00 ",dodge,caravan,2019,clean vehicle,43943,gray,north carolina, usa
+1160," $ 15,000.00 ",dodge,caravan,2019,clean vehicle,35744,no_color,north carolina, usa
+1161," $ 15,200.00 ",dodge,caravan,2019,clean vehicle,31542,no_color,north carolina, usa
+1162," $ 15,700.00 ",dodge,caravan,2019,clean vehicle,26899,white,north carolina, usa
+1163," $ 16,100.00 ",dodge,journey,2019,clean vehicle,29985,silver,north carolina, usa
+1164," $ 16,300.00 ",dodge,journey,2018,clean vehicle,37009,silver,texas, usa
+1165," $ 16,000.00 ",dodge,journey,2019,clean vehicle,30731,white,north carolina, usa
+1166," $ 16,900.00 ",dodge,journey,2019,clean vehicle,30062,silver,north carolina, usa
+1167," $ 17,000.00 ",dodge,journey,2019,clean vehicle,28295,charcoal,north carolina, usa
+1168," $ 17,300.00 ",dodge,journey,2019,clean vehicle,25534,silver,north carolina, usa
+1169," $ 15,900.00 ",dodge,journey,2019,clean vehicle,29716,gray,north carolina, usa
+1170," $ 15,700.00 ",dodge,journey,2019,clean vehicle,34294,silver,north carolina, usa
+1171," $ 16,900.00 ",dodge,journey,2019,clean vehicle,27643,white,north carolina, usa
+1172," $ 15,500.00 ",dodge,journey,2019,clean vehicle,35516,white,north carolina, usa
+1173," $ 15,100.00 ",dodge,journey,2019,clean vehicle,40674,silver,north carolina, usa
+1174," $ 15,500.00 ",dodge,journey,2019,clean vehicle,32494,white,north carolina, usa
+1175," $ 15,400.00 ",dodge,journey,2019,clean vehicle,35047,red,north carolina, usa
+1176," $ 16,500.00 ",dodge,journey,2019,clean vehicle,32898,silver,north carolina, usa
+1177," $ 42,500.00 ",dodge,challenger,2015,clean vehicle,13740,black,texas, usa
+1178," $ 16,600.00 ",dodge,journey,2019,clean vehicle,23132,charcoal,north carolina, usa
+1179," $ 15,200.00 ",dodge,journey,2019,clean vehicle,37174,silver,north carolina, usa
+1180," $ 15,800.00 ",dodge,journey,2019,clean vehicle,34023,charcoal,north carolina, usa
+1181," $ 16,900.00 ",dodge,journey,2019,clean vehicle,30021,charcoal,north carolina, usa
+1182," $ 11,100.00 ",dodge,caravan,2017,clean vehicle,51469,gray,north carolina, usa
+1183," $ 15,600.00 ",dodge,journey,2019,clean vehicle,31237,charcoal,north carolina, usa
+1184," $ 16,900.00 ",dodge,journey,2019,clean vehicle,30186,silver,north carolina, usa
+1185," $ 15,300.00 ",dodge,journey,2019,clean vehicle,41956,silver,north carolina, usa
+1186," $ 16,600.00 ",dodge,journey,2019,clean vehicle,30727,black,north carolina, usa
+1187," $ 21,800.00 ",dodge,durango,2017,clean vehicle,38956,black,pennsylvania, usa
+1188," $ 36,500.00 ",dodge,charger,2018,clean vehicle,22036,white,virginia, usa
+1189," $ 26,300.00 ",dodge,durango,2019,clean vehicle,26462,red,georgia, usa
+1190," $ 20,900.00 ",dodge,challenger,2019,clean vehicle,23143,red,georgia, usa
+1191," $ 20,100.00 ",dodge,challenger,2019,clean vehicle,17340,gray,georgia, usa
+1192," $ 26,700.00 ",dodge,charger,2019,clean vehicle,29749,gray,georgia, usa
+1193," $ 23,900.00 ",dodge,charger,2019,clean vehicle,35248,white,georgia, usa
+1194," $ 14,500.00 ",dodge,caravan,2018,clean vehicle,40417,no_color,florida, usa
+1195," $ 23,000.00 ",dodge,durango,2017,clean vehicle,30309,gray,virginia, usa
+1196," $ 15,000.00 ",dodge,journey,2018,clean vehicle,42303,red,north carolina, usa
+1197," $ 15,000.00 ",dodge,journey,2018,clean vehicle,35326,white,north carolina, usa
+1198," $ 28,500.00 ",ford,door,2017,clean vehicle,92100,white,texas, usa
+1199," $ 28,000.00 ",ford,door,2017,clean vehicle,99375,white,texas, usa
+1200," $ 9,000.00 ",ford,door,2017,clean vehicle,72418,gray,texas, usa
+1201," $ 28,700.00 ",ford,doors,2015,clean vehicle,29733,ruby red metallic tinted clearcoat,connecticut, usa
+1202," $ 25,000.00 ",ford,door,2017,clean vehicle,119439,white,texas, usa
+1203," $ 17,347.00 ",ford,doors,2015,clean vehicle,54396,black,massachusetts, usa
+1204," $ 13,800.00 ",ford,door,2016,clean vehicle,91606,white,texas, usa
+1205," $ 25,888.00 ",ford,doors,2015,clean vehicle,2807,black,new jersey, usa
+1206," $ 8,500.00 ",ford,fusion,2017,clean vehicle,78739,black,tennessee, usa
+1207," $ 21,289.00 ",ford,doors,2015,clean vehicle,71955,gray,new york, usa
+1208," $ 17,999.00 ",ford,doors,2015,clean vehicle,48472,triple yellow tri-coat,new jersey, usa
+1209," $ 2,700.00 ",ford,door,2012,clean vehicle,98470,blue,texas, usa
+1210," $ 30,977.00 ",ford,doors,2015,clean vehicle,28937,competition orange,pennsylvania, usa
+1211," $ 13,799.00 ",ford,doors,2015,clean vehicle,83693,red,new jersey, usa
+1212," $ 20,500.00 ",ford,srw,2014,clean vehicle,90888,white,arizona, usa
+1213," $ 8,500.00 ",ford,drw,2012,clean vehicle,216942,white,texas, usa
+1214," $ 9,900.00 ",ford,door,2015,clean vehicle,205796,white,florida, usa
+1215," $ 65,500.00 ",ford,srw,2019,clean vehicle,6500,black,indiana, usa
+1216," $ 24,500.00 ",ford,wagon,2018,clean vehicle,39943,white,florida, usa
+1217," $ 32,500.00 ",ford,explorer,2020,clean vehicle,5920,silver,missouri, usa
+1218," $ 9,200.00 ",ford,fusion,2018,clean vehicle,71478,blue,pennsylvania, usa
+1219," $ 17,700.00 ",ford,door,2017,clean vehicle,119520,silver,pennsylvania, usa
+1220," $ 18,300.00 ",ford,fusion,2020,clean vehicle,10882,white,california, usa
+1221," $ 43,500.00 ",ford,srw,2019,clean vehicle,29010,gray,illinois, usa
+1222," $ 15,200.00 ",ford,door,2016,clean vehicle,69003,white,pennsylvania, usa
+1223," $ 36,200.00 ",ford,srw,2019,clean vehicle,16207,no_color,illinois, usa
+1224," $ 21,900.00 ",ford,mustang,2018,clean vehicle,29748,red,new jersey, usa
+1225," $ 20,700.00 ",ford,wagon,2019,clean vehicle,25582,white,california, usa
+1226," $ 12,300.00 ",ford,fusion,2019,clean vehicle,24520,gray,california, usa
+1227," $ 4,200.00 ",ford,door,2016,clean vehicle,104383,blue,pennsylvania, usa
+1228," $ 19,500.00 ",ford,transit,2019,clean vehicle,34164,white,california, usa
+1229," $ 14,300.00 ",ford,fusion,2020,clean vehicle,6975,silver,california, usa
+1230," $ 13,700.00 ",ford,van,2016,clean vehicle,67150,white,pennsylvania, usa
+1231," $ 13,200.00 ",ford,door,2015,clean vehicle,100820,white,pennsylvania, usa
+1232," $ 6,200.00 ",ford,door,2014,clean vehicle,142286,white,pennsylvania, usa
+1233," $ 6,500.00 ",ford,door,2015,clean vehicle,60015,black,pennsylvania, usa
+1234," $ 1,500.00 ",ford,door,2013,clean vehicle,126381,gray,pennsylvania, usa
+1235," $ 2,200.00 ",ford,door,2013,clean vehicle,128753,black,pennsylvania, usa
+1236," $ 4,200.00 ",ford,door,2013,clean vehicle,0,no_color,pennsylvania, usa
+1237," $ 8,700.00 ",ford,van,2013,clean vehicle,64598,white,pennsylvania, usa
+1238," $ 3,200.00 ",ford,door,2012,clean vehicle,111532,black,pennsylvania, usa
+1239," $ 9,000.00 ",ford,door,2012,clean vehicle,149346,black,pennsylvania, usa
+1240," $ 20,000.00 ",ford,edge,2018,clean vehicle,43567,silver,illinois, usa
+1241," $ 33,000.00 ",ford,door,2017,clean vehicle,36004,white,texas, usa
+1242," $ 23,300.00 ",ford,f-150,2019,clean vehicle,10935,white,south carolina, usa
+1243," $ 8,750.00 ",ford,van,2017,clean vehicle,150484,white,illinois, usa
+1244," $ 11,975.00 ",ford,door,2012,clean vehicle,122014,white,texas, usa
+1245," $ 23,600.00 ",ford,transit,2019,clean vehicle,19363,white,south carolina, usa
+1246," $ 12,000.00 ",ford,explorer,2016,clean vehicle,42902,black,texas, usa
+1247," $ 30,900.00 ",ford,f-150,2018,clean vehicle,401,red,indiana, usa
+1248," $ 23,900.00 ",ford,transit,2019,clean vehicle,11077,white,south carolina, usa
+1249," $ 40,400.00 ",ford,f-150,2018,clean vehicle,34100,black,indiana, usa
+1250," $ 38,000.00 ",ford,srw,2019,clean vehicle,30018,white,minnesota, usa
+1251," $ 27,000.00 ",ford,flex,2019,clean vehicle,18279,white,illinois, usa
+1252," $ 24,000.00 ",ford,transit,2019,clean vehicle,7373,white,south carolina, usa
+1253," $ 30,000.00 ",ford,ranger,2019,clean vehicle,2590,gray,wisconsin, usa
+1254," $ 16,200.00 ",ford,fusion,2019,clean vehicle,41662,white,south carolina, usa
+1255," $ 30,000.00 ",ford,flex,2019,clean vehicle,15019,gray,wisconsin, usa
+1256," $ 23,900.00 ",ford,transit,2019,clean vehicle,9420,white,south carolina, usa
+1257," $ 13,800.00 ",ford,taurus,2018,clean vehicle,41864,white,missouri, usa
+1258," $ 23,700.00 ",ford,transit,2019,clean vehicle,16829,white,south carolina, usa
+1259," $ 24,300.00 ",ford,f-150,2018,clean vehicle,6290,gray,illinois, usa
+1260," $ 54,900.00 ",ford,srw,2019,clean vehicle,14393,black,nevada, usa
+1261," $ 22,500.00 ",ford,taurus,2018,clean vehicle,14599,white,wisconsin, usa
+1262," $ 39,000.00 ",ford,f-150,2018,clean vehicle,25839,gray,illinois, usa
+1263," $ 13,900.00 ",ford,escape,2018,clean vehicle,60715,gray,wisconsin, usa
+1264," $ 24,700.00 ",ford,explorer,2018,clean vehicle,23350,red,illinois, usa
+1265," $ 20,100.00 ",ford,transit,2018,clean vehicle,62386,white,california, usa
+1266," $ 22,000.00 ",ford,mustang,2018,clean vehicle,6248,red,illinois, usa
+1267," $ 38,200.00 ",ford,mustang,2019,clean vehicle,878,green,florida, usa
+1268," $ 24,400.00 ",ford,transit,2018,clean vehicle,49710,white,california, usa
+1269," $ 35,000.00 ",ford,mustang,2018,clean vehicle,2042,blue,illinois, usa
+1270," $ 18,600.00 ",ford,flex,2019,clean vehicle,7742,white,florida, usa
+1271," $ 22,700.00 ",ford,transit,2018,clean vehicle,39733,white,california, usa
+1272," $ 38,000.00 ",ford,f-150,2018,clean vehicle,33701,black,illinois, usa
+1273," $ 17,000.00 ",ford,door,2014,clean vehicle,67542,red,illinois, usa
+1274," $ 17,500.00 ",ford,escape,2017,clean vehicle,35095,gray,wisconsin, usa
+1275," $ 23,200.00 ",ford,f-150,2019,clean vehicle,8652,white,michigan, usa
+1276," $ 30,700.00 ",ford,explorer,2017,clean vehicle,51107,red,wisconsin, usa
+1277," $ 23,500.00 ",ford,transit,2019,clean vehicle,14987,white,michigan, usa
+1278," $ 26,400.00 ",ford,edge,2017,clean vehicle,28252,blue,wisconsin, usa
+1279," $ 23,500.00 ",ford,transit,2019,clean vehicle,16009,white,michigan, usa
+1280," $ 38,000.00 ",ford,door,2017,clean vehicle,47866,white,wisconsin, usa
+1281," $ 23,600.00 ",ford,transit,2019,clean vehicle,11004,white,michigan, usa
+1282," $ 19,300.00 ",ford,edge,2017,clean vehicle,42895,gray,wisconsin, usa
+1283," $ 23,200.00 ",ford,f-150,2019,clean vehicle,9490,white,michigan, usa
+1284," $ 13,800.00 ",ford,door,2017,clean vehicle,39027,no_color,wisconsin, usa
+1285," $ 23,600.00 ",ford,transit,2019,clean vehicle,13466,white,michigan, usa
+1286," $ 23,200.00 ",ford,f-150,2019,clean vehicle,8737,white,michigan, usa
+1287," $ 40,000.00 ",ford,door,2017,clean vehicle,23960,red,wisconsin, usa
+1288," $ 23,400.00 ",ford,f-150,2019,clean vehicle,5562,white,michigan, usa
+1289," $ 23,600.00 ",ford,transit,2019,clean vehicle,13763,white,michigan, usa
+1290," $ 23,000.00 ",ford,f-150,2019,clean vehicle,10444,white,michigan, usa
+1291," $ 25,500.00 ",ford,door,2017,clean vehicle,41696,black,wisconsin, usa
+1292," $ 23,500.00 ",ford,transit,2019,clean vehicle,15787,white,michigan, usa
+1293," $ 29,900.00 ",ford,door,2017,clean vehicle,9167,white,wisconsin, usa
+1294," $ 23,200.00 ",ford,transit,2019,clean vehicle,17541,white,michigan, usa
+1295," $ 50,500.00 ",ford,f-150,2017,clean vehicle,24686,silver,wisconsin, usa
+1296," $ 23,400.00 ",ford,transit,2019,clean vehicle,15210,white,michigan, usa
+1297," $ 24,500.00 ",ford,transit,2017,clean vehicle,54601,white,wisconsin, usa
+1298," $ 49,000.00 ",ford,mustang,2017,clean vehicle,2205,black,illinois, usa
+1299," $ 25,400.00 ",ford,transit,2017,clean vehicle,35691,white,wisconsin, usa
+1300," $ 23,000.00 ",ford,flex,2017,clean vehicle,32788,silver,illinois, usa
+1301," $ 6,000.00 ",ford,door,2012,clean vehicle,180471,gray,minnesota, usa
+1302," $ 22,400.00 ",ford,edge,2016,clean vehicle,42925,black,wisconsin, usa
+1303," $ 22,500.00 ",ford,edge,2016,clean vehicle,37385,black,wisconsin, usa
+1304," $ 25,200.00 ",ford,edge,2019,clean vehicle,15415,gray,virginia, usa
+1305," $ 36,000.00 ",ford,door,2016,clean vehicle,20047,white,wisconsin, usa
+1306," $ 26,700.00 ",ford,edge,2019,clean vehicle,16884,black,virginia, usa
+1307," $ 30,500.00 ",ford,door,2016,clean vehicle,57936,gray,wisconsin, usa
+1308," $ 26,700.00 ",ford,edge,2019,clean vehicle,15244,black,virginia, usa
+1309," $ 25,000.00 ",ford,edge,2019,clean vehicle,19842,gray,virginia, usa
+1310," $ 35,200.00 ",ford,door,2016,clean vehicle,38830,white,wisconsin, usa
+1311," $ 30,300.00 ",ford,f-150,2019,clean vehicle,31899,white,tennessee, usa
+1312," $ 25,000.00 ",ford,door,2016,clean vehicle,69305,no_color,illinois, usa
+1313," $ 26,500.00 ",ford,door,2016,clean vehicle,46098,red,wisconsin, usa
+1314," $ 21,600.00 ",ford,mustang,2019,clean vehicle,29457,gray,virginia, usa
+1315," $ 18,800.00 ",ford,edge,2016,clean vehicle,30765,no_color,wisconsin, usa
+1316," $ 21,500.00 ",ford,mustang,2019,clean vehicle,29096,red,virginia, usa
+1317," $ 9,000.00 ",ford,door,2016,clean vehicle,40437,no_color,new jersey, usa
+1318," $ 16,700.00 ",ford,cutaway,2015,clean vehicle,69004,white,wisconsin, usa
+1319," $ 16,800.00 ",ford,cutaway,2015,clean vehicle,65179,white,wisconsin, usa
+1320," $ 15,700.00 ",ford,cutaway,2015,clean vehicle,75862,white,wisconsin, usa
+1321," $ 16,800.00 ",ford,cutaway,2015,clean vehicle,68319,white,wisconsin, usa
+1322," $ 19,500.00 ",ford,door,2015,clean vehicle,80354,gray,wisconsin, usa
+1323," $ 20,500.00 ",ford,door,2015,clean vehicle,51441,black,wisconsin, usa
+1324," $ 17,400.00 ",ford,cutaway,2015,clean vehicle,70954,white,wisconsin, usa
+1325," $ 17,500.00 ",ford,door,2014,clean vehicle,92500,red,wisconsin, usa
+1326," $ 26,000.00 ",ford,door,2014,clean vehicle,66367,silver,illinois, usa
+1327," $ 56,700.00 ",ford,f-150,2019,clean vehicle,13884,white,kentucky, usa
+1328," $ 5,000.00 ",ford,door,2013,clean vehicle,202565,no_color,wisconsin, usa
+1329," $ 40,200.00 ",ford,f-150,2019,clean vehicle,26484,no_color,kentucky, usa
+1330," $ 54,000.00 ",ford,door,2013,clean vehicle,703,red,illinois, usa
+1331," $ 65,200.00 ",ford,max,2019,clean vehicle,18138,white,kentucky, usa
+1332," $ 32,500.00 ",ford,srw,2017,clean vehicle,28007,white,minnesota, usa
+1333," $ 25,500.00 ",ford,transit,2019,clean vehicle,11251,white,illinois, usa
+1334," $ 63,000.00 ",ford,srw,2019,clean vehicle,11640,no_color,illinois, usa
+1335," $ 44,000.00 ",ford,srw,2019,clean vehicle,10763,white,illinois, usa
+1336," $ 70,000.00 ",ford,drw,2019,clean vehicle,9643,no_color,illinois, usa
+1337," $ 56,200.00 ",ford,srw,2019,clean vehicle,33930,gray,kentucky, usa
+1338," $ 35,000.00 ",ford,srw,2019,clean vehicle,26451,white,wisconsin, usa
+1339," $ 57,700.00 ",ford,srw,2019,clean vehicle,21101,red,kentucky, usa
+1340," $ 74,000.00 ",ford,drw,2019,clean vehicle,10536,no_color,illinois, usa
+1341," $ 60,200.00 ",ford,srw,2019,clean vehicle,31744,white,kentucky, usa
+1342," $ 60,000.00 ",ford,srw,2018,clean vehicle,18062,black,illinois, usa
+1343," $ 63,000.00 ",ford,srw,2018,clean vehicle,17942,black,illinois, usa
+1344," $ 22,500.00 ",ford,door,2014,clean vehicle,43646,black,wisconsin, usa
+1345," $ 8,300.00 ",ford,energi,2014,clean vehicle,71989,gray,wisconsin, usa
+1346," $ 8,300.00 ",ford,door,2012,clean vehicle,138328,white,wisconsin, usa
+1347," $ 21,000.00 ",ford,door,2013,clean vehicle,95386,brown,wisconsin, usa
+1348," $ 19,300.00 ",ford,fusion,2019,clean vehicle,23740,black,mississippi, usa
+1349," $ 16,400.00 ",ford,fusion,2019,clean vehicle,36064,gray,alabama, usa
+1350," $ 27,300.00 ",ford,f-150,2019,clean vehicle,18805,gray,mississippi, usa
+1351," $ 26,400.00 ",ford,cab,2012,clean vehicle,151035,white,wisconsin, usa
+1352," $ 35,100.00 ",ford,mustang,2019,clean vehicle,10099,red,mississippi, usa
+1353," $ 41,500.00 ",ford,f-150,2018,clean vehicle,9800,black,new jersey, usa
+1354," $ 34,100.00 ",ford,mustang,2019,clean vehicle,10483,white,mississippi, usa
+1355," $ 28,600.00 ",ford,f-150,2019,clean vehicle,17544,no_color,california, usa
+1356," $ 34,100.00 ",ford,mustang,2019,clean vehicle,10167,red,mississippi, usa
+1357," $ 28,700.00 ",ford,ranger,2019,clean vehicle,11457,gray,california, usa
+1358," $ 24,700.00 ",ford,edge,2019,clean vehicle,26590,no_color,california, usa
+1359," $ 46,500.00 ",ford,expedition,2019,clean vehicle,35346,black,california, usa
+1360," $ 29,000.00 ",ford,f-150,2019,clean vehicle,12953,black,california, usa
+1361," $ 25,500.00 ",ford,edge,2019,clean vehicle,26693,silver,california, usa
+1362," $ 39,500.00 ",ford,f-150,2019,clean vehicle,25071,yellow,california, usa
+1363," $ 33,100.00 ",ford,f-150,2019,clean vehicle,33538,yellow,california, usa
+1364," $ 30,500.00 ",ford,f-150,2019,clean vehicle,9915,gray,california, usa
+1365," $ 3,600.00 ",ford,fiesta,2018,clean vehicle,1,silver,arizona, usa
+1366," $ 16,800.00 ",ford,fusion,2019,clean vehicle,9910,red,california, usa
+1367," $ 24,000.00 ",ford,f-150,2019,clean vehicle,16765,gray,texas, usa
+1368," $ 58,500.00 ",ford,expedition,2019,clean vehicle,4970,gray,california, usa
+1369," $ 55,000.00 ",ford,door,2017,clean vehicle,43964,black,texas, usa
+1370," $ 28,800.00 ",ford,f-150,2019,clean vehicle,40785,silver,california, usa
+1371," $ 26,800.00 ",ford,door,2015,clean vehicle,108998,white,new jersey, usa
+1372," $ 36,000.00 ",ford,max,2018,clean vehicle,58576,gray,wisconsin, usa
+1373," $ 20,000.00 ",ford,wagon,2018,clean vehicle,55475,white,wisconsin, usa
+1374," $ 46,700.00 ",ford,drw,2019,clean vehicle,35929,black,alabama, usa
+1375," $ 42,800.00 ",ford,srw,2019,clean vehicle,21669,silver,alabama, usa
+1376," $ 21,800.00 ",ford,mustang,2018,clean vehicle,16079,no_color,california, usa
+1377," $ 18,800.00 ",ford,mustang,2018,clean vehicle,41147,white,california, usa
+1378," $ 18,800.00 ",ford,flex,2018,clean vehicle,45798,black,california, usa
+1379," $ 30,200.00 ",ford,f-150,2018,clean vehicle,21703,red,california, usa
+1380," $ 27,500.00 ",ford,explorer,2018,clean vehicle,22284,black,california, usa
+1381," $ 37,500.00 ",ford,transit,2018,clean vehicle,24567,white,california, usa
+1382," $ 19,100.00 ",ford,mustang,2018,clean vehicle,30594,silver,california, usa
+1383," $ 17,100.00 ",ford,flex,2018,clean vehicle,52747,white,california, usa
+1384," $ 13,500.00 ",ford,escape,2018,clean vehicle,21592,silver,florida, usa
+1385," $ 54,500.00 ",ford,srw,2018,clean vehicle,19853,blue,california, usa
+1386," $ 9,000.00 ",ford,fiesta,2018,clean vehicle,25201,gray,florida, usa
+1387," $ 16,400.00 ",ford,f-150,2020,clean vehicle,10351,black,pennsylvania, usa
+1388," $ 17,000.00 ",ford,fusion,2020,clean vehicle,1117,gray,pennsylvania, usa
+1389," $ 24,800.00 ",ford,door,2017,clean vehicle,37279,gold,california, usa
+1390," $ 26,800.00 ",ford,door,2017,clean vehicle,30113,red,california, usa
+1391," $ 19,400.00 ",ford,door,2017,clean vehicle,27570,white,california, usa
+1392," $ 20,000.00 ",ford,flex,2017,clean vehicle,45188,silver,california, usa
+1393," $ 7,000.00 ",ford,door,2012,clean vehicle,149712,silver,texas, usa
+1394," $ 25,100.00 ",ford,explorer,2017,clean vehicle,25030,gold,california, usa
+1395," $ 2,000.00 ",ford,door,2013,salvage insurance,105743,gray,oklahoma, usa
+1396," $ 18,200.00 ",ford,fusion,2020,clean vehicle,9861,black,pennsylvania, usa
+1397," $ 14,200.00 ",ford,fusion,2018,clean vehicle,1751,red,illinois, usa
+1398," $ 56,500.00 ",ford,door,2017,clean vehicle,30629,red,california, usa
+1399," $ 2,000.00 ",ford,door,2016,salvage insurance,52883,gray,oklahoma, usa
+1400," $ 26,500.00 ",ford,van,2020,clean vehicle,122,white,pennsylvania, usa
+1401," $ 34,300.00 ",ford,srw,2019,clean vehicle,28534,white,florida, usa
+1402," $ 43,500.00 ",ford,f-150,2017,clean vehicle,80699,black,california, usa
+1403," $ 3,500.00 ",ford,door,2016,salvage insurance,72851,white,oklahoma, usa
+1404," $ 37,200.00 ",ford,srw,2019,clean vehicle,24078,white,florida, usa
+1405," $ 12,800.00 ",ford,door,2017,clean vehicle,38639,orange,california, usa
+1406," $ 15,000.00 ",ford,door,2013,salvage insurance,146807,silver,texas, usa
+1407," $ 12,500.00 ",ford,door,2017,clean vehicle,31871,silver,california, usa
+1408," $ 21,500.00 ",ford,f-150,2017,clean vehicle,76876,gray,california, usa
+1409," $ 17,300.00 ",ford,fusion,2019,clean vehicle,28070,white,north carolina, usa
+1410," $ 27,000.00 ",ford,explorer,2017,clean vehicle,3189,silver,california, usa
+1411," $ 31,800.00 ",ford,el,2017,clean vehicle,28359,white,florida, usa
+1412," $ 13,000.00 ",ford,door,2017,clean vehicle,42890,gray,california, usa
+1413," $ 31,800.00 ",ford,el,2017,clean vehicle,29328,silver,florida, usa
+1414," $ 46,300.00 ",ford,door,2016,clean vehicle,47531,black,california, usa
+1415," $ 6,000.00 ",ford,door,2015,clean vehicle,57345,gray,missouri, usa
+1416," $ 22,800.00 ",ford,door,2016,clean vehicle,67546,silver,california, usa
+1417," $ 45,000.00 ",ford,expedition,2019,clean vehicle,18153,white,pennsylvania, usa
+1418," $ 49,500.00 ",ford,expedition,2019,clean vehicle,17689,black,pennsylvania, usa
+1419," $ 3,000.00 ",ford,van,2012,clean vehicle,137171,white,missouri, usa
+1420," $ 20,000.00 ",ford,door,2015,clean vehicle,63445,gray,california, usa
+1421," $ 25,300.00 ",ford,edge,2019,clean vehicle,26422,black,pennsylvania, usa
+1422," $ 4,000.00 ",ford,door,2015,salvage insurance,149319,white,south carolina, usa
+1423," $ 45,500.00 ",ford,expedition,2019,clean vehicle,18767,gray,pennsylvania, usa
+1424," $ 9,100.00 ",ford,fiesta,2018,clean vehicle,38289,silver,minnesota, usa
+1425," $ 48,000.00 ",ford,expedition,2019,clean vehicle,22960,black,pennsylvania, usa
+1426," $ 47,000.00 ",ford,max,2019,clean vehicle,17263,blue,pennsylvania, usa
+1427," $ 49,500.00 ",ford,expedition,2019,clean vehicle,16981,black,pennsylvania, usa
+1428," $ 31,200.00 ",ford,wagon,2019,clean vehicle,13058,black,pennsylvania, usa
+1429," $ 18,500.00 ",ford,door,2014,clean vehicle,45887,white,california, usa
+1430," $ 15,500.00 ",ford,escape,2019,clean vehicle,21740,silver,pennsylvania, usa
+1431," $ 30,500.00 ",ford,wagon,2019,clean vehicle,17707,black,pennsylvania, usa
+1432," $ 45,500.00 ",ford,max,2019,clean vehicle,19121,silver,pennsylvania, usa
+1433," $ 31,500.00 ",ford,wagon,2019,clean vehicle,18856,black,pennsylvania, usa
+1434," $ 11,000.00 ",ford,door,2013,clean vehicle,84752,white,new jersey, usa
+1435," $ 46,500.00 ",ford,max,2019,clean vehicle,19555,white,pennsylvania, usa
+1436," $ 31,500.00 ",ford,wagon,2019,clean vehicle,16340,black,pennsylvania, usa
+1437," $ 32,000.00 ",ford,f-150,2018,clean vehicle,17242,white,ohio, usa
+1438," $ 23,900.00 ",ford,edge,2019,clean vehicle,28733,black,pennsylvania, usa
+1439," $ 31,500.00 ",ford,wagon,2019,clean vehicle,16019,black,pennsylvania, usa
+1440," $ 18,500.00 ",ford,taurus,2016,clean vehicle,75580,black,ohio, usa
+1441," $ 1,500.00 ",ford,door,2013,salvage insurance,113444,white,georgia, usa
+1442," $ 46,000.00 ",ford,max,2019,clean vehicle,19227,white,pennsylvania, usa
+1443," $ 31,500.00 ",ford,wagon,2019,clean vehicle,13633,black,pennsylvania, usa
+1444," $ 14,700.00 ",ford,van,2015,clean vehicle,37739,white,new jersey, usa
+1445," $ 2,700.00 ",ford,door,2013,salvage insurance,103541,green,michigan, usa
+1446," $ 47,500.00 ",ford,expedition,2019,clean vehicle,24072,blue,pennsylvania, usa
+1447," $ 31,500.00 ",ford,wagon,2019,clean vehicle,17657,black,pennsylvania, usa
+1448," $ 8,900.00 ",ford,door,2014,clean vehicle,77392,red,new jersey, usa
+1449," $ 7,000.00 ",ford,door,2019,salvage insurance,11930,white,michigan, usa
+1450," $ 49,000.00 ",ford,expedition,2019,clean vehicle,19731,red,pennsylvania, usa
+1451," $ 31,500.00 ",ford,wagon,2019,clean vehicle,15581,black,pennsylvania, usa
+1452," $ 8,900.00 ",ford,door,2014,clean vehicle,70181,black,new jersey, usa
+1453," $ 48,000.00 ",ford,max,2019,clean vehicle,16143,black,pennsylvania, usa
+1454," $ 50,000.00 ",ford,max,2019,clean vehicle,17995,black,pennsylvania, usa
+1455," $ 47,300.00 ",ford,max,2019,clean vehicle,23926,black,pennsylvania, usa
+1456," $ 45,000.00 ",ford,f-150,2017,clean vehicle,57929,black,louisiana, usa
+1457," $ 49,000.00 ",ford,max,2019,clean vehicle,20758,silver,pennsylvania, usa
+1458," $ 40,200.00 ",ford,f-150,2019,clean vehicle,10028,gray,texas, usa
+1459," $ 48,000.00 ",ford,max,2019,clean vehicle,21051,black,pennsylvania, usa
+1460," $ 5,000.00 ",ford,door,2015,clean vehicle,136307,silver,louisiana, usa
+1461," $ 8,200.00 ",ford,bus,2013,clean vehicle,105880,silver,new jersey, usa
+1462," $ 49,000.00 ",ford,max,2019,clean vehicle,19985,white,pennsylvania, usa
+1463," $ 4,000.00 ",ford,door,2015,clean vehicle,102590,gray,louisiana, usa
+1464," $ 39,000.00 ",ford,expedition,2019,clean vehicle,27612,silver,pennsylvania, usa
+1465," $ 29,000.00 ",ford,door,2015,clean vehicle,90855,white,louisiana, usa
+1466," $ 46,500.00 ",ford,max,2019,clean vehicle,19936,silver,pennsylvania, usa
+1467," $ 7,805.00 ",ford,door,2015,clean vehicle,64495,gray,louisiana, usa
+1468," $ 22,000.00 ",ford,mustang,2018,clean vehicle,39477,gray,texas, usa
+1469," $ 18,800.00 ",ford,max,2019,clean vehicle,25698,black,pennsylvania, usa
+1470," $ 33,000.00 ",ford,door,2015,clean vehicle,73849,blue,louisiana, usa
+1471," $ 39,500.00 ",ford,expedition,2019,clean vehicle,25422,black,pennsylvania, usa
+1472," $ 16,900.00 ",ford,door,2015,clean vehicle,47866,black,louisiana, usa
+1473," $ 42,500.00 ",ford,max,2019,clean vehicle,31236,white,pennsylvania, usa
+1474," $ 39,500.00 ",ford,expedition,2019,clean vehicle,26755,gray,pennsylvania, usa
+1475," $ 25,500.00 ",ford,f-150,2018,clean vehicle,49177,blue,illinois, usa
+1476," $ 49,500.00 ",ford,max,2019,clean vehicle,20749,white,pennsylvania, usa
+1477," $ 25,000.00 ",ford,f-150,2018,clean vehicle,15003,white,illinois, usa
+1478," $ 40,000.00 ",ford,f-150,2019,clean vehicle,12247,black,pennsylvania, usa
+1479," $ 26,000.00 ",ford,f-150,2018,clean vehicle,1,black,illinois, usa
+1480," $ 29,500.00 ",ford,f-150,2019,clean vehicle,10808,silver,pennsylvania, usa
+1481," $ 23,000.00 ",ford,f-150,2019,clean vehicle,11263,white,oklahoma, usa
+1482," $ 25,500.00 ",ford,f-150,2018,clean vehicle,42307,black,illinois, usa
+1483," $ 44,500.00 ",ford,f-150,2019,clean vehicle,17484,gray,pennsylvania, usa
+1484," $ 15,600.00 ",ford,escape,2019,clean vehicle,37106,blue,missouri, usa
+1485," $ 23,100.00 ",ford,f-150,2019,clean vehicle,9539,white,oklahoma, usa
+1486," $ 37,000.00 ",ford,f-150,2019,clean vehicle,2384,gray,pennsylvania, usa
+1487," $ 14,500.00 ",ford,fusion,2019,clean vehicle,20590,gray,missouri, usa
+1488," $ 23,000.00 ",ford,f-150,2019,clean vehicle,13896,white,oklahoma, usa
+1489," $ 26,500.00 ",ford,f-150,2019,clean vehicle,9451,gray,pennsylvania, usa
+1490," $ 18,000.00 ",ford,fusion,2017,clean vehicle,31657,red,missouri, usa
+1491," $ 35,700.00 ",ford,expedition,2019,clean vehicle,33907,brown,oklahoma, usa
+1492," $ 31,000.00 ",ford,f-150,2019,clean vehicle,10028,black,pennsylvania, usa
+1493," $ 2,000.00 ",ford,door,2013,clean vehicle,175640,no_color,missouri, usa
+1494," $ 40,400.00 ",ford,max,2019,clean vehicle,30770,white,oklahoma, usa
+1495," $ 43,600.00 ",ford,f-150,2019,clean vehicle,15141,black,pennsylvania, usa
+1496," $ 22,600.00 ",ford,f-150,2019,clean vehicle,18431,white,oklahoma, usa
+1497," $ 26,000.00 ",ford,f-150,2019,clean vehicle,9604,white,pennsylvania, usa
+1498," $ 23,200.00 ",ford,f-150,2019,clean vehicle,9516,white,oklahoma, usa
+1499," $ 29,000.00 ",ford,f-150,2019,clean vehicle,9718,silver,pennsylvania, usa
+1500," $ 22,800.00 ",ford,f-150,2019,clean vehicle,16506,white,oklahoma, usa
+1501," $ 3,450.00 ",ford,door,2015,salvage insurance,192108,white,oregon, usa
+1502," $ 31,000.00 ",ford,f-150,2019,clean vehicle,11028,white,pennsylvania, usa
+1503," $ 22,900.00 ",ford,f-150,2019,clean vehicle,11313,white,oklahoma, usa
+1504," $ 3,000.00 ",ford,door,2014,salvage insurance,141595,red,oregon, usa
+1505," $ 28,000.00 ",ford,f-150,2019,clean vehicle,12886,silver,pennsylvania, usa
+1506," $ 23,200.00 ",ford,f-150,2019,clean vehicle,9556,white,oklahoma, usa
+1507," $ 27,000.00 ",ford,f-150,2019,clean vehicle,13269,blue,pennsylvania, usa
+1508," $ 22,800.00 ",ford,f-150,2019,clean vehicle,16770,white,oklahoma, usa
+1509," $ 31,500.00 ",ford,f-150,2019,clean vehicle,13526,red,pennsylvania, usa
+1510," $ 23,400.00 ",ford,transit,2019,clean vehicle,16391,white,oklahoma, usa
+1511," $ 28,000.00 ",ford,f-150,2019,clean vehicle,11437,white,pennsylvania, usa
+1512," $ 23,400.00 ",ford,transit,2019,clean vehicle,17964,white,oklahoma, usa
+1513," $ 28,000.00 ",ford,f-150,2018,clean vehicle,5440,blue,texas, usa
+1514," $ 24,900.00 ",ford,f-150,2019,clean vehicle,13035,white,pennsylvania, usa
+1515," $ 23,500.00 ",ford,transit,2019,clean vehicle,15759,white,oklahoma, usa
+1516," $ 36,000.00 ",ford,f-150,2018,clean vehicle,30002,gray,texas, usa
+1517," $ 28,700.00 ",ford,f-150,2019,clean vehicle,13673,white,pennsylvania, usa
+1518," $ 16,000.00 ",ford,fusion,2018,clean vehicle,24480,silver,oregon, usa
+1519," $ 31,000.00 ",ford,f-150,2019,clean vehicle,13230,white,pennsylvania, usa
+1520," $ 16,500.00 ",ford,f-150,2017,clean vehicle,137789,white,oregon, usa
+1521," $ 28,500.00 ",ford,f-150,2019,clean vehicle,13516,white,pennsylvania, usa
+1522," $ 10,800.00 ",ford,escape,2017,clean vehicle,81660,black,oregon, usa
+1523," $ 28,500.00 ",ford,f-150,2019,clean vehicle,11763,white,pennsylvania, usa
+1524," $ 25,000.00 ",ford,explorer,2017,clean vehicle,34165,gold,oregon, usa
+1525," $ 31,000.00 ",ford,f-150,2019,clean vehicle,13458,white,pennsylvania, usa
+1526," $ 7,800.00 ",ford,door,2016,clean vehicle,104867,black,oregon, usa
+1527," $ 28,500.00 ",ford,f-150,2019,clean vehicle,14004,white,pennsylvania, usa
+1528," $ 9,500.00 ",ford,door,2016,clean vehicle,69829,silver,oregon, usa
+1529," $ 28,500.00 ",ford,f-150,2019,clean vehicle,13405,silver,pennsylvania, usa
+1530," $ 14,500.00 ",ford,door,2016,clean vehicle,96151,black,oregon, usa
+1531," $ 25,000.00 ",ford,f-150,2019,clean vehicle,12688,black,pennsylvania, usa
+1532," $ 14,500.00 ",ford,door,2016,clean vehicle,116519,white,oregon, usa
+1533," $ 28,500.00 ",ford,f-150,2019,clean vehicle,12260,white,pennsylvania, usa
+1534," $ 12,100.00 ",ford,door,2016,clean vehicle,29367,silver,oregon, usa
+1535," $ 29,400.00 ",ford,f-150,2019,clean vehicle,18982,white,pennsylvania, usa
+1536," $ 24,700.00 ",ford,f-150,2019,clean vehicle,23795,silver,california, usa
+1537," $ 8,700.00 ",ford,door,2016,clean vehicle,76572,gray,oregon, usa
+1538," $ 29,500.00 ",ford,f-150,2019,clean vehicle,15964,white,pennsylvania, usa
+1539," $ 25,800.00 ",ford,f-150,2019,clean vehicle,28117,silver,california, usa
+1540," $ 17,500.00 ",ford,door,2016,clean vehicle,116730,blue,oregon, usa
+1541," $ 23,900.00 ",ford,f-150,2019,clean vehicle,21055,brown,pennsylvania, usa
+1542," $ 22,900.00 ",ford,f-150,2019,clean vehicle,27794,black,california, usa
+1543," $ 19,500.00 ",ford,edge,2016,clean vehicle,56995,black,oregon, usa
+1544," $ 29,500.00 ",ford,f-150,2019,clean vehicle,16625,gray,pennsylvania, usa
+1545," $ 24,500.00 ",ford,f-150,2019,clean vehicle,27689,gray,california, usa
+1546," $ 11,000.00 ",ford,door,2016,clean vehicle,39851,black,oregon, usa
+1547," $ 22,400.00 ",ford,f-150,2019,clean vehicle,31727,black,pennsylvania, usa
+1548," $ 15,700.00 ",ford,escape,2019,clean vehicle,31586,gray,california, usa
+1549," $ 11,000.00 ",ford,door,2015,clean vehicle,33717,black,oregon, usa
+1550," $ 28,000.00 ",ford,f-150,2019,clean vehicle,18418,black,pennsylvania, usa
+1551," $ 13,500.00 ",ford,fusion,2019,clean vehicle,39013,black,california, usa
+1552," $ 7,300.00 ",ford,f-150,2013,clean vehicle,125451,white,oregon, usa
+1553," $ 25,100.00 ",ford,f-150,2019,clean vehicle,21346,black,pennsylvania, usa
+1554," $ 24,100.00 ",ford,transit,2019,clean vehicle,21150,white,california, usa
+1555," $ 6,500.00 ",ford,f-150,2014,clean vehicle,103862,white,oregon, usa
+1556," $ 10,500.00 ",ford,f-150,2019,clean vehicle,22001,red,pennsylvania, usa
+1557," $ 16,900.00 ",ford,fusion,2019,clean vehicle,31261,gray,california, usa
+1558," $ 6,000.00 ",ford,door,2013,clean vehicle,140870,white,oregon, usa
+1559," $ 28,500.00 ",ford,f-150,2019,clean vehicle,14358,white,pennsylvania, usa
+1560," $ 16,200.00 ",ford,fusion,2019,clean vehicle,41672,silver,california, usa
+1561," $ 6,500.00 ",ford,f-150,2013,clean vehicle,95655,white,oregon, usa
+1562," $ 24,500.00 ",ford,flex,2019,clean vehicle,19493,gray,pennsylvania, usa
+1563," $ 16,500.00 ",ford,fusion,2019,clean vehicle,36956,black,california, usa
+1564," $ 56,500.00 ",ford,door,2017,clean vehicle,23223,gold,texas, usa
+1565," $ 10,400.00 ",ford,fusion,2019,clean vehicle,13085,gray,pennsylvania, usa
+1566," $ 22,800.00 ",ford,explorer,2018,clean vehicle,36124,silver,oklahoma, usa
+1567," $ 26,500.00 ",ford,flex,2019,clean vehicle,19147,white,pennsylvania, usa
+1568," $ 23,800.00 ",ford,flex,2019,clean vehicle,24993,red,pennsylvania, usa
+1569," $ 24,700.00 ",ford,f-150,2018,clean vehicle,41127,white,oklahoma, usa
+1570," $ 12,400.00 ",ford,fusion,2019,clean vehicle,32365,black,pennsylvania, usa
+1571," $ 16,600.00 ",ford,fusion,2019,clean vehicle,27774,white,pennsylvania, usa
+1572," $ 11,200.00 ",ford,door,2015,clean vehicle,105027,blue,oklahoma, usa
+1573," $ 15,900.00 ",ford,fusion,2019,clean vehicle,27806,silver,pennsylvania, usa
+1574," $ 7,700.00 ",ford,door,2015,clean vehicle,54198,blue,oklahoma, usa
+1575," $ 15,100.00 ",ford,fusion,2019,clean vehicle,30181,white,pennsylvania, usa
+1576," $ 7,200.00 ",ford,door,2013,clean vehicle,82670,black,oklahoma, usa
+1577," $ 15,600.00 ",ford,fusion,2019,clean vehicle,36305,gold,pennsylvania, usa
+1578," $ 39,700.00 ",ford,srw,2019,clean vehicle,10475,white,oklahoma, usa
+1579," $ 16,000.00 ",ford,fusion,2019,clean vehicle,34734,gray,pennsylvania, usa
+1580," $ 7,500.00 ",ford,door,2012,clean vehicle,186713,black,oklahoma, usa
+1581," $ 15,500.00 ",ford,srw,2017,clean vehicle,132150,white,oregon, usa
+1582," $ 19,000.00 ",ford,taurus,2019,clean vehicle,12928,gray,pennsylvania, usa
+1583," $ 5,500.00 ",ford,door,2015,clean vehicle,116539,silver,oklahoma, usa
+1584," $ 38,700.00 ",ford,drw,2018,clean vehicle,59549,white,oklahoma, usa
+1585," $ 21,000.00 ",ford,taurus,2019,clean vehicle,12174,red,pennsylvania, usa
+1586," $ 28,500.00 ",ford,door,2016,clean vehicle,96129,white,oklahoma, usa
+1587," $ 37,200.00 ",ford,drw,2018,clean vehicle,89809,white,oklahoma, usa
+1588," $ 18,500.00 ",ford,taurus,2019,clean vehicle,18202,white,pennsylvania, usa
+1589," $ 15,000.00 ",ford,door,2015,clean vehicle,128505,white,oklahoma, usa
+1590," $ 37,700.00 ",ford,drw,2017,clean vehicle,43527,white,oklahoma, usa
+1591," $ 22,200.00 ",ford,transit,2019,clean vehicle,15792,white,pennsylvania, usa
+1592," $ 39,950.00 ",ford,f-150,2019,clean vehicle,9278,white,georgia, usa
+1593," $ 37,600.00 ",ford,drw,2017,clean vehicle,41925,white,oklahoma, usa
+1594," $ 18,500.00 ",ford,taurus,2019,clean vehicle,16924,white,pennsylvania, usa
+1595," $ 10,000.00 ",ford,door,2013,clean vehicle,119869,silver,florida, usa
+1596," $ 20,500.00 ",ford,taurus,2019,clean vehicle,17260,silver,pennsylvania, usa
+1597," $ 5,700.00 ",ford,door,2013,clean vehicle,89490,white,florida, usa
+1598," $ 21,000.00 ",ford,transit,2019,clean vehicle,40772,white,pennsylvania, usa
+1599," $ 22,500.00 ",ford,transit,2019,clean vehicle,25623,white,pennsylvania, usa
+1600," $ 29,000.00 ",ford,f-150,2019,clean vehicle,11669,white,colorado, usa
+1601," $ 13,200.00 ",ford,door,2013,clean vehicle,138524,black,florida, usa
+1602," $ 25,500.00 ",ford,transit,2019,clean vehicle,13644,white,pennsylvania, usa
+1603," $ 25,700.00 ",ford,door,2016,clean vehicle,147935,white,texas, usa
+1604," $ 18,900.00 ",ford,doors,2015,clean vehicle,44456,charcoal,new york, usa
+1605," $ 31,500.00 ",ford,wagon,2019,clean vehicle,20357,black,pennsylvania, usa
+1606," $ 45,500.00 ",ford,door,2017,clean vehicle,66366,black,florida, usa
+1607," $ 11,000.00 ",ford,door,2017,clean vehicle,43532,gray,pennsylvania, usa
+1608," $ 18,288.00 ",ford,doors,2015,clean vehicle,45218,gray,new york, usa
+1609," $ 20,000.00 ",ford,door,2017,clean vehicle,85688,white,florida, usa
+1610," $ 36,600.00 ",ford,door,2016,clean vehicle,58902,white,pennsylvania, usa
+1611," $ 18,299.00 ",ford,doors,2015,clean vehicle,59869,silver,pennsylvania, usa
+1612," $ 10,000.00 ",ford,escape,2017,clean vehicle,35021,silver,colorado, usa
+1613," $ 4,100.00 ",ford,door,2012,clean vehicle,100264,silver,pennsylvania, usa
+1614," $ 30,995.00 ",ford,door,2015,clean vehicle,157057,off-white,texas, usa
+1615," $ 1,750.00 ",ford,door,2012,salvage insurance,181316,black,minnesota, usa
+1616," $ 31,500.00 ",ford,wagon,2019,clean vehicle,23222,black,pennsylvania, usa
+1617," $ 13,500.00 ",ford,door,2016,clean vehicle,87686,white,colorado, usa
+1618," $ 7,500.00 ",ford,door,2014,clean vehicle,162918,blue,texas, usa
+1619, $ 650.00 ,ford,door,2017,salvage insurance,0,black,california, usa
+1620," $ 22,800.00 ",ford,wagon,2019,clean vehicle,32526,white,pennsylvania, usa
+1621," $ 11,300.00 ",ford,door,2016,clean vehicle,69402,white,colorado, usa
+1622," $ 32,700.00 ",ford,door,2014,clean vehicle,76336,white,texas, usa
+1623," $ 1,350.00 ",ford,door,2012,salvage insurance,163334,white,virginia, usa
+1624," $ 21,900.00 ",ford,wagon,2019,clean vehicle,47628,white,pennsylvania, usa
+1625," $ 11,700.00 ",ford,door,2014,clean vehicle,135283,orange,texas, usa
+1626," $ 6,500.00 ",ford,door,2014,salvage insurance,147903,white,georgia, usa
+1627," $ 9,800.00 ",ford,door,2014,clean vehicle,74181,black,colorado, usa
+1628," $ 11,000.00 ",ford,door,2014,clean vehicle,77386,white,texas, usa
+1629," $ 1,150.00 ",ford,door,2014,salvage insurance,123349,red,georgia, usa
+1630," $ 13,000.00 ",ford,cutaway,2013,clean vehicle,136661,white,colorado, usa
+1631," $ 5,500.00 ",ford,door,2013,clean vehicle,109600,silver,texas, usa
+1632," $ 6,000.00 ",ford,door,2014,salvage insurance,125369,black,massachusetts, usa
+1633," $ 11,200.00 ",ford,door,2013,clean vehicle,122861,blue,texas, usa
+1634," $ 5,000.00 ",ford,door,2016,salvage insurance,110826,gray,massachusetts, usa
+1635," $ 23,400.00 ",ford,f-150,2019,clean vehicle,12198,white,missouri, usa
+1636," $ 13,500.00 ",ford,door,2019,salvage insurance,45512,red,massachusetts, usa
+1637," $ 22,900.00 ",ford,f-150,2019,clean vehicle,15656,white,missouri, usa
+1638," $ 20,000.00 ",ford,fusion,2020,clean vehicle,23984,silver,virginia, usa
+1639," $ 22,900.00 ",ford,f-150,2019,clean vehicle,15821,white,missouri, usa
+1640," $ 27,000.00 ",ford,mustang,2020,clean vehicle,12748,red,virginia, usa
+1641," $ 54,500.00 ",ford,expedition,2019,clean vehicle,9865,blue,oklahoma, usa
+1642," $ 20,600.00 ",ford,fusion,2020,clean vehicle,17858,black,virginia, usa
+1643," $ 23,500.00 ",ford,f-150,2019,clean vehicle,6711,white,missouri, usa
+1644," $ 53,000.00 ",ford,expedition,2019,clean vehicle,14939,blue,oklahoma, usa
+1645," $ 23,600.00 ",ford,transit,2019,clean vehicle,15820,white,missouri, usa
+1646," $ 33,500.00 ",ford,wagon,2019,clean vehicle,6140,silver,oklahoma, usa
+1647," $ 24,400.00 ",ford,edge,2019,clean vehicle,25552,gray,virginia, usa
+1648," $ 13,000.00 ",ford,focus,2016,clean vehicle,54984,black,west virginia, usa
+1649," $ 48,400.00 ",ford,max,2019,clean vehicle,24783,black,virginia, usa
+1650," $ 26,500.00 ",ford,door,2014,clean vehicle,148442,silver,west virginia, usa
+1651," $ 46,200.00 ",ford,max,2019,clean vehicle,34191,white,virginia, usa
+1652," $ 9,300.00 ",ford,door,2013,clean vehicle,82072,silver,west virginia, usa
+1653," $ 13,500.00 ",ford,door,2012,clean vehicle,104559,white,west virginia, usa
+1654," $ 27,600.00 ",ford,edge,2019,clean vehicle,13265,silver,virginia, usa
+1655," $ 7,400.00 ",ford,door,2013,clean vehicle,133314,red,west virginia, usa
+1656," $ 26,500.00 ",ford,edge,2019,clean vehicle,22458,gray,virginia, usa
+1657," $ 26,000.00 ",ford,door,2013,clean vehicle,70106,white,west virginia, usa
+1658," $ 24,500.00 ",ford,edge,2019,clean vehicle,23712,black,virginia, usa
+1659," $ 2,100.00 ",ford,door,2012,clean vehicle,101848,red,west virginia, usa
+1660," $ 16,700.00 ",ford,ecosport,2019,clean vehicle,14994,black,virginia, usa
+1661," $ 17,500.00 ",ford,edge,2015,clean vehicle,59726,gray,missouri, usa
+1662," $ 17,000.00 ",ford,escape,2019,clean vehicle,16448,gray,virginia, usa
+1663," $ 22,500.00 ",ford,door,2015,clean vehicle,28801,black,oklahoma, usa
+1664," $ 34,500.00 ",ford,f-150,2019,clean vehicle,28938,gray,michigan, usa
+1665," $ 16,600.00 ",ford,ecosport,2019,clean vehicle,19022,black,virginia, usa
+1666," $ 7,500.00 ",ford,door,2014,clean vehicle,93832,silver,missouri, usa
+1667," $ 34,500.00 ",ford,f-150,2019,clean vehicle,25046,white,michigan, usa
+1668," $ 25,000.00 ",ford,edge,2019,clean vehicle,22318,black,virginia, usa
+1669," $ 36,000.00 ",ford,f-150,2019,clean vehicle,17301,gray,michigan, usa
+1670," $ 23,700.00 ",ford,edge,2019,clean vehicle,27413,gray,virginia, usa
+1671," $ 28,600.00 ",ford,explorer,2019,clean vehicle,39733,silver,michigan, usa
+1672," $ 23,500.00 ",ford,door,2013,clean vehicle,74195,brown,oklahoma, usa
+1673," $ 25,300.00 ",ford,explorer,2019,clean vehicle,44383,silver,michigan, usa
+1674," $ 24,900.00 ",ford,flex,2019,clean vehicle,19151,white,virginia, usa
+1675," $ 20,300.00 ",ford,f-750,2012,clean vehicle,188394,white,missouri, usa
+1676," $ 23,400.00 ",ford,fusion,2020,clean vehicle,2452,gray,michigan, usa
+1677," $ 14,600.00 ",ford,fusion,2019,clean vehicle,36252,silver,virginia, usa
+1678," $ 25,500.00 ",ford,f-150,2019,clean vehicle,27136,silver,virginia, usa
+1679," $ 14,700.00 ",ford,fusion,2019,clean vehicle,35951,white,virginia, usa
+1680," $ 33,700.00 ",ford,f-150,2019,clean vehicle,35221,white,virginia, usa
+1681," $ 33,400.00 ",ford,f-150,2019,clean vehicle,33808,gray,virginia, usa
+1682," $ 34,000.00 ",ford,f-150,2019,clean vehicle,32022,black,michigan, usa
+1683," $ 17,500.00 ",ford,fusion,2019,clean vehicle,34173,white,virginia, usa
+1684," $ 14,100.00 ",ford,fusion,2019,clean vehicle,24272,white,michigan, usa
+1685," $ 30,000.00 ",ford,f-150,2019,clean vehicle,19055,black,virginia, usa
+1686," $ 16,500.00 ",ford,fusion,2019,clean vehicle,34822,red,michigan, usa
+1687," $ 30,600.00 ",ford,f-150,2019,clean vehicle,15422,gray,virginia, usa
+1688," $ 12,800.00 ",ford,ecosport,2019,clean vehicle,24765,silver,nevada, usa
+1689," $ 26,000.00 ",ford,wagon,2019,clean vehicle,23019,white,virginia, usa
+1690," $ 46,000.00 ",ford,max,2019,clean vehicle,38243,black,texas, usa
+1691," $ 28,500.00 ",ford,ranger,2019,clean vehicle,16509,white,virginia, usa
+1692," $ 24,300.00 ",ford,edge,2019,clean vehicle,18762,silver,nevada, usa
+1693," $ 29,000.00 ",ford,explorer,2019,clean vehicle,28854,no_color,texas, usa
+1694," $ 15,300.00 ",ford,escape,2019,clean vehicle,17392,black,nevada, usa
+1695," $ 27,900.00 ",ford,mustang,2019,clean vehicle,13558,white,new mexico, usa
+1696," $ 24,700.00 ",ford,edge,2019,clean vehicle,27082,black,nevada, usa
+1697," $ 14,400.00 ",ford,escape,2019,clean vehicle,17510,black,texas, usa
+1698," $ 15,000.00 ",ford,ecosport,2019,clean vehicle,24662,white,nevada, usa
+1699," $ 17,200.00 ",ford,door,2014,clean vehicle,96076,black,florida, usa
+1700," $ 12,800.00 ",ford,ecosport,2019,clean vehicle,22858,white,nevada, usa
+1701," $ 46,900.00 ",ford,explorer,2020,clean vehicle,740,gray,virginia, usa
+1702," $ 2,800.00 ",ford,door,2013,clean vehicle,110748,gray,florida, usa
+1703," $ 16,200.00 ",ford,escape,2019,clean vehicle,25090,black,nevada, usa
+1704," $ 25,200.00 ",ford,escape,2020,clean vehicle,7,black,virginia, usa
+1705," $ 34,800.00 ",ford,max,2019,clean vehicle,34277,silver,nevada, usa
+1706," $ 52,000.00 ",ford,srw,2019,clean vehicle,34527,white,texas, usa
+1707," $ 26,000.00 ",ford,door,2017,clean vehicle,99923,white,texas, usa
+1708," $ 40,600.00 ",ford,expedition,2019,clean vehicle,39170,white,nevada, usa
+1709," $ 55,000.00 ",ford,srw,2019,clean vehicle,16569,no_color,texas, usa
+1710," $ 5,000.00 ",ford,door,2015,clean vehicle,80612,black,texas, usa
+1711," $ 36,400.00 ",ford,max,2019,clean vehicle,36616,black,nevada, usa
+1712," $ 7,500.00 ",ford,door,2015,clean vehicle,92165,white,texas, usa
+1713," $ 14,700.00 ",ford,escape,2019,clean vehicle,44778,silver,nevada, usa
+1714," $ 43,900.00 ",ford,explorer,2020,clean vehicle,2089,no_color,south carolina, usa
+1715," $ 6,400.00 ",ford,door,2013,clean vehicle,91652,red,texas, usa
+1716," $ 41,100.00 ",ford,expedition,2019,clean vehicle,35801,silver,nevada, usa
+1717," $ 23,000.00 ",ford,door,2013,clean vehicle,88781,white,texas, usa
+1718," $ 13,900.00 ",ford,escape,2019,clean vehicle,36978,blue,nevada, usa
+1719," $ 19,000.00 ",ford,door,2012,clean vehicle,189776,white,texas, usa
+1720," $ 34,800.00 ",ford,max,2019,clean vehicle,35233,white,nevada, usa
+1721," $ 22,000.00 ",ford,door,2012,clean vehicle,151641,white,texas, usa
+1722," $ 16,300.00 ",ford,escape,2019,clean vehicle,37044,white,nevada, usa
+1723," $ 18,800.00 ",ford,escape,2019,clean vehicle,15835,green,virginia, usa
+1724," $ 13,000.00 ",ford,cab,2012,clean vehicle,201187,white,texas, usa
+1725," $ 40,900.00 ",ford,max,2019,clean vehicle,41928,black,nevada, usa
+1726," $ 47,000.00 ",ford,expedition,2019,clean vehicle,37059,gray,virginia, usa
+1727," $ 12,800.00 ",ford,door,2017,clean vehicle,33763,red,wisconsin, usa
+1728," $ 25,500.00 ",ford,explorer,2019,clean vehicle,29850,gray,nevada, usa
+1729," $ 17,800.00 ",ford,escape,2019,clean vehicle,26675,black,virginia, usa
+1730," $ 25,700.00 ",ford,f-150,2019,clean vehicle,17828,black,nevada, usa
+1731," $ 17,200.00 ",ford,escape,2019,clean vehicle,29632,white,virginia, usa
+1732," $ 35,000.00 ",ford,srw,2019,clean vehicle,11544,white,new jersey, usa
+1733," $ 28,800.00 ",ford,f-150,2019,clean vehicle,21976,white,nevada, usa
+1734," $ 39,200.00 ",ford,max,2019,clean vehicle,43617,black,tennessee, usa
+1735," $ 13,600.00 ",ford,escape,2019,clean vehicle,49254,gray,pennsylvania, usa
+1736," $ 24,200.00 ",ford,f-150,2019,clean vehicle,51589,black,nevada, usa
+1737," $ 46,900.00 ",ford,max,2019,clean vehicle,41399,gray,virginia, usa
+1738," $ 26,500.00 ",ford,f-150,2019,clean vehicle,11734,gray,pennsylvania, usa
+1739," $ 24,700.00 ",ford,explorer,2019,clean vehicle,41628,silver,nevada, usa
+1740," $ 12,600.00 ",ford,focus,2017,clean vehicle,15075,gray,new jersey, usa
+1741," $ 31,800.00 ",ford,f-150,2019,clean vehicle,26591,red,nevada, usa
+1742," $ 24,500.00 ",ford,f-150,2019,clean vehicle,22906,white,nevada, usa
+1743," $ 26,000.00 ",ford,f-150,2019,clean vehicle,33462,white,virginia, usa
+1744," $ 21,000.00 ",ford,f-150,2017,clean vehicle,32747,gray,pennsylvania, usa
+1745," $ 22,500.00 ",ford,f-150,2019,clean vehicle,33717,white,nevada, usa
+1746," $ 7,700.00 ",ford,door,2017,clean vehicle,85218,black,pennsylvania, usa
+1747," $ 23,100.00 ",ford,f-150,2019,clean vehicle,23512,red,nevada, usa
+1748," $ 9,200.00 ",ford,door,2017,clean vehicle,57853,white,pennsylvania, usa
+1749," $ 19,600.00 ",ford,mustang,2019,clean vehicle,33324,gray,nevada, usa
+1750," $ 11,700.00 ",ford,door,2016,clean vehicle,23803,black,pennsylvania, usa
+1751," $ 27,300.00 ",ford,mustang,2019,clean vehicle,31260,blue,nevada, usa
+1752," $ 14,300.00 ",ford,edge,2016,clean vehicle,69428,white,pennsylvania, usa
+1753," $ 23,600.00 ",ford,transit,2019,clean vehicle,15755,white,nevada, usa
+1754," $ 6,200.00 ",ford,door,2016,clean vehicle,90946,gray,pennsylvania, usa
+1755," $ 22,400.00 ",ford,wagon,2019,clean vehicle,51370,white,nevada, usa
+1756," $ 5,700.00 ",ford,door,2016,clean vehicle,99941,black,pennsylvania, usa
+1757," $ 23,600.00 ",ford,transit,2019,clean vehicle,15456,white,nevada, usa
+1758," $ 4,600.00 ",ford,door,2016,clean vehicle,141603,gray,pennsylvania, usa
+1759," $ 37,500.00 ",ford,srw,2019,clean vehicle,2382,silver,nevada, usa
+1760," $ 10,700.00 ",ford,van,2016,clean vehicle,99544,white,pennsylvania, usa
+1761," $ 31,900.00 ",ford,srw,2019,clean vehicle,21546,black,nevada, usa
+1762," $ 31,600.00 ",ford,mustang,2019,clean vehicle,16293,black,georgia, usa
+1763," $ 12,600.00 ",ford,escape,2018,clean vehicle,40375,gray,nevada, usa
+1764," $ 5,300.00 ",ford,door,2013,clean vehicle,143191,gray,pennsylvania, usa
+1765," $ 3,900.00 ",ford,fiesta,2018,clean vehicle,363,blue,nevada, usa
+1766," $ 13,000.00 ",ford,edge,2015,clean vehicle,59656,gray,florida, usa
+1767," $ 11,800.00 ",ford,ecosport,2018,clean vehicle,37878,black,nevada, usa
+1768," $ 24,600.00 ",ford,edge,2019,clean vehicle,20628,black,georgia, usa
+1769," $ 14,500.00 ",ford,door,2014,clean vehicle,71205,black,florida, usa
+1770," $ 24,300.00 ",ford,explorer,2018,clean vehicle,26186,silver,nevada, usa
+1771," $ 12,300.00 ",ford,fusion,2018,clean vehicle,38157,white,nevada, usa
+1772," $ 14,800.00 ",ford,door,2016,clean vehicle,30325,blue,new jersey, usa
+1773," $ 17,100.00 ",ford,mustang,2018,clean vehicle,31561,silver,nevada, usa
+1774," $ 6,800.00 ",ford,door,2016,clean vehicle,66655,no_color,new jersey, usa
+1775," $ 20,300.00 ",ford,explorer,2018,clean vehicle,19029,blue,connecticut, usa
+1776," $ 26,300.00 ",ford,f-150,2018,clean vehicle,11739,silver,new york, usa
+1777," $ 22,500.00 ",ford,door,2016,clean vehicle,50423,silver,nevada, usa
+1778," $ 41,200.00 ",ford,srw,2019,clean vehicle,25638,gray,tennessee, usa
+1779," $ 20,400.00 ",ford,door,2017,clean vehicle,59798,gray,florida, usa
+1780," $ 49,900.00 ",ford,drw,2019,clean vehicle,5035,black,virginia, usa
+1781," $ 12,100.00 ",ford,escape,2017,clean vehicle,32284,silver,new york, usa
+1782," $ 24,000.00 ",ford,door,2016,clean vehicle,40371,blue,florida, usa
+1783," $ 9,500.00 ",ford,escape,2017,clean vehicle,107569,white,new york, usa
+1784," $ 9,000.00 ",ford,door,2017,clean vehicle,96451,silver,new jersey, usa
+1785," $ 9,800.00 ",ford,escape,2017,clean vehicle,94851,white,new jersey, usa
+1786," $ 7,800.00 ",ford,door,2017,clean vehicle,108727,silver,connecticut, usa
+1787," $ 17,200.00 ",ford,f-150,2017,clean vehicle,91979,white,new york, usa
+1788," $ 18,800.00 ",ford,explorer,2017,clean vehicle,76258,gray,new york, usa
+1789," $ 9,800.00 ",ford,door,2014,clean vehicle,147574,white,california, usa
+1790," $ 7,000.00 ",ford,door,2013,clean vehicle,104764,gray,florida, usa
+1791," $ 44,000.00 ",ford,max,2019,clean vehicle,16934,gray,nevada, usa
+1792," $ 23,400.00 ",ford,transit,2019,clean vehicle,13822,white,texas, usa
+1793," $ 30,700.00 ",ford,transit,2019,clean vehicle,5250,white,texas, usa
+1794," $ 15,600.00 ",ford,escape,2019,clean vehicle,33451,black,south carolina, usa
+1795," $ 22,600.00 ",ford,f-150,2019,clean vehicle,14291,white,texas, usa
+1796," $ 22,900.00 ",ford,f-150,2019,clean vehicle,16725,white,south carolina, usa
+1797," $ 22,800.00 ",ford,f-150,2019,clean vehicle,13002,white,texas, usa
+1798," $ 22,700.00 ",ford,f-150,2019,clean vehicle,18902,white,south carolina, usa
+1799," $ 23,000.00 ",ford,f-150,2019,clean vehicle,9732,white,texas, usa
+1800," $ 22,700.00 ",ford,f-150,2019,clean vehicle,18947,white,south carolina, usa
+1801," $ 23,000.00 ",ford,f-150,2019,clean vehicle,8402,white,north carolina, usa
+1802," $ 34,400.00 ",ford,f-150,2019,clean vehicle,17450,gray,south carolina, usa
+1803," $ 36,500.00 ",ford,srw,2016,clean vehicle,53986,gray,nevada, usa
+1804," $ 23,100.00 ",ford,f-150,2019,clean vehicle,15848,white,south carolina, usa
+1805," $ 23,300.00 ",ford,f-150,2019,clean vehicle,10770,white,south carolina, usa
+1806," $ 22,600.00 ",ford,f-150,2019,clean vehicle,14587,white,north carolina, usa
+1807," $ 4,500.00 ",ford,door,2016,clean vehicle,98625,gray,mississippi, usa
+1808," $ 23,000.00 ",ford,f-150,2019,clean vehicle,10916,white,north carolina, usa
+1809," $ 8,000.00 ",ford,door,2014,clean vehicle,107173,white,mississippi, usa
+1810," $ 11,500.00 ",ford,fiesta,2019,clean vehicle,10134,silver,north carolina, usa
+1811," $ 9,400.00 ",ford,door,2017,clean vehicle,43056,no_color,south carolina, usa
+1812," $ 23,000.00 ",ford,f-150,2019,clean vehicle,10655,white,north carolina, usa
+1813," $ 2,800.00 ",ford,door,2012,clean vehicle,173601,black,california, usa
+1814," $ 22,600.00 ",ford,transit,2019,clean vehicle,14231,white,north carolina, usa
+1815," $ 23,000.00 ",ford,transit,2019,clean vehicle,8985,white,north carolina, usa
+1816," $ 5,200.00 ",ford,door,2016,clean vehicle,84338,black,south carolina, usa
+1817," $ 19,200.00 ",ford,door,2017,clean vehicle,104290,gray,texas, usa
+1818," $ 10,100.00 ",ford,door,2017,clean vehicle,45592,red,texas, usa
+1819," $ 6,200.00 ",ford,door,2015,clean vehicle,103960,black,south carolina, usa
+1820," $ 14,000.00 ",ford,explorer,2016,clean vehicle,110333,white,texas, usa
+1821," $ 5,000.00 ",ford,door,2015,clean vehicle,138516,gray,south carolina, usa
+1822," $ 9,200.00 ",ford,door,2016,clean vehicle,49094,red,texas, usa
+1823," $ 14,700.00 ",ford,door,2016,clean vehicle,97526,black,texas, usa
+1824," $ 3,000.00 ",ford,door,2014,clean vehicle,87420,silver,south carolina, usa
+1825," $ 30,200.00 ",ford,door,2015,clean vehicle,67052,red,texas, usa
+1826," $ 3,800.00 ",ford,door,2013,clean vehicle,58913,black,south carolina, usa
+1827," $ 3,200.00 ",ford,door,2013,clean vehicle,999999,silver,south carolina, usa
+1828," $ 21,500.00 ",ford,van,2015,clean vehicle,14482,no_color,texas, usa
+1829," $ 4,900.00 ",ford,door,2016,clean vehicle,57084,white,california, usa
+1830," $ 23,000.00 ",ford,expedition,2017,clean vehicle,90251,silver,colorado, usa
+1831," $ 11,200.00 ",ford,door,2014,clean vehicle,97320,no_color,texas, usa
+1832," $ 10,400.00 ",ford,door,2014,clean vehicle,80652,white,california, usa
+1833," $ 13,200.00 ",ford,door,2014,clean vehicle,99816,black,texas, usa
+1834," $ 5,200.00 ",ford,door,2013,clean vehicle,115429,silver,texas, usa
+1835," $ 10,500.00 ",ford,door,2015,clean vehicle,85549,red,new jersey, usa
+1836," $ 11,900.00 ",ford,bus,2013,clean vehicle,83030,white,california, usa
+1837," $ 21,200.00 ",ford,door,2014,clean vehicle,130168,white,texas, usa
+1838," $ 23,500.00 ",ford,door,2013,clean vehicle,80090,white,california, usa
+1839," $ 4,700.00 ",ford,door,2013,clean vehicle,118593,white,texas, usa
+1840," $ 11,100.00 ",ford,door,2014,clean vehicle,143704,blue,texas, usa
+1841," $ 22,000.00 ",ford,door,2015,clean vehicle,53507,white,colorado, usa
+1842," $ 14,000.00 ",ford,door,2013,clean vehicle,48408,black,colorado, usa
+1843," $ 9,200.00 ",ford,door,2013,clean vehicle,109672,white,texas, usa
+1844," $ 23,300.00 ",ford,edge,2019,clean vehicle,28549,silver,minnesota, usa
+1845," $ 21,700.00 ",ford,door,2012,clean vehicle,114500,green,texas, usa
+1846," $ 11,200.00 ",ford,door,2012,clean vehicle,67140,blue,texas, usa
+1847," $ 11,300.00 ",ford,escape,2018,clean vehicle,42168,gray,north carolina, usa
+1848," $ 4,200.00 ",ford,cutaway,2015,salvage insurance,80032,color:,illinois, usa
+1849," $ 10,900.00 ",ford,focus,2018,clean vehicle,52240,green,north carolina, usa
+1850," $ 42,300.00 ",ford,max,2019,clean vehicle,34874,gray,florida, usa
+1851," $ 10,500.00 ",ford,door,2014,salvage insurance,119689,white,idaho, usa
+1852," $ 43,400.00 ",ford,max,2019,clean vehicle,37355,gray,florida, usa
+1853," $ 12,500.00 ",ford,door,2016,salvage insurance,100947,white,idaho, usa
+1854," $ 15,900.00 ",ford,escape,2019,clean vehicle,26040,white,minnesota, usa
+1855," $ 42,500.00 ",ford,max,2019,clean vehicle,36638,white,florida, usa
+1856," $ 15,000.00 ",ford,door,2015,salvage insurance,137004,white,texas, usa
+1857," $ 24,700.00 ",ford,edge,2019,clean vehicle,31794,blue,florida, usa
+1858," $ 15,500.00 ",ford,door,2015,salvage insurance,131106,white,texas, usa
+1859," $ 49,000.00 ",ford,expedition,2019,clean vehicle,22013,white,minnesota, usa
+1860," $ 29,000.00 ",ford,door,2017,clean vehicle,42291,black,tennessee, usa
+1861," $ 16,800.00 ",ford,escape,2019,clean vehicle,13155,white,florida, usa
+1862," $ 51,000.00 ",ford,max,2019,clean vehicle,24869,red,minnesota, usa
+1863," $ 16,500.00 ",ford,escape,2019,clean vehicle,18454,white,florida, usa
+1864," $ 10,000.00 ",ford,d,2016,salvage insurance,16694,white,texas, usa
+1865," $ 27,900.00 ",ford,explorer,2019,clean vehicle,28922,gray,florida, usa
+1866," $ 23,700.00 ",ford,edge,2019,clean vehicle,23534,gray,florida, usa
+1867," $ 20,000.00 ",ford,dr,2012,salvage insurance,24581,color:,california, usa
+1868," $ 45,600.00 ",ford,max,2019,clean vehicle,35646,gray,florida, usa
+1869," $ 6,000.00 ",ford,cab,2012,salvage insurance,129873,white,virginia, usa
+1870," $ 15,600.00 ",ford,escape,2019,clean vehicle,28669,black,florida, usa
+1871," $ 25,000.00 ",ford,explorer,2017,clean vehicle,32454,red,michigan, usa
+1872," $ 28,500.00 ",ford,explorer,2019,clean vehicle,21800,black,florida, usa
+1873," $ 8,000.00 ",ford,cutaway,2014,salvage insurance,231769,yellow,florida, usa
+1874," $ 19,990.00 ",ford,doors,2016,clean vehicle,23796,black,connecticut, usa
+1875," $ 34,400.00 ",ford,max,2019,clean vehicle,42506,gray,florida, usa
+1876," $ 30,999.00 ",ford,doors,2016,clean vehicle,6249,shadow black,connecticut, usa
+1877," $ 41,000.00 ",ford,expedition,2019,clean vehicle,47496,black,florida, usa
+1878," $ 27,999.00 ",ford,doors,2016,clean vehicle,10700,gray,massachusetts, usa
+1879," $ 42,000.00 ",ford,expedition,2019,clean vehicle,39604,black,florida, usa
+1880," $ 8,000.00 ",ford,cutaway,2013,salvage insurance,250831,color:,new jersey, usa
+1881," $ 29,795.00 ",ford,doors,2016,clean vehicle,7275,triple yellow tri-coat,connecticut, usa
+1882," $ 24,700.00 ",ford,edge,2019,clean vehicle,8806,black,florida, usa
+1883," $ 13,995.00 ",ford,doors,2016,clean vehicle,105115,gray,new jersey, usa
+1884," $ 2,900.00 ",ford,door,2015,clean vehicle,57340,silver,florida, usa
+1885," $ 35,400.00 ",ford,max,2019,clean vehicle,36167,white,florida, usa
+1886," $ 24,549.00 ",ford,doors,2016,clean vehicle,44941,shadow black,new york, usa
+1887," $ 8,900.00 ",ford,door,2014,clean vehicle,53102,silver,florida, usa
+1888," $ 15,800.00 ",ford,escape,2019,clean vehicle,26637,black,florida, usa
+1889," $ 18,500.00 ",ford,doors,2016,clean vehicle,45814,black,new york, usa
+1890," $ 32,000.00 ",ford,f-150,2019,clean vehicle,17310,red,minnesota, usa
+1891," $ 28,300.00 ",ford,explorer,2019,clean vehicle,24116,gray,florida, usa
+1892," $ 10,500.00 ",ford,d,2019,salvage insurance,14128,blue,florida, usa
+1893," $ 24,970.00 ",ford,doors,2016,clean vehicle,49882,green,new york, usa
+1894," $ 13,800.00 ",ford,fusion,2019,clean vehicle,38964,blue,minnesota, usa
+1895," $ 2,580.00 ",ford,door,2012,clean vehicle,102705,white,florida, usa
+1896," $ 59,975.00 ",ford,f-150,2019,clean vehicle,71,white,florida, usa
+1897," $ 2,500.00 ",ford,door,2012,salvage insurance,98620,white,indiana, usa
+1898," $ 28,990.00 ",ford,doors,2016,clean vehicle,15825,triple yellow tri-coat,massachusetts, usa
+1899," $ 50,000.00 ",ford,max,2019,clean vehicle,29499,blue,minnesota, usa
+1900," $ 33,800.00 ",ford,door,2014,clean vehicle,100255,white,kentucky, usa
+1901," $ 59,975.00 ",ford,f-150,2019,clean vehicle,174,black,florida, usa
+1902," $ 2,500.00 ",ford,door,2013,salvage insurance,167552,gray,minnesota, usa
+1903," $ 46,999.00 ",ford,doors,2016,clean vehicle,16956,magnetic metallic,new jersey, usa
+1904," $ 16,700.00 ",ford,fusion,2019,clean vehicle,36896,black,minnesota, usa
+1905," $ 34,700.00 ",ford,door,2013,clean vehicle,77281,white,kentucky, usa
+1906," $ 28,900.00 ",ford,f-150,2019,clean vehicle,24795,black,florida, usa
+1907," $ 30,800.00 ",ford,doors,2016,clean vehicle,16771,ruby red metallic tinted clearcoat,new jersey, usa
+1908," $ 27,100.00 ",ford,f-150,2019,clean vehicle,28692,silver,minnesota, usa
+1909," $ 13,388.00 ",ford,door,2012,clean vehicle,113821,black,louisiana, usa
+1910," $ 26,000.00 ",ford,f-150,2019,clean vehicle,19793,blue,florida, usa
+1911," $ 17,900.00 ",ford,doors,2016,clean vehicle,27940,shadow black,massachusetts, usa
+1912," $ 23,400.00 ",ford,flex,2019,clean vehicle,24987,black,minnesota, usa
+1913," $ 29,800.00 ",ford,mustang,2016,clean vehicle,18367,blue,illinois, usa
+1914," $ 23,700.00 ",ford,flex,2019,clean vehicle,14109,gray,florida, usa
+1915," $ 1,725.00 ",ford,door,2012,salvage insurance,158781,black,illinois, usa
+1916," $ 33,995.00 ",ford,doors,2016,clean vehicle,27369,black,new jersey, usa
+1917," $ 23,500.00 ",ford,flex,2019,clean vehicle,30208,white,minnesota, usa
+1918," $ 32,500.00 ",ford,explorer,2019,clean vehicle,24024,black,florida, usa
+1919," $ 2,500.00 ",ford,door,2016,salvage insurance,64999,blue,mississippi, usa
+1920," $ 39,000.00 ",ford,f-150,2019,clean vehicle,8404,black,minnesota, usa
+1921," $ 11,000.00 ",ford,focus,2018,clean vehicle,8884,gray,massachusetts, usa
+1922," $ 32,500.00 ",ford,explorer,2019,clean vehicle,24126,black,florida, usa
+1923, $ 800.00 ,ford,door,2012,salvage insurance,129659,black,mississippi, usa
+1924," $ 26,900.00 ",ford,f-150,2019,clean vehicle,31713,black,minnesota, usa
+1925," $ 11,200.00 ",ford,edge,2016,clean vehicle,109996,gray,new york, usa
+1926," $ 21,000.00 ",ford,doors,2018,clean vehicle,6821,red,new york, usa
+1927," $ 32,000.00 ",ford,f-150,2019,clean vehicle,17867,red,minnesota, usa
+1928," $ 7,300.00 ",ford,door,2016,clean vehicle,110253,black,connecticut, usa
+1929," $ 12,800.00 ",ford,escape,2018,clean vehicle,39364,black,missouri, usa
+1930," $ 24,190.00 ",ford,doors,2018,clean vehicle,4018,blue,massachusetts, usa
+1931," $ 29,100.00 ",ford,f-150,2019,clean vehicle,21054,red,minnesota, usa
+1932," $ 29,000.00 ",ford,door,2017,clean vehicle,48309,red,massachusetts, usa
+1933," $ 17,300.00 ",ford,door,2016,clean vehicle,68666,black,new york, usa
+1934," $ 19,888.00 ",ford,doors,2018,clean vehicle,34071,ingot silver metallic,new jersey, usa
+1935," $ 31,000.00 ",ford,f-150,2019,clean vehicle,13600,white,minnesota, usa
+1936," $ 37,200.00 ",ford,door,2017,clean vehicle,44956,black,massachusetts, usa
+1937," $ 8,600.00 ",ford,door,2016,clean vehicle,72607,silver,new jersey, usa
+1938," $ 24,857.00 ",ford,doors,2018,clean vehicle,33815,shadow black,massachusetts, usa
+1939," $ 23,500.00 ",ford,flex,2019,clean vehicle,31491,gray,minnesota, usa
+1940," $ 26,100.00 ",ford,f-150,2018,clean vehicle,32149,white,mississippi, usa
+1941," $ 10,800.00 ",ford,hybrid,2016,clean vehicle,26654,blue,new york, usa
+1942," $ 20,995.00 ",ford,doors,2018,clean vehicle,36637,white,new york, usa
+1943," $ 29,300.00 ",ford,f-150,2019,clean vehicle,17000,white,minnesota, usa
+1944," $ 33,100.00 ",ford,f-150,2018,clean vehicle,15960,gray,mississippi, usa
+1945," $ 13,800.00 ",ford,door,2016,clean vehicle,40774,gray,new jersey, usa
+1946," $ 19,498.00 ",ford,doors,2018,clean vehicle,40338,black,new york, usa
+1947," $ 14,900.00 ",ford,fusion,2019,clean vehicle,40505,gray,minnesota, usa
+1948," $ 8,700.00 ",ford,door,2016,clean vehicle,30735,black,massachusetts, usa
+1949," $ 20,600.00 ",ford,mustang,2019,clean vehicle,33965,gray,florida, usa
+1950," $ 5,000.00 ",ford,door,2018,salvage insurance,7339,white,oklahoma, usa
+1951," $ 19,995.00 ",ford,doors,2018,clean vehicle,42470,white,new york, usa
+1952," $ 14,900.00 ",ford,fusion,2019,clean vehicle,40670,silver,minnesota, usa
+1953," $ 19,500.00 ",ford,door,2016,clean vehicle,41233,black,massachusetts, usa
+1954," $ 24,500.00 ",ford,wagon,2019,clean vehicle,13162,white,florida, usa
+1955," $ 15,000.00 ",ford,fusion,2018,clean vehicle,38744,white,california, usa
+1956," $ 26,985.00 ",ford,doors,2018,clean vehicle,14023,black,new york, usa
+1957," $ 31,000.00 ",ford,f-150,2019,clean vehicle,9741,white,minnesota, usa
+1958," $ 24,300.00 ",ford,explorer,2017,clean vehicle,31017,silver,mississippi, usa
+1959," $ 16,800.00 ",ford,fusion,2019,clean vehicle,37786,gray,florida, usa
+1960," $ 17,200.00 ",ford,mustang,2018,clean vehicle,32415,white,california, usa
+1961," $ 34,995.00 ",ford,doors,2018,clean vehicle,10421,ruby red,new york, usa
+1962," $ 24,300.00 ",ford,wagon,2019,clean vehicle,29305,white,minnesota, usa
+1963," $ 26,400.00 ",ford,explorer,2017,clean vehicle,51309,white,mississippi, usa
+1964," $ 16,800.00 ",ford,fusion,2019,clean vehicle,38001,black,florida, usa
+1965," $ 15,500.00 ",ford,escape,2018,clean vehicle,18849,black,california, usa
+1966," $ 19,440.00 ",ford,doors,2018,clean vehicle,43269,silver,new york, usa
+1967," $ 16,700.00 ",ford,fusion,2019,clean vehicle,36989,silver,minnesota, usa
+1968," $ 29,000.00 ",ford,door,2017,clean vehicle,29320,blue,alabama, usa
+1969," $ 16,100.00 ",ford,hybrid,2019,clean vehicle,34244,white,florida, usa
+1970," $ 17,200.00 ",ford,mustang,2018,clean vehicle,32938,white,california, usa
+1971," $ 20,950.00 ",ford,doors,2018,clean vehicle,40793,black,new hampshire, usa
+1972," $ 46,200.00 ",ford,door,2017,clean vehicle,94741,no_color,alabama, usa
+1973," $ 29,400.00 ",ford,mustang,2019,clean vehicle,25011,white,florida, usa
+1974," $ 2,825.00 ",ford,door,2014,salvage insurance,363810,white,montana, usa
+1975," $ 32,999.00 ",ford,doors,2018,clean vehicle,6881,shadow black,new jersey, usa
+1976," $ 6,600.00 ",ford,door,2014,clean vehicle,80423,orange,new jersey, usa
+1977," $ 50,200.00 ",ford,door,2017,clean vehicle,92405,white,alabama, usa
+1978," $ 28,300.00 ",ford,ranger,2019,clean vehicle,15436,white,florida, usa
+1979," $ 12,000.00 ",ford,door,2017,salvage insurance,104665,white,california, usa
+1980," $ 32,999.00 ",ford,doors,2018,clean vehicle,16194,royal crimson metallic tinted clearcoat,new jersey, usa
+1981," $ 12,600.00 ",ford,door,2014,clean vehicle,48188,black,new jersey, usa
+1982," $ 5,200.00 ",ford,focus,2017,clean vehicle,65164,red,alabama, usa
+1983," $ 20,500.00 ",ford,mustang,2019,clean vehicle,35930,black,florida, usa
+1984," $ 1,200.00 ",ford,door,2012,salvage insurance,167376,red,virginia, usa
+1985," $ 35,999.00 ",ford,doors,2018,clean vehicle,13674,kona blue metallic,new jersey, usa
+1986," $ 41,000.00 ",ford,srw,2019,clean vehicle,9235,silver,minnesota, usa
+1987," $ 33,100.00 ",ford,door,2017,clean vehicle,103002,red,mississippi, usa
+1988," $ 23,500.00 ",ford,ranger,2019,clean vehicle,12836,blue,florida, usa
+1989," $ 18,799.00 ",ford,doors,2015,clean vehicle,137728,red,connecticut, usa
+1990," $ 33,999.00 ",ford,doors,2018,clean vehicle,6921,magnetic metallic,new jersey, usa
+1991," $ 35,000.00 ",ford,srw,2019,clean vehicle,14359,white,minnesota, usa
+1992," $ 26,100.00 ",ford,wagon,2017,clean vehicle,58118,white,mississippi, usa
+1993," $ 15,400.00 ",ford,fusion,2019,clean vehicle,31124,white,florida, usa
+1994," $ 25,998.00 ",ford,doors,2015,clean vehicle,25734,color:,new york, usa
+1995," $ 31,831.00 ",ford,doors,2018,clean vehicle,14059,black,new jersey, usa
+1996," $ 40,400.00 ",ford,srw,2019,clean vehicle,13472,black,minnesota, usa
+1997," $ 15,400.00 ",ford,door,2013,clean vehicle,123983,silver,connecticut, usa
+1998," $ 13,500.00 ",ford,hybrid,2019,clean vehicle,35023,gray,florida, usa
+1999," $ 25,995.00 ",ford,doors,2015,clean vehicle,39509,white,new hampshire, usa
+2000," $ 27,990.00 ",ford,doors,2018,clean vehicle,4512,ingot silver metallic,new york, usa
+2001," $ 23,985.00 ",ford,doors,2015,clean vehicle,51884,white,new jersey, usa
+2002," $ 27,995.00 ",ford,doors,2018,clean vehicle,4181,gray,pennsylvania, usa
+2003," $ 13,995.00 ",ford,doors,2015,clean vehicle,56703,oxford white,new york, usa
+2004," $ 29,988.00 ",ford,doors,2018,clean vehicle,4712,ingot silver metallic,pennsylvania, usa
+2005," $ 12,995.00 ",ford,doors,2015,clean vehicle,102800,blue,new jersey, usa
+2006," $ 21,687.00 ",ford,doors,2018,clean vehicle,7109,lightning blue,pennsylvania, usa
+2007," $ 25,200.00 ",ford,door,2016,clean vehicle,100943,white,alabama, usa
+2008," $ 29,590.00 ",ford,doors,2015,clean vehicle,3915,green,new york, usa
+2009," $ 28,999.00 ",ford,doors,2018,clean vehicle,15550,ingot silver,pennsylvania, usa
+2010," $ 13,942.00 ",ford,doors,2015,clean vehicle,62542,magnetic metallic,new jersey, usa
+2011," $ 15,300.00 ",ford,taurus,2018,clean vehicle,38370,silver,utah, usa
+2012," $ 35,400.00 ",ford,ranger,2020,clean vehicle,671,blue,ohio, usa
+2013," $ 32,700.00 ",ford,door,2016,clean vehicle,61477,silver,alabama, usa
+2014," $ 13,995.00 ",ford,doors,2015,clean vehicle,73891,silver,new york, usa
+2015," $ 1,850.00 ",ford,door,2014,salvage insurance,168805,black,michigan, usa
+2016," $ 15,800.00 ",ford,door,2012,clean vehicle,82564,gold,florida, usa
+2017," $ 36,000.00 ",ford,door,2016,clean vehicle,85649,black,mississippi, usa
+2018," $ 15,495.00 ",ford,doors,2015,clean vehicle,48374,white,new york, usa
+2019," $ 21,500.00 ",ford,door,2012,clean vehicle,11990,red,florida, usa
+2020," $ 7,200.00 ",ford,door,2016,clean vehicle,64111,black,alabama, usa
+2021," $ 17,589.00 ",ford,doors,2015,clean vehicle,28771,red,new jersey, usa
+2022," $ 31,700.00 ",ford,door,2015,clean vehicle,126708,white,alabama, usa
+2023," $ 31,790.00 ",ford,doors,2015,clean vehicle,27165,orange,new york, usa
+2024," $ 18,100.00 ",ford,van,2015,clean vehicle,106546,white,mississippi, usa
+2025," $ 14,495.00 ",ford,doors,2015,clean vehicle,54778,white,new jersey, usa
+2026," $ 15,000.00 ",ford,fusion,2020,clean vehicle,11729,white,illinois, usa
+2027," $ 26,400.00 ",ford,door,2015,clean vehicle,85197,black,mississippi, usa
+2028," $ 27,990.00 ",ford,doors,2015,clean vehicle,19130,red,massachusetts, usa
+2029," $ 19,700.00 ",ford,expedition,2015,clean vehicle,72369,white,mississippi, usa
+2030," $ 15,300.00 ",ford,doors,2015,clean vehicle,59646,silver,massachusetts, usa
+2031," $ 22,000.00 ",ford,door,2014,clean vehicle,68418,black,mississippi, usa
+2032," $ 23,999.00 ",ford,doors,2015,clean vehicle,8400,black,new jersey, usa
+2033," $ 16,488.00 ",ford,doors,2015,clean vehicle,45084,gray,new york, usa
+2034," $ 12,784.00 ",ford,doors,2015,clean vehicle,67037,gray,new jersey, usa
+2035," $ 23,400.00 ",ford,doors,2015,clean vehicle,64135,black,new jersey, usa
+2036," $ 9,705.00 ",ford,door,2017,clean vehicle,72377,black,arkansas, usa
+2037," $ 25,999.00 ",ford,doors,2015,clean vehicle,39367,oxford white,new jersey, usa
+2038," $ 34,977.00 ",ford,doors,2015,clean vehicle,46540,black,pennsylvania, usa
+2039," $ 19,000.00 ",ford,doors,2015,clean vehicle,40677,ingot silver metallic,new jersey, usa
+2040," $ 15,995.00 ",ford,doors,2015,clean vehicle,69438,black,new york, usa
+2041," $ 13,487.00 ",ford,doors,2015,clean vehicle,96246,gray,new york, usa
+2042," $ 18,707.00 ",ford,doors,2015,clean vehicle,69719,white,connecticut, usa
+2043," $ 15,290.00 ",ford,doors,2015,clean vehicle,75933,white platinum tri-coat metallic,new york, usa
+2044," $ 15,600.00 ",ford,doors,2015,clean vehicle,54325,black,new york, usa
+2045," $ 47,000.00 ",ford,expedition,2019,clean vehicle,24902,black,illinois, usa
+2046," $ 16,080.00 ",ford,doors,2015,clean vehicle,31793,blue,connecticut, usa
+2047," $ 50,000.00 ",ford,max,2019,clean vehicle,16505,white,illinois, usa
+2048," $ 15,268.00 ",ford,doors,2015,clean vehicle,74361,black,new york, usa
+2049," $ 47,500.00 ",ford,max,2019,clean vehicle,27868,black,illinois, usa
+2050," $ 18,497.00 ",ford,doors,2015,clean vehicle,34011,black,massachusetts, usa
+2051," $ 10,000.00 ",ford,escape,2019,clean vehicle,19993,silver,illinois, usa
+2052," $ 19,995.00 ",ford,suv,2015,clean vehicle,48115,red,pennsylvania, usa
+2053," $ 49,000.00 ",ford,max,2019,clean vehicle,22543,white,illinois, usa
+2054," $ 17,150.00 ",ford,doors,2015,clean vehicle,67091,black,new jersey, usa
+2055," $ 45,000.00 ",ford,expedition,2019,clean vehicle,28790,black,illinois, usa
+2056," $ 14,295.00 ",ford,doors,2015,clean vehicle,59391,guard,new jersey, usa
+2057," $ 49,000.00 ",ford,max,2019,clean vehicle,18449,black,illinois, usa
+2058," $ 16,190.00 ",ford,doors,2015,clean vehicle,71824,magnetic metallic,new york, usa
+2059," $ 49,000.00 ",ford,expedition,2019,clean vehicle,19304,black,illinois, usa
+2060," $ 17,899.00 ",ford,doors,2015,clean vehicle,39159,magnetic metallic,new york, usa
+2061," $ 26,000.00 ",ford,flex,2019,clean vehicle,18708,black,illinois, usa
+2062," $ 14,000.00 ",ford,doors,2015,clean vehicle,79430,magnetic metallic,new jersey, usa
+2063," $ 15,500.00 ",ford,flex,2019,clean vehicle,12393,gray,illinois, usa
+2064," $ 16,888.00 ",ford,doors,2015,clean vehicle,56329,black,new york, usa
+2065," $ 28,000.00 ",ford,f-150,2019,clean vehicle,12155,silver,illinois, usa
+2066," $ 8,305.00 ",ford,door,2014,clean vehicle,63291,blue,arkansas, usa
+2067," $ 21,822.00 ",ford,doors,2015,clean vehicle,36041,white platinum tri-coat metallic,new jersey, usa
+2068," $ 15,500.00 ",ford,mustang,2019,clean vehicle,25810,red,illinois, usa
+2069," $ 12,500.00 ",ford,door,2015,clean vehicle,130388,blue,arkansas, usa
+2070," $ 15,995.00 ",ford,doors,2015,clean vehicle,23878,blue,new york, usa
+2071," $ 16,000.00 ",ford,transit,2019,clean vehicle,15460,white,illinois, usa
+2072," $ 38,200.00 ",ford,max,2018,clean vehicle,46710,white,north carolina, usa
+2073," $ 12,995.00 ",ford,doors,2015,clean vehicle,65342,black,new york, usa
+2074," $ 14,488.00 ",ford,doors,2015,clean vehicle,64061,tuxedo black metallic,massachusetts, usa
+2075," $ 17,500.00 ",ford,door,2016,clean vehicle,93164,white,florida, usa
+2076," $ 21,995.00 ",ford,doors,2015,clean vehicle,35629,blue,massachusetts, usa
+2077," $ 8,500.00 ",ford,connect,2015,clean vehicle,118483,white,florida, usa
+2078," $ 16,593.00 ",ford,doors,2015,clean vehicle,71573,tuxedo black metallic,massachusetts, usa
+2079," $ 13,000.00 ",ford,door,2017,clean vehicle,33660,black,illinois, usa
+2080," $ 14,247.00 ",ford,doors,2015,clean vehicle,61168,blue,pennsylvania, usa
+2081," $ 23,500.00 ",ford,door,2017,clean vehicle,42241,gray,illinois, usa
+2082," $ 16,999.00 ",ford,doors,2015,clean vehicle,21004,oxford white,pennsylvania, usa
+2083," $ 25,000.00 ",ford,door,2017,clean vehicle,45003,red,illinois, usa
+2084," $ 20,159.00 ",ford,doors,2015,clean vehicle,45278,oxford white,new jersey, usa
+2085," $ 31,000.00 ",ford,door,2017,clean vehicle,1,black,illinois, usa
+2086," $ 22,500.00 ",ford,edge,2018,clean vehicle,24747,gray,colorado, usa
+2087," $ 29,500.00 ",ford,door,2017,clean vehicle,48707,black,illinois, usa
+2088," $ 59,900.00 ",ford,max,2020,clean vehicle,2162,no_color,ohio, usa
+2089," $ 24,000.00 ",ford,f-150,2017,clean vehicle,50874,black,illinois, usa
+2090," $ 20,500.00 ",ford,f-150,2017,clean vehicle,70727,black,illinois, usa
+2091," $ 27,200.00 ",ford,explorer,2019,clean vehicle,29382,gray,north carolina, usa
+2092," $ 24,900.00 ",ford,f-150,2018,clean vehicle,33194,white,virginia, usa
+2093," $ 24,500.00 ",ford,door,2017,clean vehicle,52084,white,illinois, usa
+2094," $ 34,000.00 ",ford,expedition,2018,clean vehicle,51122,black,virginia, usa
+2095," $ 28,000.00 ",ford,door,2017,clean vehicle,40286,white,illinois, usa
+2096," $ 27,000.00 ",ford,f-150,2017,clean vehicle,55420,black,illinois, usa
+2097," $ 34,000.00 ",ford,wagon,2018,clean vehicle,10282,black,virginia, usa
+2098," $ 42,500.00 ",ford,door,2017,clean vehicle,85278,white,illinois, usa
+2099," $ 33,000.00 ",ford,explorer,2018,clean vehicle,7258,black,pennsylvania, usa
+2100," $ 10,200.00 ",ford,escape,2018,clean vehicle,93350,black,pennsylvania, usa
+2101," $ 25,600.00 ",ford,explorer,2019,clean vehicle,37166,gray,north carolina, usa
+2102," $ 16,300.00 ",ford,f-150,2018,clean vehicle,69480,white,texas, usa
+2103," $ 26,500.00 ",ford,door,2016,clean vehicle,34679,white,illinois, usa
+2104," $ 36,500.00 ",ford,f-150,2018,clean vehicle,24151,red,pennsylvania, usa
+2105," $ 25,900.00 ",ford,explorer,2019,clean vehicle,32796,white,north carolina, usa
+2106," $ 22,500.00 ",ford,door,2016,clean vehicle,67979,black,illinois, usa
+2107," $ 29,000.00 ",ford,f-150,2018,clean vehicle,18690,white,pennsylvania, usa
+2108, $ 825.00 ,ford,door,2012,salvage insurance,78072,white,pennsylvania, usa
+2109," $ 10,500.00 ",ford,door,2016,clean vehicle,54251,red,illinois, usa
+2110," $ 32,000.00 ",ford,f-150,2018,clean vehicle,32262,white,pennsylvania, usa
+2111," $ 27,700.00 ",ford,f-650,2015,clean vehicle,92358,white,texas, usa
+2112," $ 4,000.00 ",ford,door,2015,clean vehicle,90740,red,illinois, usa
+2113," $ 38,800.00 ",ford,f-150,2018,clean vehicle,35225,black,pennsylvania, usa
+2114," $ 26,200.00 ",ford,f-650,2015,clean vehicle,129063,white,texas, usa
+2115," $ 19,500.00 ",ford,wagon,2018,clean vehicle,49985,white,wisconsin, usa
+2116," $ 11,700.00 ",ford,escape,2015,clean vehicle,52340,black,illinois, usa
+2117," $ 34,000.00 ",ford,f-150,2018,clean vehicle,21406,black,pennsylvania, usa
+2118," $ 38,600.00 ",ford,srw,2019,clean vehicle,16619,white,florida, usa
+2119," $ 21,500.00 ",ford,door,2015,clean vehicle,41293,black,illinois, usa
+2120," $ 38,500.00 ",ford,f-150,2018,clean vehicle,37053,black,pennsylvania, usa
+2121," $ 38,500.00 ",ford,f-150,2018,clean vehicle,34532,black,pennsylvania, usa
+2122," $ 12,000.00 ",ford,taurus,2017,clean vehicle,13328,blue,missouri, usa
+2123," $ 30,500.00 ",ford,f-150,2018,clean vehicle,56836,off-white,pennsylvania, usa
+2124," $ 11,300.00 ",ford,door,2016,clean vehicle,48080,orange,missouri, usa
+2125," $ 29,500.00 ",ford,f-150,2018,clean vehicle,12271,gray,pennsylvania, usa
+2126," $ 16,100.00 ",ford,expedition,2014,clean vehicle,97318,white,missouri, usa
+2127," $ 32,500.00 ",ford,f-150,2018,clean vehicle,12717,red,pennsylvania, usa
+2128," $ 29,000.00 ",ford,mustang,2019,clean vehicle,12764,black,texas, usa
+2129," $ 30,000.00 ",ford,f-150,2018,clean vehicle,19951,red,pennsylvania, usa
+2130," $ 26,000.00 ",ford,explorer,2019,clean vehicle,32458,white,north carolina, usa
+2131," $ 26,000.00 ",ford,f-150,2018,clean vehicle,21616,gray,pennsylvania, usa
+2132," $ 18,500.00 ",ford,escape,2019,clean vehicle,17755,blue,north carolina, usa
+2133," $ 12,000.00 ",ford,door,2017,clean vehicle,73846,gray,texas, usa
+2134," $ 30,000.00 ",ford,f-150,2018,clean vehicle,15771,blue,pennsylvania, usa
+2135," $ 14,700.00 ",ford,escape,2019,clean vehicle,29168,silver,north carolina, usa
+2136," $ 25,000.00 ",ford,door,2017,clean vehicle,159182,red,texas, usa
+2137," $ 26,550.00 ",ford,f-150,2018,clean vehicle,15296,white,pennsylvania, usa
+2138," $ 27,000.00 ",ford,explorer,2019,clean vehicle,30476,white,north carolina, usa
+2139," $ 34,000.00 ",ford,door,2016,clean vehicle,131754,white,texas, usa
+2140," $ 27,500.00 ",ford,f-150,2018,clean vehicle,26095,gray,pennsylvania, usa
+2141," $ 25,500.00 ",ford,f-150,2018,clean vehicle,22107,gray,pennsylvania, usa
+2142," $ 13,500.00 ",ford,ecosport,2019,clean vehicle,31207,brown,north carolina, usa
+2143," $ 4,000.00 ",ford,door,2015,clean vehicle,112810,gray,texas, usa
+2144," $ 25,700.00 ",ford,f-150,2018,clean vehicle,19058,white,pennsylvania, usa
+2145," $ 29,000.00 ",ford,door,2015,clean vehicle,109137,white,texas, usa
+2146," $ 30,500.00 ",ford,f-150,2018,clean vehicle,24058,black,pennsylvania, usa
+2147," $ 30,000.00 ",ford,f-150,2018,clean vehicle,6967,black,pennsylvania, usa
+2148," $ 9,000.00 ",ford,door,2014,clean vehicle,118340,gray,texas, usa
+2149," $ 19,000.00 ",ford,f-150,2018,clean vehicle,36145,white,pennsylvania, usa
+2150," $ 25,800.00 ",ford,explorer,2019,clean vehicle,33942,silver,north carolina, usa
+2151," $ 26,500.00 ",ford,f-150,2018,clean vehicle,38868,gray,pennsylvania, usa
+2152," $ 29,300.00 ",ford,explorer,2019,clean vehicle,36190,red,north carolina, usa
+2153," $ 6,300.00 ",ford,fiesta,2018,clean vehicle,37177,black,pennsylvania, usa
+2154," $ 25,400.00 ",ford,explorer,2019,clean vehicle,39267,white,north carolina, usa
+2155," $ 26,000.00 ",ford,f-150,2018,clean vehicle,33350,gray,pennsylvania, usa
+2156," $ 7,000.00 ",ford,focus,2017,clean vehicle,57889,black,north carolina, usa
+2157," $ 25,900.00 ",ford,f-150,2018,clean vehicle,34081,red,pennsylvania, usa
+2158," $ 9,700.00 ",ford,fiesta,2019,clean vehicle,26821,gray,north carolina, usa
+2159," $ 27,000.00 ",ford,f-150,2018,clean vehicle,40577,black,pennsylvania, usa
+2160," $ 9,100.00 ",ford,fiesta,2019,clean vehicle,52355,black,north carolina, usa
+2161," $ 28,000.00 ",ford,f-150,2018,clean vehicle,30620,red,pennsylvania, usa
+2162," $ 25,700.00 ",ford,flex,2019,clean vehicle,22019,black,north carolina, usa
+2163," $ 27,500.00 ",ford,f-150,2018,clean vehicle,36742,black,pennsylvania, usa
+2164," $ 9,400.00 ",ford,fiesta,2019,clean vehicle,32473,white,north carolina, usa
+2165," $ 25,500.00 ",ford,f-150,2018,clean vehicle,43406,blue,pennsylvania, usa
+2166," $ 20,500.00 ",ford,flex,2019,clean vehicle,34696,white,north carolina, usa
+2167," $ 21,500.00 ",ford,f-150,2018,clean vehicle,43519,gray,pennsylvania, usa
+2168," $ 12,800.00 ",ford,hybrid,2019,clean vehicle,37716,gray,north carolina, usa
+2169," $ 23,900.00 ",ford,f-150,2018,clean vehicle,41627,white,pennsylvania, usa
+2170," $ 9,400.00 ",ford,fiesta,2019,clean vehicle,29986,gray,north carolina, usa
+2171," $ 26,900.00 ",ford,f-150,2018,clean vehicle,41496,silver,pennsylvania, usa
+2172," $ 25,500.00 ",ford,flex,2019,clean vehicle,20613,gray,north carolina, usa
+2173," $ 27,000.00 ",ford,f-150,2018,clean vehicle,33475,blue,pennsylvania, usa
+2174," $ 9,300.00 ",ford,fiesta,2019,clean vehicle,32305,silver,north carolina, usa
+2175," $ 14,400.00 ",ford,fusion,2018,clean vehicle,38148,black,pennsylvania, usa
+2176," $ 19,000.00 ",ford,flex,2019,clean vehicle,39976,red,north carolina, usa
+2177," $ 14,000.00 ",ford,fusion,2018,clean vehicle,50513,white,pennsylvania, usa
+2178," $ 13,600.00 ",ford,fusion,2019,clean vehicle,31408,gray,north carolina, usa
+2179," $ 19,200.00 ",ford,transit,2018,clean vehicle,41351,white,pennsylvania, usa
+2180," $ 13,600.00 ",ford,fusion,2019,clean vehicle,32038,red,north carolina, usa
+2181," $ 18,600.00 ",ford,transit,2018,clean vehicle,38279,white,pennsylvania, usa
+2182," $ 13,700.00 ",ford,fusion,2019,clean vehicle,30471,red,north carolina, usa
+2183," $ 18,200.00 ",ford,transit,2018,clean vehicle,41569,white,pennsylvania, usa
+2184," $ 13,800.00 ",ford,fusion,2019,clean vehicle,31142,silver,north carolina, usa
+2185," $ 22,000.00 ",ford,wagon,2018,clean vehicle,31598,black,pennsylvania, usa
+2186," $ 13,700.00 ",ford,fusion,2019,clean vehicle,31380,silver,north carolina, usa
+2187," $ 28,000.00 ",ford,wagon,2018,clean vehicle,22179,black,pennsylvania, usa
+2188," $ 13,800.00 ",ford,fusion,2019,clean vehicle,29266,white,north carolina, usa
+2189," $ 18,600.00 ",ford,transit,2018,clean vehicle,42156,white,pennsylvania, usa
+2190," $ 13,700.00 ",ford,fusion,2019,clean vehicle,30875,red,north carolina, usa
+2191," $ 13,700.00 ",ford,fusion,2019,clean vehicle,30609,silver,north carolina, usa
+2192," $ 13,800.00 ",ford,fusion,2019,clean vehicle,29508,silver,north carolina, usa
+2193," $ 17,700.00 ",ford,hybrid,2019,clean vehicle,12837,gray,north carolina, usa
+2194," $ 13,900.00 ",ford,fusion,2019,clean vehicle,29633,white,north carolina, usa
+2195," $ 13,900.00 ",ford,fusion,2019,clean vehicle,27461,no_color,north carolina, usa
+2196," $ 50,500.00 ",ford,f-650,2018,clean vehicle,74961,white,pennsylvania, usa
+2197," $ 13,600.00 ",ford,fusion,2019,clean vehicle,32154,gray,north carolina, usa
+2198," $ 55,000.00 ",ford,srw,2018,clean vehicle,37245,black,pennsylvania, usa
+2199," $ 13,800.00 ",ford,fusion,2019,clean vehicle,29345,white,north carolina, usa
+2200," $ 56,000.00 ",ford,srw,2018,clean vehicle,25371,black,pennsylvania, usa
+2201," $ 13,800.00 ",ford,fusion,2019,clean vehicle,30054,silver,north carolina, usa
+2202," $ 45,800.00 ",ford,srw,2018,clean vehicle,11173,white,pennsylvania, usa
+2203," $ 13,800.00 ",ford,fusion,2019,clean vehicle,30902,no_color,north carolina, usa
+2204," $ 5,500.00 ",nissan,sentra,2018,clean vehicle,31231,silver,north carolina, usa
+2205," $ 14,400.00 ",nissan,altima,2020,clean vehicle,10728,gray,arizona, usa
+2206," $ 11,450.00 ",nissan,sport,2018,clean vehicle,35374,white,florida, usa
+2207," $ 11,000.00 ",nissan,sport,2018,clean vehicle,36715,black,florida, usa
+2208," $ 11,450.00 ",nissan,sport,2018,clean vehicle,33437,red,florida, usa
+2209," $ 11,000.00 ",nissan,sport,2018,clean vehicle,36788,black,florida, usa
+2210," $ 11,200.00 ",nissan,sport,2018,clean vehicle,35491,black,florida, usa
+2211," $ 11,400.00 ",nissan,sport,2018,clean vehicle,33644,black,florida, usa
+2212," $ 11,450.00 ",nissan,sport,2018,clean vehicle,35831,gray,florida, usa
+2213," $ 11,050.00 ",nissan,sport,2018,clean vehicle,35050,gray,florida, usa
+2214," $ 11,400.00 ",nissan,sport,2018,clean vehicle,34924,gray,florida, usa
+2215," $ 11,050.00 ",nissan,sport,2018,clean vehicle,34962,silver,florida, usa
+2216," $ 10,850.00 ",nissan,sport,2018,clean vehicle,39985,gray,florida, usa
+2217," $ 10,900.00 ",nissan,sport,2018,clean vehicle,38816,red,florida, usa
+2218," $ 10,450.00 ",nissan,sport,2018,clean vehicle,41579,red,florida, usa
+2219," $ 10,800.00 ",nissan,sport,2018,clean vehicle,40455,gray,florida, usa
+2220," $ 10,850.00 ",nissan,sport,2018,clean vehicle,39996,white,florida, usa
+2221," $ 10,800.00 ",nissan,sport,2018,clean vehicle,41077,black,florida, usa
+2222," $ 10,850.00 ",nissan,sport,2018,clean vehicle,39183,gray,florida, usa
+2223," $ 10,800.00 ",nissan,sport,2018,clean vehicle,40478,black,florida, usa
+2224," $ 10,900.00 ",nissan,sport,2018,clean vehicle,38806,white,florida, usa
+2225," $ 10,400.00 ",nissan,sport,2018,clean vehicle,45331,blue,florida, usa
+2226," $ 10,500.00 ",nissan,sport,2018,clean vehicle,43531,blue,florida, usa
+2227," $ 10,800.00 ",nissan,sport,2018,clean vehicle,41033,silver,florida, usa
+2228," $ 10,800.00 ",nissan,sport,2018,clean vehicle,40332,gray,florida, usa
+2229," $ 11,200.00 ",nissan,frontier,2019,clean vehicle,22319,silver,arizona, usa
+2230," $ 11,100.00 ",nissan,rogue,2019,clean vehicle,22305,blue,arizona, usa
+2231," $ 12,200.00 ",nissan,maxima,2019,clean vehicle,36996,black,arizona, usa
+2232," $ 4,000.00 ",nissan,sentra,2019,clean vehicle,1,black,arizona, usa
+2233," $ 9,000.00 ",nissan,versa,2019,clean vehicle,27611,gray,arizona, usa
+2234," $ 14,900.00 ",nissan,rogue,2019,clean vehicle,26516,silver,arizona, usa
+2235," $ 4,600.00 ",nissan,rogue,2019,clean vehicle,31397,blue,arizona, usa
+2236," $ 6,400.00 ",nissan,versa,2019,clean vehicle,18300,red,arizona, usa
+2237," $ 10,400.00 ",nissan,note,2019,clean vehicle,26743,white,arizona, usa
+2238," $ 7,800.00 ",nissan,versa,2019,clean vehicle,15832,black,arizona, usa
+2239," $ 12,300.00 ",nissan,sport,2019,clean vehicle,31939,white,arizona, usa
+2240," $ 10,900.00 ",nissan,sentra,2019,clean vehicle,31037,gray,arizona, usa
+2241," $ 8,500.00 ",nissan,versa,2019,clean vehicle,22521,white,arizona, usa
+2242," $ 7,300.00 ",nissan,versa,2019,clean vehicle,31335,white,arizona, usa
+2243," $ 5,900.00 ",nissan,versa,2019,clean vehicle,28315,red,arizona, usa
+2244," $ 20,000.00 ",nissan,armada,2017,clean vehicle,83437,white,texas, usa
+2245," $ 11,200.00 ",nissan,altima,2018,clean vehicle,42250,blue,wisconsin, usa
+2246," $ 14,400.00 ",nissan,rogue,2018,clean vehicle,45732,black,wisconsin, usa
+2247," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,49185,white,wisconsin, usa
+2248," $ 13,400.00 ",nissan,rogue,2017,clean vehicle,45826,silver,wisconsin, usa
+2249," $ 12,500.00 ",nissan,door,2017,clean vehicle,36844,white,wisconsin, usa
+2250," $ 6,500.00 ",nissan,door,2013,clean vehicle,104343,gray,illinois, usa
+2251," $ 19,800.00 ",nissan,pathfinder,2018,clean vehicle,34138,white,florida, usa
+2252," $ 8,800.00 ",nissan,versa,2018,clean vehicle,34761,white,florida, usa
+2253," $ 12,800.00 ",nissan,rogue,2018,clean vehicle,32656,blue,florida, usa
+2254," $ 8,800.00 ",nissan,versa,2018,clean vehicle,34837,red,florida, usa
+2255," $ 3,500.00 ",nissan,altima,2019,clean vehicle,30099,white,missouri, usa
+2256, $ 750.00 ,nissan,sentra,2018,clean vehicle,37088,gray,missouri, usa
+2257," $ 10,800.00 ",nissan,door,2017,clean vehicle,41729,blue,florida, usa
+2258," $ 22,300.00 ",nissan,titan,2017,clean vehicle,17195,white,texas, usa
+2259," $ 8,300.00 ",nissan,sedan,2018,clean vehicle,43064,gray,california, usa
+2260," $ 8,300.00 ",nissan,sedan,2018,clean vehicle,47510,gray,california, usa
+2261," $ 8,000.00 ",nissan,sedan,2018,clean vehicle,52571,gray,california, usa
+2262," $ 15,200.00 ",nissan,frontier,2018,clean vehicle,12129,black,alabama, usa
+2263," $ 6,700.00 ",nissan,sedan,2017,clean vehicle,62280,white,california, usa
+2264," $ 7,500.00 ",nissan,door,2017,clean vehicle,74859,gray,connecticut, usa
+2265," $ 10,500.00 ",nissan,door,2017,clean vehicle,59508,black,connecticut, usa
+2266," $ 8,400.00 ",nissan,juke,2017,clean vehicle,58529,white,connecticut, usa
+2267," $ 7,000.00 ",nissan,door,2015,salvage insurance,24396,black,florida, usa
+2268," $ 25,500.00 ",nissan,armada,2020,clean vehicle,10317,black,california, usa
+2269," $ 4,100.00 ",nissan,door,2017,salvage insurance,37619,black,florida, usa
+2270," $ 13,900.00 ",nissan,altima,2020,clean vehicle,15160,black,california, usa
+2271," $ 1,900.00 ",nissan,door,2015,salvage insurance,91898,black,florida, usa
+2272," $ 14,700.00 ",nissan,pathfinder,2017,clean vehicle,31198,white,connecticut, usa
+2273," $ 1,900.00 ",nissan,door,2013,salvage insurance,144015,blue,ohio, usa
+2274," $ 18,800.00 ",nissan,titan,2017,clean vehicle,15621,white,missouri, usa
+2275," $ 7,800.00 ",nissan,versa,2018,clean vehicle,54815,red,california, usa
+2276," $ 13,500.00 ",nissan,door,2016,clean vehicle,53011,red,louisiana, usa
+2277," $ 8,000.00 ",nissan,versa,2018,clean vehicle,56255,silver,california, usa
+2278," $ 3,300.00 ",nissan,door,2013,clean vehicle,100225,gray,louisiana, usa
+2279," $ 7,200.00 ",nissan,sentra,2017,clean vehicle,54117,silver,connecticut, usa
+2280," $ 8,000.00 ",nissan,door,2017,clean vehicle,54119,gray,california, usa
+2281," $ 1,280.00 ",nissan,door,2012,salvage insurance,162176,black,indiana, usa
+2282," $ 14,000.00 ",nissan,rogue,2018,clean vehicle,37655,white,florida, usa
+2283," $ 3,500.00 ",nissan,door,2015,clean vehicle,101178,gray,california, usa
+2284, $ 600.00 ,nissan,door,2012,salvage insurance,206142,silver,kansas, usa
+2285," $ 12,500.00 ",nissan,sport,2018,clean vehicle,43187,gray,california, usa
+2286," $ 5,800.00 ",nissan,door,2013,salvage insurance,105590,gray,texas, usa
+2287," $ 8,000.00 ",nissan,versa,2018,clean vehicle,53903,gray,california, usa
+2288," $ 2,200.00 ",nissan,door,2015,salvage insurance,73382,tan,texas, usa
+2289," $ 8,300.00 ",nissan,versa,2018,clean vehicle,48977,white,california, usa
+2290," $ 7,500.00 ",nissan,door,2016,clean vehicle,77504,blue,missouri, usa
+2291," $ 8,000.00 ",nissan,versa,2018,clean vehicle,50871,blue,california, usa
+2292," $ 3,500.00 ",nissan,door,2012,clean vehicle,107734,silver,missouri, usa
+2293," $ 8,000.00 ",nissan,versa,2018,clean vehicle,53098,white,california, usa
+2294," $ 2,000.00 ",nissan,door,2012,salvage insurance,159990,burgundy,oklahoma, usa
+2295," $ 7,800.00 ",nissan,versa,2018,clean vehicle,51552,red,california, usa
+2296," $ 8,000.00 ",nissan,versa,2018,clean vehicle,54692,white,california, usa
+2297," $ 18,500.00 ",nissan,frontier,2019,clean vehicle,18611,white,california, usa
+2298," $ 8,000.00 ",nissan,versa,2018,clean vehicle,51654,blue,california, usa
+2299," $ 18,300.00 ",nissan,frontier,2019,clean vehicle,24046,white,california, usa
+2300," $ 7,500.00 ",nissan,versa,2018,clean vehicle,65184,red,california, usa
+2301," $ 29,800.00 ",nissan,armada,2019,clean vehicle,37398,blue,california, usa
+2302," $ 21,100.00 ",nissan,rogue,2020,clean vehicle,19597,silver,south carolina, usa
+2303," $ 16,200.00 ",nissan,rogue,2019,clean vehicle,34122,silver,california, usa
+2304," $ 6,998.00 ",nissan,doors,2015,clean vehicle,43651,super black,vermont, usa
+2305," $ 14,700.00 ",nissan,rogue,2020,clean vehicle,15387,gray,pennsylvania, usa
+2306," $ 19,000.00 ",nissan,cargo,2020,clean vehicle,264,black,california, usa
+2307," $ 7,500.00 ",nissan,door,2016,clean vehicle,58126,black,texas, usa
+2308," $ 7,998.00 ",nissan,doors,2015,clean vehicle,62921,cayenne red,vermont, usa
+2309," $ 10,999.00 ",nissan,doors,2015,clean vehicle,43279,super black,massachusetts, usa
+2310," $ 2,900.00 ",nissan,door,2012,salvage insurance,117844,gray,north carolina, usa
+2311," $ 8,495.00 ",nissan,doors,2015,clean vehicle,45043,morningsky blue,new hampshire, usa
+2312," $ 19,925.00 ",nissan,murano,2016,clean vehicle,42837,gray,alabama, usa
+2313," $ 9,500.00 ",nissan,sentra,2018,clean vehicle,42782,black,new jersey, usa
+2314," $ 12,750.00 ",nissan,doors,2015,clean vehicle,24629,pearl white,massachusetts, usa
+2315," $ 22,800.00 ",nissan,door,2015,clean vehicle,35902,blue,alabama, usa
+2316," $ 11,621.00 ",nissan,doors,2015,clean vehicle,12840,glacier white,rhode island, usa
+2317," $ 11,590.00 ",nissan,doors,2015,clean vehicle,63933,cayenne red,new hampshire, usa
+2318," $ 4,700.00 ",nissan,door,2012,clean vehicle,100079,black,alabama, usa
+2319," $ 11,390.00 ",nissan,doors,2015,clean vehicle,37953,super black,new york, usa
+2320," $ 14,500.00 ",nissan,rogue,2017,clean vehicle,8677,blue,tennessee, usa
+2321," $ 12,000.00 ",nissan,rogue,2020,clean vehicle,11583,blue,ohio, usa
+2322," $ 15,000.00 ",nissan,altima,2020,clean vehicle,14320,blue,ohio, usa
+2323," $ 7,500.00 ",nissan,door,2016,clean vehicle,19723,black,georgia, usa
+2324," $ 28,000.00 ",nissan,armada,2018,clean vehicle,29554,gray,pennsylvania, usa
+2325," $ 17,500.00 ",nissan,maxima,2018,clean vehicle,39309,black,pennsylvania, usa
+2326," $ 18,000.00 ",nissan,maxima,2018,clean vehicle,34951,silver,pennsylvania, usa
+2327," $ 13,200.00 ",nissan,sport,2018,clean vehicle,35870,black,pennsylvania, usa
+2328," $ 17,000.00 ",nissan,altima,2018,clean vehicle,44423,gray,texas, usa
+2329," $ 6,700.00 ",nissan,xterra,2012,clean vehicle,92982,black,georgia, usa
+2330," $ 23,300.00 ",nissan,murano,2018,clean vehicle,36844,white,texas, usa
+2331," $ 26,800.00 ",nissan,titan,2018,clean vehicle,33605,white,new mexico, usa
+2332," $ 18,200.00 ",nissan,sport,2018,clean vehicle,28009,black,tennessee, usa
+2333," $ 18,700.00 ",nissan,rogue,2018,clean vehicle,41366,silver,virginia, usa
+2334," $ 12,900.00 ",nissan,door,2016,clean vehicle,98354,red,new jersey, usa
+2335," $ 16,000.00 ",nissan,rogue,2018,clean vehicle,39598,no_color,virginia, usa
+2336," $ 19,400.00 ",nissan,rogue,2020,clean vehicle,21009,black,minnesota, usa
+2337," $ 10,900.00 ",nissan,sentra,2018,clean vehicle,28880,silver,tennessee, usa
+2338," $ 15,800.00 ",nissan,sport,2018,clean vehicle,28626,black,virginia, usa
+2339," $ 19,800.00 ",nissan,rogue,2020,clean vehicle,14850,silver,minnesota, usa
+2340," $ 19,000.00 ",nissan,rogue,2018,clean vehicle,41096,black,virginia, usa
+2341," $ 18,000.00 ",nissan,rogue,2020,clean vehicle,12748,black,minnesota, usa
+2342," $ 19,800.00 ",nissan,rogue,2020,clean vehicle,14531,blue,minnesota, usa
+2343," $ 19,700.00 ",nissan,rogue,2020,clean vehicle,15931,black,minnesota, usa
+2344," $ 20,100.00 ",nissan,rogue,2020,clean vehicle,10875,blue,minnesota, usa
+2345," $ 19,700.00 ",nissan,frontier,2019,clean vehicle,31172,silver,minnesota, usa
+2346," $ 23,400.00 ",nissan,frontier,2019,clean vehicle,16248,white,minnesota, usa
+2347," $ 23,300.00 ",nissan,frontier,2019,clean vehicle,18137,black,minnesota, usa
+2348," $ 17,500.00 ",nissan,altima,2019,clean vehicle,25664,black,minnesota, usa
+2349," $ 17,100.00 ",nissan,altima,2019,clean vehicle,31026,black,minnesota, usa
+2350," $ 15,800.00 ",nissan,altima,2019,clean vehicle,41287,silver,minnesota, usa
+2351," $ 13,600.00 ",nissan,altima,2019,clean vehicle,43612,black,minnesota, usa
+2352," $ 14,400.00 ",nissan,altima,2019,clean vehicle,29545,black,minnesota, usa
+2353," $ 19,800.00 ",nissan,frontier,2019,clean vehicle,24303,silver,minnesota, usa
+2354," $ 17,200.00 ",nissan,altima,2019,clean vehicle,29661,gray,minnesota, usa
+2355," $ 20,300.00 ",nissan,frontier,2019,clean vehicle,18857,silver,minnesota, usa
+2356," $ 20,500.00 ",nissan,frontier,2019,clean vehicle,14470,gray,minnesota, usa
+2357," $ 16,500.00 ",nissan,altima,2019,clean vehicle,42364,silver,minnesota, usa
+2358," $ 16,000.00 ",nissan,altima,2019,clean vehicle,37108,black,minnesota, usa
+2359," $ 14,600.00 ",nissan,altima,2019,clean vehicle,26432,blue,minnesota, usa
+2360," $ 16,300.00 ",nissan,rogue,2019,clean vehicle,24174,white,minnesota, usa
+2361," $ 15,400.00 ",nissan,sport,2019,clean vehicle,30756,silver,minnesota, usa
+2362," $ 15,800.00 ",nissan,rogue,2019,clean vehicle,32473,blue,minnesota, usa
+2363," $ 15,800.00 ",nissan,sport,2019,clean vehicle,22947,blue,minnesota, usa
+2364," $ 21,400.00 ",nissan,murano,2018,clean vehicle,17127,white,georgia, usa
+2365," $ 15,300.00 ",nissan,kicks,2019,clean vehicle,20793,gray,minnesota, usa
+2366," $ 20,100.00 ",nissan,pathfinder,2019,clean vehicle,32519,black,minnesota, usa
+2367," $ 11,300.00 ",nissan,sentra,2019,clean vehicle,26930,gray,minnesota, usa
+2368," $ 10,700.00 ",nissan,sentra,2019,clean vehicle,40839,black,minnesota, usa
+2369," $ 16,000.00 ",nissan,rogue,2018,clean vehicle,44732,no_color,south carolina, usa
+2370," $ 16,600.00 ",nissan,rogue,2019,clean vehicle,19292,white,minnesota, usa
+2371," $ 15,800.00 ",nissan,sport,2019,clean vehicle,24155,gray,minnesota, usa
+2372," $ 11,600.00 ",nissan,sentra,2019,clean vehicle,33369,black,minnesota, usa
+2373," $ 15,000.00 ",nissan,rogue,2017,clean vehicle,28918,red,virginia, usa
+2374," $ 17,600.00 ",nissan,rogue,2019,clean vehicle,21623,blue,minnesota, usa
+2375," $ 36,300.00 ",nissan,xd,2017,clean vehicle,16224,white,virginia, usa
+2376," $ 15,600.00 ",nissan,sport,2019,clean vehicle,26406,silver,minnesota, usa
+2377," $ 14,000.00 ",nissan,rogue,2017,clean vehicle,27790,green,virginia, usa
+2378," $ 16,600.00 ",nissan,rogue,2019,clean vehicle,19182,black,minnesota, usa
+2379," $ 12,600.00 ",nissan,sentra,2017,clean vehicle,11837,gray,tennessee, usa
+2380," $ 20,900.00 ",nissan,pathfinder,2019,clean vehicle,21774,black,minnesota, usa
+2381," $ 12,700.00 ",nissan,door,2017,clean vehicle,17738,black,tennessee, usa
+2382," $ 15,600.00 ",nissan,sport,2019,clean vehicle,27206,white,minnesota, usa
+2383," $ 18,900.00 ",nissan,rogue,2019,clean vehicle,20508,silver,minnesota, usa
+2384," $ 15,700.00 ",nissan,sport,2019,clean vehicle,24987,blue,minnesota, usa
+2385," $ 21,900.00 ",nissan,pathfinder,2019,clean vehicle,21273,gray,minnesota, usa
+2386," $ 21,700.00 ",nissan,pathfinder,2019,clean vehicle,23863,black,minnesota, usa
+2387," $ 14,600.00 ",nissan,rogue,2016,clean vehicle,31566,gray,virginia, usa
+2388," $ 12,000.00 ",nissan,sentra,2019,clean vehicle,25261,gray,minnesota, usa
+2389," $ 21,000.00 ",nissan,pathfinder,2019,clean vehicle,20628,silver,minnesota, usa
+2390," $ 12,500.00 ",nissan,door,2017,clean vehicle,48765,blue,pennsylvania, usa
+2391," $ 15,900.00 ",nissan,rogue,2019,clean vehicle,30645,silver,minnesota, usa
+2392," $ 11,800.00 ",nissan,door,2017,clean vehicle,60158,red,pennsylvania, usa
+2393," $ 9,900.00 ",nissan,versa,2019,clean vehicle,39985,blue,minnesota, usa
+2394," $ 10,600.00 ",nissan,sentra,2018,clean vehicle,39208,black,minnesota, usa
+2395," $ 10,100.00 ",nissan,sentra,2018,clean vehicle,45080,black,minnesota, usa
+2396," $ 13,300.00 ",nissan,sport,2018,clean vehicle,39247,gray,minnesota, usa
+2397," $ 10,100.00 ",nissan,sentra,2018,clean vehicle,46382,white,minnesota, usa
+2398," $ 10,300.00 ",nissan,sentra,2018,clean vehicle,39893,black,minnesota, usa
+2399," $ 10,300.00 ",nissan,sentra,2018,clean vehicle,41203,gray,minnesota, usa
+2400," $ 10,300.00 ",nissan,sentra,2018,clean vehicle,40648,blue,minnesota, usa
+2401," $ 24,000.00 ",nissan,murano,2018,clean vehicle,31551,gray,minnesota, usa
+2402," $ 10,400.00 ",nissan,sentra,2018,clean vehicle,38761,gray,minnesota, usa
+2403," $ 10,200.00 ",nissan,sentra,2018,clean vehicle,42838,gray,minnesota, usa
+2404," $ 9,500.00 ",nissan,versa,2018,clean vehicle,41557,blue,minnesota, usa
+2405," $ 10,500.00 ",nissan,sentra,2018,clean vehicle,41136,black,minnesota, usa
+2406," $ 10,500.00 ",nissan,sentra,2018,clean vehicle,41141,silver,minnesota, usa
+2407," $ 3,500.00 ",nissan,door,2016,clean vehicle,115716,blue,pennsylvania, usa
+2408," $ 9,300.00 ",nissan,versa,2018,clean vehicle,52260,black,minnesota, usa
+2409," $ 14,100.00 ",nissan,rogue,2016,clean vehicle,22041,silver,pennsylvania, usa
+2410," $ 2,425.00 ",nissan,door,2012,salvage insurance,161836,black,tennessee, usa
+2411, $ 925.00 ,nissan,door,2012,salvage insurance,83720,silver,tennessee, usa
+2412," $ 11,000.00 ",nissan,rogue,2016,clean vehicle,37605,black,pennsylvania, usa
+2413," $ 11,000.00 ",nissan,rogue,2016,clean vehicle,63738,green,pennsylvania, usa
+2414," $ 2,100.00 ",nissan,door,2013,salvage insurance,155704,silver,tennessee, usa
+2415, $ 800.00 ,nissan,door,2012,salvage insurance,234792,black,florida, usa
+2416," $ 20,400.00 ",nissan,pathfinder,2018,clean vehicle,24143,silver,south carolina, usa
+2417, $ 375.00 ,nissan,door,2017,salvage insurance,1,red,north carolina, usa
+2418," $ 3,000.00 ",nissan,door,2015,clean vehicle,132655,beige,pennsylvania, usa
+2419," $ 15,100.00 ",nissan,rogue,2017,clean vehicle,28079,gray,south carolina, usa
+2420," $ 4,000.00 ",nissan,door,2015,salvage insurance,74906,silver,north carolina, usa
+2421," $ 19,500.00 ",nissan,door,2017,clean vehicle,53155,gray,south carolina, usa
+2422," $ 22,600.00 ",nissan,titan,2017,clean vehicle,94258,gray,south carolina, usa
+2423," $ 6,500.00 ",nissan,door,2014,clean vehicle,65620,white,pennsylvania, usa
+2424," $ 11,800.00 ",nissan,door,2012,clean vehicle,92878,gray,pennsylvania, usa
+2425," $ 20,500.00 ",nissan,pathfinder,2017,clean vehicle,25918,white,missouri, usa
+2426," $ 14,200.00 ",nissan,rogue,2018,clean vehicle,37830,black,ohio, usa
+2427," $ 22,000.00 ",nissan,frontier,2018,clean vehicle,13875,white,ohio, usa
+2428," $ 16,200.00 ",nissan,frontier,2018,clean vehicle,6024,silver,ohio, usa
+2429," $ 4,800.00 ",nissan,door,2016,salvage insurance,76789,gray,texas, usa
+2430," $ 16,000.00 ",nissan,sport,2018,clean vehicle,30409,black,ohio, usa
+2431," $ 14,300.00 ",nissan,sport,2018,clean vehicle,44864,gray,ohio, usa
+2432," $ 16,800.00 ",nissan,pathfinder,2019,clean vehicle,42397,silver,florida, usa
+2433," $ 11,900.00 ",nissan,sentra,2018,clean vehicle,16778,gray,ohio, usa
+2434," $ 3,000.00 ",nissan,door,2015,salvage insurance,99767,gray,south carolina, usa
+2435," $ 15,000.00 ",nissan,rogue,2019,clean vehicle,34692,gray,florida, usa
+2436," $ 15,200.00 ",nissan,rogue,2019,clean vehicle,30721,gray,florida, usa
+2437," $ 18,000.00 ",nissan,door,2017,clean vehicle,53376,black,ohio, usa
+2438," $ 22,700.00 ",nissan,nvp,2016,clean vehicle,21282,white,ohio, usa
+2439," $ 3,800.00 ",nissan,door,2015,clean vehicle,81699,blue,texas, usa
+2440," $ 5,475.00 ",nissan,door,2018,salvage insurance,33048,black,connecticut, usa
+2441," $ 11,400.00 ",nissan,sentra,2018,clean vehicle,10372,blue,illinois, usa
+2442," $ 28,100.00 ",nissan,pathfinder,2018,clean vehicle,8889,silver,illinois, usa
+2443," $ 3,500.00 ",nissan,sentra,2017,clean vehicle,127780,gray,illinois, usa
+2444," $ 15,200.00 ",nissan,murano,2016,clean vehicle,59640,orange,illinois, usa
+2445," $ 1,950.00 ",nissan,door,2015,salvage insurance,83975,blue,california, usa
+2446," $ 13,400.00 ",nissan,rogue,2016,clean vehicle,46178,black,illinois, usa
+2447," $ 12,500.00 ",nissan,altima,2018,clean vehicle,34460,gray,florida, usa
+2448," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,30594,black,florida, usa
+2449," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,39817,silver,florida, usa
+2450," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,40419,black,florida, usa
+2451," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,35493,black,florida, usa
+2452," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,37073,gray,florida, usa
+2453," $ 1,500.00 ",nissan,door,2013,salvage insurance,98384,black,maryland, usa
+2454," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,34640,white,florida, usa
+2455," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,38760,white,florida, usa
+2456," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,34841,black,florida, usa
+2457," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,35065,gray,florida, usa
+2458," $ 12,400.00 ",nissan,altima,2018,clean vehicle,37741,black,florida, usa
+2459," $ 13,000.00 ",nissan,altima,2018,clean vehicle,27488,gray,florida, usa
+2460," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,37452,gray,florida, usa
+2461," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,39797,black,florida, usa
+2462," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,36714,black,florida, usa
+2463," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,36207,black,florida, usa
+2464," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,38563,black,florida, usa
+2465," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,39885,silver,florida, usa
+2466," $ 12,100.00 ",nissan,altima,2018,clean vehicle,41852,silver,florida, usa
+2467," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,39454,silver,florida, usa
+2468," $ 16,500.00 ",nissan,pathfinder,2018,clean vehicle,40203,blue,florida, usa
+2469," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,34547,white,florida, usa
+2470," $ 3,700.00 ",nissan,door,2015,clean vehicle,75858,silver,illinois, usa
+2471," $ 18,800.00 ",nissan,pathfinder,2019,clean vehicle,31123,white,north carolina, usa
+2472," $ 9,200.00 ",nissan,versa,2018,clean vehicle,33808,black,florida, usa
+2473," $ 30,100.00 ",nissan,titan,2019,clean vehicle,30599,black,north carolina, usa
+2474," $ 9,200.00 ",nissan,versa,2018,clean vehicle,33931,black,florida, usa
+2475," $ 11,100.00 ",nissan,sentra,2019,clean vehicle,40359,black,north carolina, usa
+2476," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,44313,white,florida, usa
+2477," $ 9,100.00 ",nissan,versa,2018,clean vehicle,33078,black,florida, usa
+2478," $ 22,800.00 ",nissan,frontier,2019,clean vehicle,24320,black,illinois, usa
+2479," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,42502,black,florida, usa
+2480," $ 12,600.00 ",nissan,altima,2019,clean vehicle,33497,gray,california, usa
+2481," $ 9,200.00 ",nissan,versa,2018,clean vehicle,39577,silver,florida, usa
+2482," $ 12,100.00 ",nissan,altima,2019,clean vehicle,36974,gray,california, usa
+2483," $ 9,200.00 ",nissan,versa,2018,clean vehicle,41220,black,florida, usa
+2484," $ 2,300.00 ",nissan,frontier,2019,clean vehicle,1,silver,california, usa
+2485," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,41539,black,florida, usa
+2486," $ 9,500.00 ",nissan,sentra,2019,clean vehicle,19646,black,california, usa
+2487," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,39924,white,florida, usa
+2488," $ 1,700.00 ",nissan,note,2019,clean vehicle,33279,red,california, usa
+2489," $ 13,900.00 ",nissan,rogue,2018,clean vehicle,40259,gray,florida, usa
+2490," $ 10,400.00 ",nissan,sentra,2019,clean vehicle,25264,blue,california, usa
+2491," $ 9,200.00 ",nissan,versa,2018,clean vehicle,35677,black,florida, usa
+2492," $ 7,400.00 ",nissan,versa,2019,clean vehicle,35511,black,california, usa
+2493," $ 9,200.00 ",nissan,versa,2018,clean vehicle,33027,black,florida, usa
+2494," $ 7,800.00 ",nissan,versa,2019,clean vehicle,23609,red,california, usa
+2495," $ 9,200.00 ",nissan,versa,2018,clean vehicle,34553,silver,florida, usa
+2496," $ 9,200.00 ",nissan,versa,2018,clean vehicle,31594,silver,florida, usa
+2497," $ 9,200.00 ",nissan,versa,2018,clean vehicle,32557,black,florida, usa
+2498," $ 9,200.00 ",nissan,versa,2018,clean vehicle,31371,silver,florida, usa
