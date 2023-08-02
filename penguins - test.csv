@@ -1,0 +1,11 @@
+studyName,Sample Number,Species,Region,Island,Stage,Individual ID,Clutch Completion,Date Egg,Culmen Length (mm),Culmen Depth (mm),Flipper Length (mm),Body Mass (g),Sex,Delta 15 N (o/oo),Delta 13 C (o/oo),Comments
+PAL0910,148,Adelie Penguin (Pygoscelis adeliae),Anvers,Dream,"Adult, 1 Egg Stage",N83A2,Yes,11/13/09,36.6,18.4,184,3475,FEMALE,8.68744,-25.8306,
+PAL0910,149,Adelie Penguin (Pygoscelis adeliae),Anvers,Dream,"Adult, 1 Egg Stage",N84A1,Yes,11/17/09,36,17.8,195,3450,FEMALE,8.94332,-25.79189,
+PAL0910,150,Adelie Penguin (Pygoscelis adeliae),Anvers,Dream,"Adult, 1 Egg Stage",N84A2,Yes,11/17/09,37.8,18.1,193,3750,MALE,8.97533,-26.03495,
+PAL0910,151,Adelie Penguin (Pygoscelis adeliae),Anvers,Dream,"Adult, 1 Egg Stage",N85A1,Yes,11/17/09,36,17.1,187,3700,FEMALE,8.93465,-26.07081,
+PAL0910,152,Adelie Penguin (Pygoscelis adeliae),Anvers,Dream,"Adult, 1 Egg Stage",N85A2,Yes,11/17/09,41.5,18.5,201,4000,MALE,8.8964,-26.06967,
+PAL0708,1,Chinstrap penguin (Pygoscelis antarctica),Anvers,Dream,"Adult, 1 Egg Stage",N61A1,No,11/19/07,46.5,17.9,192,3500,FEMALE,9.03935,-24.30229,
+PAL0708,2,Chinstrap penguin (Pygoscelis antarctica),Anvers,Dream,"Adult, 1 Egg Stage",N61A2,No,11/19/07,50,19.5,196,3900,MALE,8.92069,-24.23592,
+PAL0708,3,Chinstrap penguin (Pygoscelis antarctica),Anvers,Dream,"Adult, 1 Egg Stage",N62A1,Yes,11/26/07,51.3,19.2,193,3650,MALE,9.29078,-24.7557,
+PAL0708,4,Chinstrap penguin (Pygoscelis antarctica),Anvers,Dream,"Adult, 1 Egg Stage",N62A2,Yes,11/26/07,45.4,18.7,188,3525,FEMALE,8.64701,-24.62717,
+PAL0708,5,Chinstrap penguin (Pygoscelis antarctica),Anvers,Dream,"Adult, 1 Egg Stage",N64A1,Yes,11/21/07,52.7,19.8,197,3725,MALE,9.00642,-24.61867,
