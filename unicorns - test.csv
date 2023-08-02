@@ -1,0 +1,12 @@
+id,Company,val_usd_bi,Industry,Valuation date,founder1,founder2,founder3,founder4,founder5,Country
+0,ByteDance,140,Internet,June 2022,Zhang Yiming,Liang Rubo,,,,China
+1,SpaceX,127,Aerospace,June 2022,Elon Musk,,,,,US
+2,Shein,100,E-commerce,June 2022,Chris Xu,,,,,China
+3,Stripe,50,Financial services,March 2023,Patrick and John Collison,,,,,US
+4,Canva,40,Graphic design,September 2021,Melanie Perkins,Clifford Obrecht,Cameron Adams,,,Australia
+5,Checkout.com,40,Financial technology,June 2022,Guillaume Pousaz,,,,,UK
+6,Instacart,24,Retail,March 2022,Apoorva Mehta,Max Mullen,Brandon Leonardo,,,US
+7,Databricks,38,Software,June 2022,Ali Ghodsi,,,,,US
+8,Revolut,33,Financial technology,June 2022,Nikolay Storonsky,Vlad Yatsenko,,,,UK
+9,Epic Games,31.5,Video games,June 2022,Tim Sweeney,,,,,US
+10,Telegram,30,Internet,January 2021,Nikolai and Pavel Durov,,,,,UK
